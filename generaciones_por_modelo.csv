@@ -1,0 +1,2885 @@
+﻿marca,modelo,clave,generacion,año_min_datos,año_max_datos,filas,niveles_gama,fuente
+1.5,e-Hybrid,1.5|e-hybrid,1,2026,2026,1,1,estimada
+1.5,eTSI,1.5|etsi,1,2024,2026,2,1,estimada
+1.5,"eTSI,","1.5|etsi,",1,2023,2023,1,1,estimada
+1.5,T-MIVEC,1.5|t-mivec,1,2018,2018,1,1,estimada
+1.5,TSI,1.5|tsi,1,2019,2019,1,1,estimada
+1.5,TSI,1.5|tsi,2,2024,2026,2,1,estimada
+Abarth,124 Spider,abarth|124 spider,1,2016,2019,27,1,estimada
+Abarth,500,abarth|500,1,2016,2020,59,3,estimada
+Abarth,500,abarth|500,2,2021,2025,29,2,estimada
+Abarth,500C,abarth|500c,1,2017,2021,11,2,estimada
+Abarth,500e,abarth|500e,1,2023,2025,12,2,estimada
+Abarth,595,abarth|595,1,2016,2020,49,2,estimada
+Abarth,595,abarth|595,2,2021,2024,38,2,estimada
+Abarth,595 Competizione,abarth|595 competizione,1,2016,2020,35,3,estimada
+Abarth,595 Competizione,abarth|595 competizione,2,2021,2023,11,1,estimada
+Abarth,595 Pista,abarth|595 pista,1,2017,2020,4,1,estimada
+Abarth,595 Turismo,abarth|595 turismo,1,2016,2020,16,1,estimada
+Abarth,595 Turismo,abarth|595 turismo,2,2021,2023,10,1,estimada
+Abarth,595C,abarth|595c,1,2016,2020,43,3,estimada
+Abarth,595C,abarth|595c,2,2021,2023,29,3,estimada
+Abarth,600e,abarth|600e,1,2025,2026,10,1,estimada
+Abarth,695,abarth|695,1,2017,2022,13,1,estimada
+Abarth,695,abarth|695,2,2023,2024,16,1,estimada
+Abarth,695C,abarth|695c,1,2017,2019,7,1,estimada
+Abarth,695C,abarth|695c,2,2022,2024,12,1,estimada
+Abarth,Sonstige,abarth|sonstige,1,2025,2025,1,1,sin_dato
+Alfa Romeo,147,alfa romeo|147,1,2001,2005,4,1,estimada
+Alfa Romeo,147,alfa romeo|147,2,2007,2008,2,1,estimada
+Alfa Romeo,155,alfa romeo|155,1,1993,1994,2,2,estimada
+Alfa Romeo,156,alfa romeo|156,1,1998,2004,6,4,estimada
+Alfa Romeo,159,alfa romeo|159,1,2009,2011,6,2,estimada
+Alfa Romeo,166,alfa romeo|166,1,2004,2005,2,1,estimada
+Alfa Romeo,4C,alfa romeo|4c,1,2016,2019,5,1,estimada
+Alfa Romeo,75,alfa romeo|75,1,1991,1991,1,1,estimada
+Alfa Romeo,Brera,alfa romeo|brera,1,2006,2010,2,2,estimada
+Alfa Romeo,Giulia,alfa romeo|giulia,1,2016,2020,48,4,estimada
+Alfa Romeo,Giulia,alfa romeo|giulia,2,2021,2025,99,4,estimada
+Alfa Romeo,Giulia,alfa romeo|giulia,3,2026,2026,19,3,estimada
+Alfa Romeo,Giulietta,alfa romeo|giulietta,1,2010,2014,13,4,estimada
+Alfa Romeo,Giulietta,alfa romeo|giulietta,2,2015,2019,30,4,estimada
+Alfa Romeo,Giulietta,alfa romeo|giulietta,3,2020,2021,6,1,estimada
+Alfa Romeo,GTV,alfa romeo|gtv,1,1995,1995,1,1,estimada
+Alfa Romeo,Junior,alfa romeo|junior,1,2024,2026,138,2,estimada
+Alfa Romeo,MiTo,alfa romeo|mito,1,2008,2012,14,3,estimada
+Alfa Romeo,MiTo,alfa romeo|mito,2,2013,2017,11,3,estimada
+Alfa Romeo,MiTo,alfa romeo|mito,3,2018,2018,2,2,estimada
+Alfa Romeo,Quadrifoglio,alfa romeo|quadrifoglio,1,2024,2024,1,1,estimada
+Alfa Romeo,RZ,alfa romeo|rz,1,1993,1993,1,1,estimada
+Alfa Romeo,Sonstige,alfa romeo|sonstige,1,2024,2026,15,1,sin_dato
+Alfa Romeo,Spider,alfa romeo|spider,1,1990,1993,4,1,estimada
+Alfa Romeo,Spider,alfa romeo|spider,2,1996,1998,4,1,estimada
+Alfa Romeo,Spider,alfa romeo|spider,3,2001,2004,2,2,estimada
+Alfa Romeo,Spider,alfa romeo|spider,4,2007,2008,2,1,estimada
+Alfa Romeo,Stelvio,alfa romeo|stelvio,1,2017,2019,59,4,tabla
+Alfa Romeo,Stelvio,alfa romeo|stelvio,2,2020,2022,63,4,tabla
+Alfa Romeo,Stelvio,alfa romeo|stelvio,3,2023,2026,76,4,tabla
+Alfa Romeo,Tonale,alfa romeo|tonale,1,2022,2026,162,3,estimada
+Alpine,A110,alpine|a110,1,2018,2022,21,1,estimada
+Alpine,A110,alpine|a110,2,2023,2026,37,1,estimada
+Alpine,A290,alpine|a290,1,2025,2026,63,3,estimada
+Alpine,A390,alpine|a390,1,2026,2026,45,2,estimada
+Alpine,A610,alpine|a610,1,1991,1991,2,1,estimada
+Alpine,Alpine A110,alpine|alpine a110,1,2023,2023,1,1,estimada
+Alpine,Sonstige,alpine|sonstige,1,2025,2025,1,1,sin_dato
+Andere,Abarth,andere|abarth,1,2017,2018,3,1,sin_dato
+Andere,Aixam,andere|aixam,1,2004,2023,4,,sin_dato
+Andere,Alfa,andere|alfa,1,2023,2025,5,2,sin_dato
+Andere,Andere,andere|andere,1,1990,2026,3363,15,sin_dato
+Andere,Auto,andere|auto,1,2013,2023,2,,sin_dato
+Andere,Autobianchi,andere|autobianchi,1,1992,1992,1,1,sin_dato
+Andere,Bmw,andere|bmw,1,2023,2025,3,2,sin_dato
+Andere,Buick,andere|buick,1,2008,2008,1,,sin_dato
+Andere,BYD,andere|byd,1,2025,2025,2,2,sin_dato
+Andere,Cadillac,andere|cadillac,1,1995,1995,1,1,sin_dato
+Andere,CITROEN,andere|citroen,1,2025,2025,1,1,sin_dato
+Andere,CUPRA,andere|cupra,1,2020,2024,3,3,sin_dato
+Andere,Dacia,andere|dacia,1,2022,2023,2,1,sin_dato
+Andere,Das,andere|das,1,2007,2007,1,,sin_dato
+Andere,Dodge,andere|dodge,1,2003,2010,8,4,sin_dato
+Andere,DS,andere|ds,1,2024,2024,1,1,sin_dato
+Andere,Fiat,andere|fiat,1,2022,2024,3,2,sin_dato
+Andere,FORD,andere|ford,1,2022,2025,6,2,sin_dato
+Andere,HONDA,andere|honda,1,2022,2022,1,1,sin_dato
+Andere,HYUNDAI,andere|hyundai,1,2023,2023,1,1,sin_dato
+Andere,Infiniti,andere|infiniti,1,2017,2017,1,1,sin_dato
+Andere,Iveco,andere|iveco,1,2011,2017,2,2,sin_dato
+Andere,JDM,andere|jdm,1,2012,2012,1,,sin_dato
+Andere,JEEP,andere|jeep,1,2022,2025,2,2,sin_dato
+Andere,KIA,andere|kia,1,2024,2024,1,1,sin_dato
+Andere,Kinroad,andere|kinroad,1,2008,2008,1,1,sin_dato
+Andere,LANCIA,andere|lancia,1,2023,2023,1,1,sin_dato
+Andere,Land,andere|land,1,2007,2017,4,2,sin_dato
+Andere,Landrover,andere|landrover,1,2016,2019,2,2,sin_dato
+Andere,Lexus,andere|lexus,1,2009,2009,1,1,sin_dato
+Andere,Ligier,andere|ligier,1,1999,2024,6,,sin_dato
+Andere,Lynk,andere|lynk,1,2023,2023,1,1,sin_dato
+Andere,Mahindra,andere|mahindra,1,2019,2023,2,1,sin_dato
+Andere,MAN,andere|man,1,2018,2018,1,1,sin_dato
+Andere,Maserati,andere|maserati,1,2007,2007,1,1,sin_dato
+Andere,Mercedes,andere|mercedes,1,2023,2023,1,1,sin_dato
+Andere,Mercedes-Benz,andere|mercedes-benz,1,2023,2025,4,2,sin_dato
+Andere,MG,andere|mg,1,2021,2026,3,2,sin_dato
+Andere,Microcar,andere|microcar,1,2003,2003,1,,sin_dato
+Andere,Mopedauto,andere|mopedauto,1,2015,2015,1,,sin_dato
+Andere,Opel,andere|opel,1,2022,2026,3,2,sin_dato
+Andere,Peugeot,andere|peugeot,1,2022,2022,1,1,sin_dato
+Andere,Piaggio,andere|piaggio,1,2000,2008,2,1,sin_dato
+Andere,Pontiac,andere|pontiac,1,2009,2009,1,1,sin_dato
+Andere,Porsche,andere|porsche,1,2020,2023,3,2,sin_dato
+Andere,Range,andere|range,1,2007,2018,9,3,sin_dato
+Andere,Renault,andere|renault,1,2022,2025,6,2,sin_dato
+Andere,Saab,andere|saab,1,2001,2001,1,1,sin_dato
+Andere,SKODA,andere|skoda,1,2023,2024,2,2,sin_dato
+Andere,SsangYong,andere|ssangyong,1,2016,2016,1,1,sin_dato
+Andere,Starray,andere|starray,1,2026,2026,1,1,sin_dato
+Andere,SUCHE,andere|suche,1,2012,2022,3,1,sin_dato
+Andere,SUZUKI,andere|suzuki,1,2022,2022,1,1,sin_dato
+Andere,Top,andere|top,1,2023,2023,1,,sin_dato
+Andere,TOYOTA,andere|toyota,1,2021,2024,8,2,sin_dato
+Andere,Verkaufe,andere|verkaufe,1,2009,2009,1,,sin_dato
+Andere,VOLKSWAGEN,andere|volkswagen,1,2022,2024,5,2,sin_dato
+Andere,zotye,andere|zotye,1,2018,2018,1,1,sin_dato
+Andere,Škoda,andere|škoda,1,2022,2022,1,1,sin_dato
+Audi,80,audi|80,1,1993,1993,1,1,estimada
+Audi,A1,audi|a1,1,2012,2018,16,2,estimada
+Audi,A1,audi|a1,2,2019,2023,15,4,estimada
+Audi,A1,audi|a1,3,2024,2026,32,4,estimada
+Audi,A2,audi|a2,1,2001,2005,3,1,estimada
+Audi,A3,audi|a3,1,2002,2009,4,1,estimada
+Audi,A3,audi|a3,2,2011,2015,10,2,estimada
+Audi,A3,audi|a3,3,2016,2020,5,2,estimada
+Audi,A3,audi|a3,4,2021,2025,38,4,estimada
+Audi,A3,audi|a3,5,2026,2026,11,3,estimada
+Audi,A4,audi|a4,1,1999,2004,5,3,estimada
+Audi,A4,audi|a4,2,2005,2007,5,4,estimada
+Audi,A4,audi|a4,3,2010,2014,3,2,estimada
+Audi,A4,audi|a4,4,2016,2019,15,4,estimada
+Audi,A4,audi|a4,5,2020,2025,36,3,estimada
+Audi,A4 allroad,audi|a4 allroad,1,2018,2022,4,3,estimada
+Audi,A5,audi|a5,1,2009,2016,13,3,estimada
+Audi,A5,audi|a5,2,2017,2021,11,3,estimada
+Audi,A5,audi|a5,3,2022,2026,52,4,estimada
+Audi,A6,audi|a6,1,2006,2012,7,3,estimada
+Audi,A6,audi|a6,2,2013,2017,7,3,estimada
+Audi,A6,audi|a6,3,2018,2022,23,4,estimada
+Audi,A6,audi|a6,4,2023,2026,41,4,estimada
+Audi,A6 allroad,audi|a6 allroad,1,2007,2007,1,1,estimada
+Audi,A6 allroad,audi|a6 allroad,2,2013,2016,3,2,estimada
+Audi,A6 allroad,audi|a6 allroad,3,2018,2022,4,2,estimada
+Audi,A6 allroad,audi|a6 allroad,4,2023,2023,2,2,estimada
+Audi,A6 e-tron,audi|a6 e-tron,1,2025,2026,19,2,estimada
+Audi,A7,audi|a7,1,2013,2013,1,1,estimada
+Audi,A7,audi|a7,2,2018,2020,3,1,estimada
+Audi,A7,audi|a7,3,2023,2023,2,2,estimada
+Audi,A8,audi|a8,1,2006,2010,2,1,estimada
+Audi,A8,audi|a8,4,2022,2025,7,2,estimada
+Audi,Cabriolet,audi|cabriolet,1,2016,2016,1,1,estimada
+Audi,e-tron,audi|e-tron,1,2021,2025,24,4,estimada
+Audi,e-tron GT,audi|e-tron gt,1,2021,2024,2,1,estimada
+Audi,Q2,audi|q2,1,2018,2022,6,2,estimada
+Audi,Q2,audi|q2,2,2023,2026,28,3,estimada
+Audi,Q3,audi|q3,1,2013,2017,11,2,estimada
+Audi,Q3,audi|q3,2,2019,2022,15,3,estimada
+Audi,Q3,audi|q3,3,2023,2026,31,3,estimada
+Audi,Q4 e-tron,audi|q4 e-tron,1,2021,2026,27,2,estimada
+Audi,Q5,audi|q5,1,2010,2015,6,2,estimada
+Audi,Q5,audi|q5,2,2020,2020,3,1,estimada
+Audi,Q5,audi|q5,3,2021,2025,37,4,estimada
+Audi,Q5,audi|q5,4,2026,2026,9,2,estimada
+Audi,Q6 e-tron,audi|q6 e-tron,1,2025,2026,4,3,estimada
+Audi,Q7,audi|q7,1,2011,2017,3,2,estimada
+Audi,Q7,audi|q7,2,2019,2022,8,3,estimada
+Audi,Q7,audi|q7,3,2023,2026,7,3,estimada
+Audi,Q8,audi|q8,1,2019,2023,14,3,estimada
+Audi,Q8,audi|q8,2,2024,2026,8,2,estimada
+Audi,Q8 e-tron,audi|q8 e-tron,1,2023,2023,4,1,estimada
+Audi,QUATTRO,audi|quattro,1,2017,2017,1,1,estimada
+Audi,R8,audi|r8,1,2015,2015,1,1,estimada
+Audi,R8,audi|r8,2,2022,2022,2,1,estimada
+Audi,RS e-tron GT,audi|rs e-tron gt,1,2021,2024,3,2,estimada
+Audi,RS Q3,audi|rs q3,1,2017,2021,2,1,estimada
+Audi,RS Q3,audi|rs q3,2,2023,2023,2,1,estimada
+Audi,RS Q8,audi|rs q8,1,2021,2026,6,1,estimada
+Audi,RS3,audi|rs3,1,2019,2023,6,1,estimada
+Audi,RS3,audi|rs3,2,2025,2026,8,1,estimada
+Audi,RS4,audi|rs4,1,2022,2024,6,1,estimada
+Audi,RS5,audi|rs5,1,2019,2023,3,1,estimada
+Audi,RS5,audi|rs5,2,2026,2026,1,1,estimada
+Audi,RS6,audi|rs6,1,2020,2026,12,3,estimada
+Audi,RS7,audi|rs7,1,2025,2025,1,1,estimada
+Audi,S1,audi|s1,1,2016,2017,2,2,estimada
+Audi,S3,audi|s3,1,2016,2020,4,1,estimada
+Audi,S3,audi|s3,2,2022,2026,9,1,estimada
+Audi,S4,audi|s4,1,2018,2023,3,1,estimada
+Audi,S5,audi|s5,1,2013,2017,2,1,estimada
+Audi,S5,audi|s5,2,2020,2022,3,1,estimada
+Audi,S5,audi|s5,3,2025,2025,1,1,estimada
+Audi,S6,audi|s6,1,1996,1996,1,1,estimada
+Audi,S6,audi|s6,3,2016,2016,1,,estimada
+Audi,S6,audi|s6,4,2020,2024,9,1,estimada
+Audi,S6,audi|s6,5,2025,2026,5,1,estimada
+Audi,S6 e-tron,audi|s6 e-tron,1,2026,2026,1,1,estimada
+Audi,S7,audi|s7,1,2022,2022,1,1,estimada
+Audi,S8,audi|s8,1,2016,2017,2,1,estimada
+Audi,S8,audi|s8,2,2023,2024,3,1,estimada
+Audi,Sonstige,audi|sonstige,1,2024,2026,4,3,sin_dato
+Audi,SQ2,audi|sq2,1,2020,2020,1,1,estimada
+Audi,SQ5,audi|sq5,1,2013,2017,4,1,estimada
+Audi,SQ5,audi|sq5,2,2019,2023,6,1,estimada
+Audi,SQ5,audi|sq5,3,2024,2026,6,1,estimada
+Audi,SQ6 e-tron,audi|sq6 e-tron,1,2025,2025,1,1,estimada
+Audi,SQ7,audi|sq7,1,2018,2022,5,1,estimada
+Audi,SQ7,audi|sq7,2,2025,2025,1,1,estimada
+Audi,SQ8,audi|sq8,1,2021,2023,10,2,estimada
+Audi,TT,audi|tt,1,1999,1999,1,1,estimada
+Audi,TT,audi|tt,2,2008,2008,1,1,estimada
+Audi,TT,audi|tt,3,2010,2010,1,1,estimada
+Audi,TT,audi|tt,4,2015,2017,5,2,estimada
+Audi,TT RS,audi|tt rs,1,2013,2013,1,1,estimada
+Audi,TT RS,audi|tt rs,2,2019,2023,2,1,estimada
+Audi,V8,audi|v8,1,1990,1990,1,,estimada
+BAW,212,baw|212,1,2026,2026,33,1,estimada
+BAW,Andere,baw|andere,1,2023,2026,5,1,sin_dato
+Bentley,Andere,bentley|andere,1,2006,2026,9,3,sin_dato
+Bentley,Arnage,bentley|arnage,1,1999,2003,15,2,estimada
+Bentley,Arnage,bentley|arnage,2,2004,2009,16,2,estimada
+Bentley,Azure,bentley|azure,1,1996,1998,9,1,estimada
+Bentley,Azure,bentley|azure,2,2001,2001,5,1,estimada
+Bentley,Azure,bentley|azure,3,2006,2008,10,1,estimada
+Bentley,Azure,bentley|azure,5,2026,2026,1,1,estimada
+Bentley,Bentayga,bentley|bentayga,1,2015,2019,95,3,tabla
+Bentley,Bentayga,bentley|bentayga,2,2020,2023,82,4,tabla
+Bentley,Bentayga,bentley|bentayga,3,2024,2026,80,3,tabla
+Bentley,Brooklands,bentley|brooklands,1,1993,1997,6,2,estimada
+Bentley,Brooklands,bentley|brooklands,4,2008,2010,6,1,estimada
+Bentley,Continental,bentley|continental,1,1992,2010,20,3,tabla
+Bentley,Continental,bentley|continental,2,2011,2017,17,2,tabla
+Bentley,Continental,bentley|continental,3,2018,2023,15,2,tabla
+Bentley,Continental,bentley|continental,4,2024,2026,19,2,tabla
+Bentley,Continental Flying Spur,bentley|continental flying spur,1,2005,2010,29,1,tabla
+Bentley,Continental Flying Spur,bentley|continental flying spur,2,2011,2017,9,2,tabla
+Bentley,Continental Flying Spur,bentley|continental flying spur,3,2020,2023,3,1,tabla
+Bentley,Continental Flying Spur,bentley|continental flying spur,4,2024,2024,3,1,tabla
+Bentley,Continental GT,bentley|continental gt,1,2004,2010,74,1,tabla
+Bentley,Continental GT,bentley|continental gt,2,2011,2017,96,2,tabla
+Bentley,Continental GT,bentley|continental gt,3,2018,2023,124,3,tabla
+Bentley,Continental GT,bentley|continental gt,4,2024,2026,108,3,tabla
+Bentley,Continental GTC,bentley|continental gtc,1,2006,2010,31,1,tabla
+Bentley,Continental GTC,bentley|continental gtc,2,2011,2017,59,2,tabla
+Bentley,Continental GTC,bentley|continental gtc,3,2018,2023,66,2,tabla
+Bentley,Continental GTC,bentley|continental gtc,4,2024,2026,70,2,tabla
+Bentley,Continental Supersports,bentley|continental supersports,1,2010,2010,11,1,tabla
+Bentley,Continental Supersports,bentley|continental supersports,2,2011,2017,8,1,tabla
+Bentley,Continental Supersports,bentley|continental supersports,3,2018,2018,3,1,tabla
+Bentley,Flying,bentley|flying,1,2015,2018,2,1,estimada
+Bentley,Flying,bentley|flying,2,2020,2024,4,1,estimada
+Bentley,Flying,bentley|flying,3,2026,2026,1,,estimada
+Bentley,Flying Spur,bentley|flying spur,1,2006,2017,44,2,estimada
+Bentley,Flying Spur,bentley|flying spur,2,2018,2022,43,2,estimada
+Bentley,Flying Spur,bentley|flying spur,3,2023,2026,70,4,estimada
+Bentley,Mulsanne,bentley|mulsanne,1,2010,2014,9,1,estimada
+Bentley,Mulsanne,bentley|mulsanne,2,2015,2018,11,1,estimada
+Bentley,Mulsanne,bentley|mulsanne,3,2020,2020,2,1,estimada
+Bentley,Turbo,bentley|turbo,1,1991,1991,1,1,estimada
+Bentley,Turbo R,bentley|turbo r,1,1991,1994,5,2,estimada
+Bentley,Turbo R,bentley|turbo r,2,1996,1998,4,1,estimada
+Bentley,Turbo RT,bentley|turbo rt,1,1998,1998,1,1,estimada
+BMW,114,bmw|114,1,2012,2015,10,1,estimada
+BMW,116,bmw|116,1,2000,2008,28,2,estimada
+BMW,116,bmw|116,2,2009,2013,47,1,estimada
+BMW,116,bmw|116,3,2014,2018,35,2,estimada
+BMW,116,bmw|116,4,2019,2023,18,1,estimada
+BMW,116,bmw|116,5,2024,2026,7,1,estimada
+BMW,118,bmw|118,1,1998,2006,16,2,tabla
+BMW,118,bmw|118,2,2007,2010,40,3,tabla
+BMW,118,bmw|118,3,2011,2014,29,2,tabla
+BMW,118,bmw|118,4,2015,2018,38,1,tabla
+BMW,118,bmw|118,5,2019,2023,89,1,tabla
+BMW,118,bmw|118,6,2024,2026,16,1,tabla
+BMW,120,bmw|120,1,2006,2012,22,2,estimada
+BMW,120,bmw|120,2,2013,2017,24,1,estimada
+BMW,120,bmw|120,3,2018,2022,20,1,estimada
+BMW,120,bmw|120,4,2023,2026,62,2,estimada
+BMW,123,bmw|123,1,2008,2012,3,2,estimada
+BMW,123,bmw|123,4,2025,2025,3,1,estimada
+BMW,125,bmw|125,1,2008,2010,6,1,estimada
+BMW,125,bmw|125,2,2013,2016,5,1,estimada
+BMW,128,bmw|128,1,2021,2022,2,1,estimada
+BMW,135,bmw|135,1,2008,2008,1,1,estimada
+BMW,135,bmw|135,3,2022,2022,2,1,estimada
+BMW,1er M Coupé,bmw|1er m coupé,1,2011,2011,1,1,estimada
+BMW,2002,bmw|2002,1,2002,2002,2,1,estimada
+BMW,214 Active Tourer,bmw|214 active tourer,1,2016,2016,2,1,estimada
+BMW,216,bmw|216,1,2015,2021,6,1,estimada
+BMW,216 Active Tourer,bmw|216 active tourer,1,2015,2019,9,1,estimada
+BMW,216 Active Tourer,bmw|216 active tourer,2,2023,2023,2,1,estimada
+BMW,216 Gran Tourer,bmw|216 gran tourer,1,2015,2021,3,1,estimada
+BMW,218,bmw|218,1,2006,2018,24,2,estimada
+BMW,218,bmw|218,2,2019,2023,26,1,estimada
+BMW,218,bmw|218,3,2024,2026,9,1,estimada
+BMW,218 Active Tourer,bmw|218 active tourer,1,2014,2018,20,1,estimada
+BMW,218 Active Tourer,bmw|218 active tourer,2,2019,2023,15,1,estimada
+BMW,218 Active Tourer,bmw|218 active tourer,3,2024,2026,8,1,estimada
+BMW,218 Gran Coupé,bmw|218 gran coupé,1,2020,2023,5,1,estimada
+BMW,218 Gran Tourer,bmw|218 gran tourer,1,2015,2020,9,1,estimada
+BMW,220,bmw|220,1,2014,2018,22,2,estimada
+BMW,220,bmw|220,2,2019,2023,13,1,estimada
+BMW,220,bmw|220,3,2025,2026,13,1,estimada
+BMW,220 Active Tourer,bmw|220 active tourer,1,2015,2019,7,1,estimada
+BMW,220 Active Tourer,bmw|220 active tourer,2,2020,2023,5,2,estimada
+BMW,220 Active Tourer,bmw|220 active tourer,3,2025,2025,8,1,estimada
+BMW,220 Gran Coupé,bmw|220 gran coupé,1,2021,2026,10,2,estimada
+BMW,220 Gran Tourer,bmw|220 gran tourer,1,2015,2020,10,1,estimada
+BMW,223,bmw|223,1,2023,2026,5,1,estimada
+BMW,223 Active Tourer,bmw|223 active tourer,1,2023,2026,5,1,estimada
+BMW,223 Gran Coupé,bmw|223 gran coupé,1,2026,2026,1,1,estimada
+BMW,225,bmw|225,1,2016,2018,8,2,estimada
+BMW,225,bmw|225,2,2021,2023,3,1,estimada
+BMW,225 Active Tourer,bmw|225 active tourer,1,2017,2019,4,1,estimada
+BMW,225 Active Tourer,bmw|225 active tourer,2,2023,2023,4,2,estimada
+BMW,230,bmw|230,1,2019,2024,3,3,estimada
+BMW,235,bmw|235,1,2021,2024,2,1,estimada
+BMW,240,bmw|240,1,2017,2023,3,2,estimada
+BMW,2er Gran Coupé,bmw|2er gran coupé,1,2024,2024,1,1,estimada
+BMW,315,bmw|315,1,2017,2018,5,2,estimada
+BMW,316,bmw|316,1,1991,1995,7,1,estimada
+BMW,316,bmw|316,2,1997,2000,4,2,estimada
+BMW,316,bmw|316,3,2001,2005,15,1,estimada
+BMW,316,bmw|316,4,2006,2009,3,1,estimada
+BMW,316,bmw|316,5,2011,2014,6,1,estimada
+BMW,316,bmw|316,6,2016,2023,7,1,estimada
+BMW,318,bmw|318,1,1990,1995,12,2,estimada
+BMW,318,bmw|318,2,1998,2001,4,2,estimada
+BMW,318,bmw|318,3,2002,2006,33,2,estimada
+BMW,318,bmw|318,4,2007,2011,38,2,estimada
+BMW,318,bmw|318,5,2012,2016,28,2,estimada
+BMW,318,bmw|318,6,2017,2021,24,1,estimada
+BMW,318,bmw|318,7,2022,2026,52,1,estimada
+BMW,318 Gran Turismo,bmw|318 gran turismo,1,2019,2019,1,1,estimada
+BMW,320,bmw|320,1,1990,2004,48,3,tabla
+BMW,320,bmw|320,2,2005,2007,40,2,tabla
+BMW,320,bmw|320,3,2008,2011,54,2,tabla
+BMW,320,bmw|320,4,2012,2014,42,3,tabla
+BMW,320,bmw|320,5,2015,2018,34,1,tabla
+BMW,320,bmw|320,6,2019,2021,39,1,tabla
+BMW,320,bmw|320,7,2022,2026,100,2,tabla
+BMW,320 Gran Turismo,bmw|320 gran turismo,1,2013,2016,4,1,estimada
+BMW,320 Gran Turismo,bmw|320 gran turismo,2,2018,2020,4,1,estimada
+BMW,323,bmw|323,1,1993,1997,2,1,estimada
+BMW,323,bmw|323,2,1999,2000,3,1,estimada
+BMW,325,bmw|325,1,1990,1994,4,2,estimada
+BMW,325,bmw|325,2,2000,2000,2,1,estimada
+BMW,325,bmw|325,3,2001,2005,10,1,estimada
+BMW,325,bmw|325,4,2006,2010,21,1,estimada
+BMW,325,bmw|325,5,2011,2013,5,1,estimada
+BMW,325 Gran Turismo,bmw|325 gran turismo,1,2014,2014,1,1,estimada
+BMW,328,bmw|328,1,1993,1996,4,1,estimada
+BMW,328,bmw|328,2,1998,1999,5,1,estimada
+BMW,328,bmw|328,4,2012,2012,2,1,estimada
+BMW,328,bmw|328,5,2013,2016,5,1,estimada
+BMW,328 Gran Turismo,bmw|328 gran turismo,1,2013,2013,1,1,estimada
+BMW,330,bmw|330,1,1992,2005,16,2,estimada
+BMW,330,bmw|330,2,2007,2011,12,2,estimada
+BMW,330,bmw|330,3,2012,2016,10,1,estimada
+BMW,330,bmw|330,4,2017,2021,22,3,estimada
+BMW,330,bmw|330,5,2022,2026,33,2,estimada
+BMW,330 Gran Turismo,bmw|330 gran turismo,1,2014,2016,3,1,estimada
+BMW,335,bmw|335,1,2006,2010,8,2,estimada
+BMW,335,bmw|335,2,2011,2012,6,1,estimada
+BMW,335,bmw|335,3,2016,2018,3,1,estimada
+BMW,340,bmw|340,1,2017,2021,5,1,estimada
+BMW,340,bmw|340,2,2023,2026,5,1,estimada
+BMW,418,bmw|418,1,2017,2017,1,1,estimada
+BMW,420,bmw|420,1,2013,2018,12,2,estimada
+BMW,420,bmw|420,2,2019,2023,10,1,estimada
+BMW,420,bmw|420,3,2024,2026,15,1,estimada
+BMW,420 Gran Coupé,bmw|420 gran coupé,1,2015,2015,3,1,estimada
+BMW,420 Gran Coupé,bmw|420 gran coupé,2,2022,2023,4,1,estimada
+BMW,420 Gran Coupé,bmw|420 gran coupé,3,2025,2026,4,1,estimada
+BMW,425,bmw|425,1,2017,2017,1,1,estimada
+BMW,428,bmw|428,1,2014,2015,2,1,estimada
+BMW,428 Gran Coupé,bmw|428 gran coupé,1,2016,2016,1,1,estimada
+BMW,430,bmw|430,1,2014,2018,9,1,estimada
+BMW,430,bmw|430,2,2019,2023,13,1,estimada
+BMW,430,bmw|430,3,2025,2025,3,1,estimada
+BMW,430 Gran Coupé,bmw|430 gran coupé,1,2015,2017,3,1,estimada
+BMW,430 Gran Coupé,bmw|430 gran coupé,2,2023,2024,3,1,estimada
+BMW,430 Gran Coupé,bmw|430 gran coupé,3,2025,2026,2,1,estimada
+BMW,435,bmw|435,1,2014,2018,6,1,estimada
+BMW,435 Gran Coupé,bmw|435 gran coupé,1,2016,2016,1,1,estimada
+BMW,440,bmw|440,1,2022,2026,4,1,estimada
+BMW,440 Gran Coupé,bmw|440 gran coupé,1,2018,2019,2,1,estimada
+BMW,520,bmw|520,1,1990,2006,27,2,tabla
+BMW,520,bmw|520,2,2007,2009,18,1,tabla
+BMW,520,bmw|520,3,2010,2012,28,1,tabla
+BMW,520,bmw|520,4,2013,2016,27,1,tabla
+BMW,520,bmw|520,5,2017,2019,31,1,tabla
+BMW,520,bmw|520,6,2020,2022,30,1,tabla
+BMW,520,bmw|520,7,2023,2026,64,1,tabla
+BMW,523,bmw|523,1,1996,2000,8,2,estimada
+BMW,523,bmw|523,3,2006,2011,11,1,estimada
+BMW,525,bmw|525,1,1990,2006,27,2,estimada
+BMW,525,bmw|525,2,2007,2011,22,3,estimada
+BMW,525,bmw|525,3,2012,2017,16,2,estimada
+BMW,528,bmw|528,1,1996,1999,4,1,estimada
+BMW,528,bmw|528,4,2011,2015,4,1,estimada
+BMW,530,bmw|530,1,2001,2007,23,3,estimada
+BMW,530,bmw|530,2,2008,2012,26,2,estimada
+BMW,530,bmw|530,3,2013,2017,35,2,estimada
+BMW,530,bmw|530,4,2018,2022,39,2,estimada
+BMW,530,bmw|530,5,2023,2026,17,3,estimada
+BMW,530 Gran Turismo,bmw|530 gran turismo,1,2009,2013,2,1,estimada
+BMW,535,bmw|535,1,1998,2007,5,1,estimada
+BMW,535,bmw|535,2,2008,2012,8,1,estimada
+BMW,535,bmw|535,3,2013,2017,16,1,estimada
+BMW,535 Gran Turismo,bmw|535 gran turismo,1,2013,2013,1,1,estimada
+BMW,540,bmw|540,1,1994,1998,4,1,estimada
+BMW,540,bmw|540,3,2006,2006,1,1,estimada
+BMW,540,bmw|540,5,2015,2019,14,1,estimada
+BMW,540,bmw|540,6,2020,2023,12,1,estimada
+BMW,540,bmw|540,7,2025,2026,10,1,estimada
+BMW,550,bmw|550,1,2007,2011,2,1,estimada
+BMW,550,bmw|550,2,2014,2014,1,1,estimada
+BMW,550,bmw|550,3,2019,2019,4,2,estimada
+BMW,550,bmw|550,4,2024,2026,7,2,estimada
+BMW,620,bmw|620,1,2022,2022,1,1,estimada
+BMW,630,bmw|630,1,2006,2006,1,1,estimada
+BMW,630,bmw|630,3,2018,2018,3,1,estimada
+BMW,630 Gran Turismo,bmw|630 gran turismo,1,2018,2019,2,1,estimada
+BMW,635,bmw|635,1,2009,2010,2,1,estimada
+BMW,640,bmw|640,1,2011,2015,5,1,estimada
+BMW,640,bmw|640,2,2016,2021,3,1,estimada
+BMW,640 Gran Coupé,bmw|640 gran coupé,1,2012,2013,2,1,estimada
+BMW,640 Gran Turismo,bmw|640 gran turismo,1,2014,2018,2,1,estimada
+BMW,645,bmw|645,1,2004,2005,3,1,estimada
+BMW,650,bmw|650,1,2006,2006,2,1,estimada
+BMW,650,bmw|650,2,2011,2016,6,1,estimada
+BMW,650 Gran Coupé,bmw|650 gran coupé,1,2013,2013,1,1,estimada
+BMW,725,bmw|725,1,2017,2017,1,1,estimada
+BMW,728,bmw|728,1,1996,1996,1,1,estimada
+BMW,730,bmw|730,1,1995,1995,1,1,estimada
+BMW,730,bmw|730,3,2009,2011,4,1,estimada
+BMW,730,bmw|730,4,2014,2017,4,1,estimada
+BMW,730,bmw|730,5,2020,2021,2,1,estimada
+BMW,735,bmw|735,1,1990,1990,1,1,estimada
+BMW,735,bmw|735,3,2002,2004,2,1,estimada
+BMW,740,bmw|740,1,1994,1998,3,1,estimada
+BMW,740,bmw|740,3,2006,2007,2,1,estimada
+BMW,740,bmw|740,4,2011,2013,4,1,estimada
+BMW,740,bmw|740,5,2014,2017,10,1,estimada
+BMW,740,bmw|740,6,2021,2022,2,1,estimada
+BMW,740,bmw|740,7,2024,2026,6,1,estimada
+BMW,745,bmw|745,1,2004,2004,1,,estimada
+BMW,745,bmw|745,3,2019,2019,1,1,estimada
+BMW,750,bmw|750,1,1999,2006,2,1,estimada
+BMW,750,bmw|750,2,2009,2011,4,1,estimada
+BMW,750,bmw|750,3,2016,2016,2,1,estimada
+BMW,750,bmw|750,4,2017,2019,3,1,estimada
+BMW,750,bmw|750,5,2022,2025,9,2,estimada
+BMW,760,bmw|760,1,2003,2007,2,1,estimada
+BMW,760,bmw|760,2,2010,2010,1,1,estimada
+BMW,760,bmw|760,3,2016,2016,1,1,estimada
+BMW,760,bmw|760,5,2025,2025,1,1,estimada
+BMW,840,bmw|840,1,1993,1993,1,1,estimada
+BMW,840,bmw|840,2,1999,1999,1,1,estimada
+BMW,840,bmw|840,6,2019,2021,5,1,estimada
+BMW,840,bmw|840,7,2025,2025,2,1,estimada
+BMW,850,bmw|850,1,1991,1994,6,1,estimada
+BMW,Active Hybrid X6,bmw|active hybrid x6,1,2010,2010,1,1,estimada
+BMW,ActiveHybrid 3,bmw|activehybrid 3,1,2019,2019,1,1,estimada
+BMW,ActiveHybrid 7,bmw|activehybrid 7,1,2011,2011,2,1,estimada
+BMW,Andere,bmw|andere,1,1990,2025,45,9,sin_dato
+BMW,i3,bmw|i3,1,2018,2022,3,1,estimada
+BMW,i4,bmw|i4,1,2022,2026,22,3,estimada
+BMW,i5,bmw|i5,1,2023,2026,11,2,estimada
+BMW,i7,bmw|i7,1,2023,2026,9,2,estimada
+BMW,i8,bmw|i8,1,2015,2020,3,2,estimada
+BMW,iX,bmw|ix,1,2022,2026,20,4,estimada
+BMW,iX1,bmw|ix1,1,2019,2026,34,2,estimada
+BMW,iX2,bmw|ix2,1,2025,2026,9,2,estimada
+BMW,iX3,bmw|ix3,1,2022,2026,15,2,estimada
+BMW,M135,bmw|m135,1,2008,2008,1,1,estimada
+BMW,M135,bmw|m135,2,2016,2016,1,1,estimada
+BMW,M135,bmw|m135,3,2019,2022,4,1,estimada
+BMW,M135,bmw|m135,4,2025,2026,3,1,estimada
+BMW,M140,bmw|m140,1,2018,2018,2,1,estimada
+BMW,M140i,bmw|m140i,1,2017,2017,1,1,estimada
+BMW,M2,bmw|m2,1,1999,2009,8,5,estimada
+BMW,M2,bmw|m2,2,2011,2015,8,4,estimada
+BMW,M2,bmw|m2,3,2016,2020,42,5,estimada
+BMW,M2,bmw|m2,4,2021,2025,79,6,estimada
+BMW,M2,bmw|m2,5,2026,2026,11,4,estimada
+BMW,M235,bmw|m235,1,2015,2015,1,1,estimada
+BMW,M240i,bmw|m240i,1,2017,2020,2,1,estimada
+BMW,M240i,bmw|m240i,2,2023,2025,2,1,estimada
+BMW,M3,bmw|m3,1,1992,2013,39,7,tabla
+BMW,M3,bmw|m3,2,2014,2020,50,7,tabla
+BMW,M3,bmw|m3,3,2021,2026,127,7,tabla
+BMW,M340,bmw|m340,1,2025,2026,6,1,estimada
+BMW,M340d,bmw|m340d,1,2024,2024,1,1,estimada
+BMW,M340i,bmw|m340i,1,2024,2024,1,1,estimada
+BMW,M4,bmw|m4,1,2003,2019,39,4,estimada
+BMW,M4,bmw|m4,2,2020,2024,72,6,estimada
+BMW,M4,bmw|m4,3,2025,2026,30,5,estimada
+BMW,M440,bmw|m440,1,2022,2025,5,1,estimada
+BMW,M5,bmw|m5,1,1995,2011,16,5,estimada
+BMW,M5,bmw|m5,2,2012,2016,14,3,estimada
+BMW,M5,bmw|m5,3,2017,2021,44,7,estimada
+BMW,M5,bmw|m5,4,2022,2026,61,7,estimada
+BMW,M550,bmw|m550,1,2011,2013,6,1,estimada
+BMW,M550,bmw|m550,2,2017,2017,1,1,estimada
+BMW,M550,bmw|m550,3,2023,2026,4,1,estimada
+BMW,M6,bmw|m6,1,2007,2007,1,1,estimada
+BMW,M6,bmw|m6,2,2013,2016,3,1,estimada
+BMW,M8,bmw|m8,1,1994,1998,3,2,estimada
+BMW,M8,bmw|m8,3,2007,2010,4,3,estimada
+BMW,M8,bmw|m8,4,2012,2014,2,1,estimada
+BMW,M8,bmw|m8,5,2018,2021,9,4,estimada
+BMW,M8,bmw|m8,6,2022,2026,13,3,estimada
+BMW,M850,bmw|m850,1,2021,2025,7,1,estimada
+BMW,X1,bmw|x1,1,2010,2011,25,2,tabla
+BMW,X1,bmw|x1,2,2012,2015,34,4,tabla
+BMW,X1,bmw|x1,3,2016,2018,43,3,tabla
+BMW,X1,bmw|x1,4,2019,2021,56,4,tabla
+BMW,X1,bmw|x1,5,2022,2026,136,5,tabla
+BMW,X2,bmw|x2,1,2017,2022,51,4,estimada
+BMW,X2,bmw|x2,2,2023,2026,27,3,estimada
+BMW,X2 M,bmw|x2 m,1,2025,2025,1,,estimada
+BMW,X3,bmw|x3,1,2004,2009,24,3,tabla
+BMW,X3,bmw|x3,2,2010,2013,30,4,tabla
+BMW,X3,bmw|x3,3,2014,2016,15,3,tabla
+BMW,X3,bmw|x3,4,2017,2020,44,4,tabla
+BMW,X3,bmw|x3,5,2021,2023,65,4,tabla
+BMW,X3,bmw|x3,6,2024,2026,59,4,tabla
+BMW,X3 M,bmw|x3 m,1,2008,2013,6,2,estimada
+BMW,X3 M,bmw|x3 m,2,2014,2018,8,3,estimada
+BMW,X3 M,bmw|x3 m,3,2019,2023,16,4,estimada
+BMW,X3 M,bmw|x3 m,4,2024,2026,14,5,estimada
+BMW,X3 M40,bmw|x3 m40,1,2020,2023,4,1,estimada
+BMW,X3 M50,bmw|x3 m50,1,2026,2026,1,1,estimada
+BMW,X4,bmw|x4,1,2014,2017,15,3,estimada
+BMW,X4,bmw|x4,2,2019,2023,14,4,estimada
+BMW,X4,bmw|x4,3,2024,2026,7,2,estimada
+BMW,X4 M,bmw|x4 m,1,2012,2016,7,3,estimada
+BMW,X4 M,bmw|x4 m,2,2019,2023,23,4,estimada
+BMW,X4 M,bmw|x4 m,3,2024,2026,6,3,estimada
+BMW,X4 M40,bmw|x4 m40,1,2023,2025,3,1,estimada
+BMW,X5,bmw|x5,1,2002,2010,20,3,estimada
+BMW,X5,bmw|x5,2,2011,2015,29,3,estimada
+BMW,X5,bmw|x5,3,2016,2020,24,4,estimada
+BMW,X5,bmw|x5,4,2021,2025,63,4,estimada
+BMW,X5,bmw|x5,5,2026,2026,14,2,estimada
+BMW,X5 M,bmw|x5 m,1,2011,2015,6,2,estimada
+BMW,X5 M,bmw|x5 m,2,2016,2020,4,2,estimada
+BMW,X5 M,bmw|x5 m,3,2021,2026,17,4,estimada
+BMW,X5 M50,bmw|x5 m50,1,2013,2015,4,1,estimada
+BMW,X6,bmw|x6,1,2009,2012,8,3,estimada
+BMW,X6,bmw|x6,2,2015,2018,6,3,estimada
+BMW,X6,bmw|x6,3,2020,2023,6,2,estimada
+BMW,X6,bmw|x6,4,2025,2026,8,3,estimada
+BMW,X6 M,bmw|x6 m,1,2004,2004,1,1,estimada
+BMW,X6 M,bmw|x6 m,2,2013,2015,3,2,estimada
+BMW,X6 M,bmw|x6 m,3,2018,2022,2,2,estimada
+BMW,X6 M,bmw|x6 m,4,2023,2026,13,3,estimada
+BMW,X6 M50,bmw|x6 m50,1,2023,2023,1,1,estimada
+BMW,X7,bmw|x7,1,2019,2023,9,2,estimada
+BMW,X7,bmw|x7,2,2024,2026,15,1,estimada
+BMW,X7 M,bmw|x7 m,1,2020,2025,4,1,estimada
+BMW,XM,bmw|xm,1,2023,2026,8,2,estimada
+BMW,Z1,bmw|z1,1,1991,1991,2,1,estimada
+BMW,Z3,bmw|z3,1,1996,2000,14,3,estimada
+BMW,Z3,bmw|z3,2,2001,2002,6,3,estimada
+BMW,Z4,bmw|z4,1,2003,2007,12,3,estimada
+BMW,Z4,bmw|z4,2,2008,2011,6,2,estimada
+BMW,Z4,bmw|z4,3,2013,2013,2,2,estimada
+BMW,Z4,bmw|z4,4,2020,2022,4,3,estimada
+BMW,Z4,bmw|z4,5,2023,2025,11,3,estimada
+BMW,Z4 M,bmw|z4 m,1,2021,2021,1,1,estimada
+BMW,Z4 M40,bmw|z4 m40,1,2023,2023,1,1,estimada
+Citroen,,citroen|,1,2016,2021,5,2,estimada
+Citroen,,citroen|,2,2023,2026,10,3,estimada
+Citroen,AX,citroen|ax,1,2025,2025,2,1,estimada
+Citroen,Berlingo,citroen|berlingo,1,2006,2012,6,2,estimada
+Citroen,Berlingo,citroen|berlingo,2,2014,2017,9,2,estimada
+Citroen,Berlingo,citroen|berlingo,3,2018,2022,26,3,estimada
+Citroen,Berlingo,citroen|berlingo,4,2023,2026,24,2,estimada
+Citroen,C-Elysée,citroen|c-elysée,1,2017,2018,3,2,estimada
+Citroen,C1,citroen|c1,1,2007,2008,2,1,estimada
+Citroen,C1,citroen|c1,2,2012,2016,10,1,estimada
+Citroen,C1,citroen|c1,3,2017,2022,18,1,estimada
+Citroen,C2,citroen|c2,1,2006,2009,2,1,estimada
+Citroen,C3,citroen|c3,1,2004,2019,23,3,estimada
+Citroen,C3,citroen|c3,2,2020,2024,31,2,estimada
+Citroen,C3,citroen|c3,3,2025,2026,23,2,estimada
+Citroen,C3 Aircross,citroen|c3 aircross,1,2018,2022,19,3,estimada
+Citroen,C3 Aircross,citroen|c3 aircross,2,2023,2026,64,2,estimada
+Citroen,C3 Picasso,citroen|c3 picasso,1,2011,2016,3,1,estimada
+Citroen,C35,citroen|c35,1,2023,2024,2,1,estimada
+Citroen,C4,citroen|c4,1,2012,2018,8,2,estimada
+Citroen,C4,citroen|c4,2,2021,2024,59,1,estimada
+Citroen,C4,citroen|c4,3,2025,2026,21,2,estimada
+Citroen,C4 Aircross,citroen|c4 aircross,1,2016,2016,3,1,estimada
+Citroen,C4 Cactus,citroen|c4 cactus,1,2014,2020,22,2,estimada
+Citroen,C4 Picasso,citroen|c4 picasso,1,2007,2013,2,1,estimada
+Citroen,C4 Picasso,citroen|c4 picasso,2,2016,2019,13,3,estimada
+Citroen,C4 SpaceTourer,citroen|c4 spacetourer,1,2016,2022,11,2,estimada
+Citroen,C4 X,citroen|c4 x,1,2023,2025,28,2,estimada
+Citroen,C5,citroen|c5,1,2001,2001,1,1,estimada
+Citroen,C5,citroen|c5,3,2012,2016,3,1,estimada
+Citroen,C5,citroen|c5,4,2017,2017,1,1,estimada
+Citroen,C5,citroen|c5,5,2023,2024,2,1,estimada
+Citroen,C5 Aircross,citroen|c5 aircross,1,2019,2024,63,3,estimada
+Citroen,C5 Aircross,citroen|c5 aircross,2,2025,2026,22,2,estimada
+Citroen,C5 X,citroen|c5 x,1,2022,2026,35,3,estimada
+Citroen,C6,citroen|c6,1,2012,2012,1,1,estimada
+Citroen,DS,citroen|ds,1,2021,2024,3,2,estimada
+Citroen,DS3,citroen|ds3,1,2011,2015,4,3,estimada
+Citroen,DS3,citroen|ds3,2,2016,2019,4,3,estimada
+Citroen,DS4,citroen|ds4,1,2011,2011,2,1,estimada
+Citroen,DS4,citroen|ds4,2,2016,2016,2,1,estimada
+Citroen,DS4,citroen|ds4,3,2023,2024,2,2,estimada
+Citroen,DS5,citroen|ds5,1,2016,2016,1,1,estimada
+Citroen,E-C3,citroen|e-c3,1,2025,2025,1,1,estimada
+Citroen,E-C4 Electric,citroen|e-c4 electric,1,2022,2025,10,1,estimada
+Citroen,Grand C4 Picasso,citroen|grand c4 picasso,1,2010,2013,2,1,estimada
+Citroen,Grand C4 Picasso,citroen|grand c4 picasso,2,2016,2019,10,2,estimada
+Citroen,Grand C4 Picasso,citroen|grand c4 picasso,3,2021,2022,3,1,estimada
+Citroen,Grand C4 SpaceTourer,citroen|grand c4 spacetourer,1,2016,2022,7,1,estimada
+Citroen,Holidays,citroen|holidays,1,2026,2026,1,1,estimada
+Citroen,Jumper,citroen|jumper,1,2003,2018,6,3,estimada
+Citroen,Jumper,citroen|jumper,2,2019,2023,15,2,estimada
+Citroen,Jumper,citroen|jumper,3,2024,2026,12,2,estimada
+Citroen,Jumpy,citroen|jumpy,1,2015,2019,7,3,estimada
+Citroen,Jumpy,citroen|jumpy,2,2021,2024,8,2,estimada
+Citroen,Jumpy,citroen|jumpy,3,2025,2026,7,2,estimada
+Citroen,Nemo,citroen|nemo,1,2015,2015,1,1,estimada
+Citroen,Sonstige,citroen|sonstige,1,2016,2025,14,3,sin_dato
+Citroen,Spacetourer,citroen|spacetourer,1,2017,2021,23,2,estimada
+Citroen,Spacetourer,citroen|spacetourer,2,2024,2026,74,2,estimada
+Citroen,Xantia,citroen|xantia,1,1994,1994,1,1,estimada
+Citroen,XM,citroen|xm,1,1994,1994,2,2,estimada
+Citroen,Xsara Picasso,citroen|xsara picasso,1,2005,2005,1,1,estimada
+CUPRA,Ateca,cupra|ateca,1,2019,2023,51,2,estimada
+CUPRA,Ateca,cupra|ateca,2,2024,2026,107,3,estimada
+CUPRA,Born,cupra|born,1,2022,2026,64,3,estimada
+CUPRA,Formentor,cupra|formentor,1,2021,2023,101,5,tabla
+CUPRA,Formentor,cupra|formentor,2,2024,2026,137,5,tabla
+CUPRA,Ibiza,cupra|ibiza,1,2026,2026,1,1,estimada
+CUPRA,Leon,cupra|leon,1,2020,2023,62,4,tabla
+CUPRA,Leon,cupra|leon,2,2024,2026,165,5,tabla
+CUPRA,Raval,cupra|raval,1,2026,2026,5,2,estimada
+CUPRA,Tavascan,cupra|tavascan,1,2025,2026,13,1,estimada
+CUPRA,Terramar,cupra|terramar,1,2024,2026,94,3,estimada
+Dacia,Bigster,dacia|bigster,1,2025,2026,76,3,estimada
+Dacia,Dokker,dacia|dokker,1,2013,2019,40,3,estimada
+Dacia,Dokker,dacia|dokker,2,2020,2021,21,2,estimada
+Dacia,Duster,dacia|duster,1,2011,2016,18,2,estimada
+Dacia,Duster,dacia|duster,2,2017,2021,47,3,estimada
+Dacia,Duster,dacia|duster,3,2022,2026,99,3,estimada
+Dacia,Jogger,dacia|jogger,1,2022,2026,81,3,estimada
+Dacia,Lodgy,dacia|lodgy,1,2012,2019,31,3,estimada
+Dacia,Lodgy,dacia|lodgy,2,2020,2022,27,2,estimada
+Dacia,Logan,dacia|logan,1,2008,2016,13,2,estimada
+Dacia,Logan,dacia|logan,2,2017,2020,41,2,estimada
+Dacia,Logan,dacia|logan,3,2024,2024,7,1,estimada
+Dacia,Sandero,dacia|sandero,1,2008,2011,8,1,tabla
+Dacia,Sandero,dacia|sandero,2,2012,2016,15,2,tabla
+Dacia,Sandero,dacia|sandero,3,2017,2020,35,2,tabla
+Dacia,Sandero,dacia|sandero,4,2021,2026,149,3,tabla
+Dacia,Sonstige,dacia|sonstige,1,2025,2026,4,1,sin_dato
+Dacia,Spring,dacia|spring,1,2021,2026,88,4,estimada
+Ferrari,12 Cilindri,ferrari|12 cilindri,1,2025,2026,10,1,estimada
+Ferrari,12Cilindri,ferrari|12cilindri,1,2024,2026,16,1,estimada
+Ferrari,208,ferrari|208,1,1998,1998,1,1,estimada
+Ferrari,296,ferrari|296,1,2022,2026,24,2,estimada
+Ferrari,296 GTB,ferrari|296 gtb,1,2022,2026,53,2,estimada
+Ferrari,296 GTS,ferrari|296 gts,1,2022,2025,53,2,estimada
+Ferrari,348,ferrari|348,1,1991,1995,9,1,estimada
+Ferrari,360,ferrari|360,1,2001,2005,13,1,estimada
+Ferrari,456,ferrari|456,1,1994,1997,5,1,estimada
+Ferrari,456,ferrari|456,2,2000,2004,3,1,estimada
+Ferrari,458,ferrari|458,1,2010,2014,13,1,estimada
+Ferrari,488,ferrari|488,1,2015,2026,55,1,estimada
+Ferrari,512,ferrari|512,1,1994,1994,1,1,estimada
+Ferrari,550,ferrari|550,1,1996,1999,3,1,estimada
+Ferrari,575,ferrari|575,1,2003,2004,2,1,estimada
+Ferrari,599,ferrari|599,1,2006,2008,2,1,estimada
+Ferrari,612,ferrari|612,1,2004,2006,4,1,estimada
+Ferrari,812,ferrari|812,1,2018,2022,35,1,estimada
+Ferrari,812,ferrari|812,2,2023,2024,14,1,estimada
+Ferrari,849 Testarossa,ferrari|849 testarossa,1,2026,2026,2,1,estimada
+Ferrari,Amalfi,ferrari|amalfi,1,2026,2026,10,1,estimada
+Ferrari,California,ferrari|california,1,2009,2012,12,1,estimada
+Ferrari,California,ferrari|california,2,2014,2018,22,1,estimada
+Ferrari,Daytona,ferrari|daytona,1,2025,2025,1,1,estimada
+Ferrari,F12,ferrari|f12,1,2013,2018,9,1,estimada
+Ferrari,F355,ferrari|f355,1,1995,1998,5,1,estimada
+Ferrari,F40,ferrari|f40,1,1990,1990,1,1,estimada
+Ferrari,F430,ferrari|f430,1,2005,2010,15,1,estimada
+Ferrari,F8 Spider,ferrari|f8 spider,1,2021,2022,17,1,estimada
+Ferrari,F8 Tributo,ferrari|f8 tributo,1,2020,2022,25,1,estimada
+Ferrari,FF,ferrari|ff,1,2012,2018,10,1,estimada
+Ferrari,GTC4 Lusso,ferrari|gtc4 lusso,1,2017,2020,11,1,estimada
+Ferrari,LaFerrari,ferrari|laferrari,1,2014,2019,2,1,estimada
+Ferrari,Mondial,ferrari|mondial,1,1991,1992,3,1,estimada
+Ferrari,Portofino,ferrari|portofino,1,2018,2024,37,1,estimada
+Ferrari,Purosangue,ferrari|purosangue,1,2023,2026,87,1,estimada
+Ferrari,Roma,ferrari|roma,1,2020,2026,102,1,estimada
+Ferrari,SF90 Spider,ferrari|sf90 spider,1,2021,2026,39,2,estimada
+Ferrari,SF90 Stradale,ferrari|sf90 stradale,1,2020,2024,41,2,estimada
+Ferrari,Sonstige,ferrari|sonstige,1,2017,2026,29,4,sin_dato
+Ferrari,Testarossa,ferrari|testarossa,1,2026,2026,4,1,estimada
+Fiat,,fiat|,1,2010,2010,1,1,estimada
+Fiat,,fiat|,2,2021,2021,3,2,estimada
+Fiat,,fiat|,3,2022,2026,6,3,estimada
+Fiat,124,fiat|124,1,2019,2019,1,1,estimada
+Fiat,124 Spider,fiat|124 spider,1,2016,2019,15,1,estimada
+Fiat,126,fiat|126,1,1990,1991,2,1,estimada
+Fiat,130,fiat|130,1,2026,2026,1,,estimada
+Fiat,500,fiat|500,1,2007,2014,195,4,tabla
+Fiat,500,fiat|500,2,2015,2019,198,5,tabla
+Fiat,500,fiat|500,3,2020,2026,399,4,tabla
+Fiat,500C,fiat|500c,1,2009,2015,38,3,estimada
+Fiat,500C,fiat|500c,2,2016,2020,66,5,estimada
+Fiat,500C,fiat|500c,3,2021,2024,54,2,estimada
+Fiat,500C,fiat|500c,4,2026,2026,27,1,estimada
+Fiat,500e,fiat|500e,1,2017,2017,1,1,tabla
+Fiat,500e,fiat|500e,2,2021,2026,196,3,tabla
+Fiat,500L,fiat|500l,1,2011,2017,124,2,estimada
+Fiat,500L,fiat|500l,2,2018,2022,47,3,estimada
+Fiat,500L Cross,fiat|500l cross,1,2015,2019,58,3,estimada
+Fiat,500L Cross,fiat|500l cross,2,2020,2022,31,3,estimada
+Fiat,500L Living,fiat|500l living,1,2013,2017,11,2,estimada
+Fiat,500L Trekking,fiat|500l trekking,1,2013,2018,26,2,estimada
+Fiat,500L Urban,fiat|500l urban,1,2018,2020,9,2,estimada
+Fiat,500L Wagon,fiat|500l wagon,1,2017,2017,1,1,estimada
+Fiat,500S,fiat|500s,1,2007,2010,4,2,estimada
+Fiat,500S,fiat|500s,2,2012,2015,6,3,estimada
+Fiat,500S,fiat|500s,3,2017,2022,3,2,estimada
+Fiat,500X,fiat|500x,1,2015,2017,69,3,tabla
+Fiat,500X,fiat|500x,2,2018,2023,158,3,tabla
+Fiat,500X,fiat|500x,3,2024,2025,14,2,tabla
+Fiat,600,fiat|600,1,2023,2026,87,3,estimada
+Fiat,600e,fiat|600e,1,2023,2025,10,1,estimada
+Fiat,Andere,fiat|andere,1,1995,2026,187,6,sin_dato
+Fiat,Barchetta,fiat|barchetta,1,1995,2001,17,1,estimada
+Fiat,Brava,fiat|brava,1,2001,2001,2,1,estimada
+Fiat,Bravo,fiat|bravo,1,1998,2011,31,4,estimada
+Fiat,Bravo,fiat|bravo,2,2012,2014,6,2,estimada
+Fiat,Cinquecento,fiat|cinquecento,1,1993,1997,5,2,estimada
+Fiat,Coupe,fiat|coupe,1,1995,1997,5,2,estimada
+Fiat,Croma,fiat|croma,1,2006,2010,8,3,estimada
+Fiat,Doblo,fiat|doblo,1,2003,2010,17,3,estimada
+Fiat,Doblo,fiat|doblo,2,2011,2015,19,2,estimada
+Fiat,Doblo,fiat|doblo,3,2016,2020,25,2,estimada
+Fiat,Doblo,fiat|doblo,4,2021,2025,40,3,estimada
+Fiat,Doblo,fiat|doblo,5,2026,2026,27,2,estimada
+Fiat,Ducato,fiat|ducato,1,1990,2013,80,5,tabla
+Fiat,Ducato,fiat|ducato,2,2014,2020,72,4,tabla
+Fiat,Ducato,fiat|ducato,3,2021,2026,90,2,tabla
+Fiat,E-Ulysse,fiat|e-ulysse,1,2022,2022,1,1,estimada
+Fiat,Fiorino,fiat|fiorino,1,1992,2012,12,3,estimada
+Fiat,Fiorino,fiat|fiorino,2,2013,2017,27,2,estimada
+Fiat,Fiorino,fiat|fiorino,3,2018,2022,28,2,estimada
+Fiat,Fiorino,fiat|fiorino,4,2023,2023,3,1,estimada
+Fiat,Freemont,fiat|freemont,1,2011,2016,30,3,estimada
+Fiat,Fullback,fiat|fullback,1,2018,2019,4,1,estimada
+Fiat,Grande,fiat|grande,1,2006,2008,3,2,estimada
+Fiat,Grande,fiat|grande,5,2026,2026,3,1,estimada
+Fiat,Grande Panda,fiat|grande panda,1,2025,2026,73,1,estimada
+Fiat,Grande Punto,fiat|grande punto,1,2006,2010,60,4,estimada
+Fiat,Grande Punto,fiat|grande punto,2,2011,2015,9,1,estimada
+Fiat,Idea,fiat|idea,1,2004,2007,7,1,estimada
+Fiat,Marea,fiat|marea,1,1997,2001,2,1,estimada
+Fiat,Multipla,fiat|multipla,1,2003,2006,2,1,estimada
+Fiat,Multipla,fiat|multipla,2,2010,2010,1,1,estimada
+Fiat,New,fiat|new,1,2009,2009,1,1,estimada
+Fiat,New Panda,fiat|new panda,1,2004,2005,2,1,estimada
+Fiat,New Panda,fiat|new panda,2,2009,2013,4,2,estimada
+Fiat,New Panda,fiat|new panda,3,2016,2017,2,1,estimada
+Fiat,New Panda,fiat|new panda,4,2020,2020,2,1,estimada
+Fiat,New Panda,fiat|new panda,5,2025,2026,18,1,estimada
+Fiat,Panda,fiat|panda,1,1990,2011,177,4,tabla
+Fiat,Panda,fiat|panda,2,2012,2019,300,2,tabla
+Fiat,Panda,fiat|panda,3,2020,2026,300,4,tabla
+Fiat,Pandina,fiat|pandina,1,2025,2026,2,1,estimada
+Fiat,Punto,fiat|punto,1,1995,2002,11,3,estimada
+Fiat,Punto,fiat|punto,2,2003,2007,23,3,estimada
+Fiat,Punto,fiat|punto,3,2008,2012,46,4,estimada
+Fiat,Punto,fiat|punto,4,2013,2017,71,2,estimada
+Fiat,Punto,fiat|punto,5,2018,2018,9,2,estimada
+Fiat,Punto Evo,fiat|punto evo,1,2006,2013,62,3,estimada
+Fiat,Qubo,fiat|qubo,1,2008,2013,36,2,estimada
+Fiat,Qubo,fiat|qubo,2,2014,2018,23,2,estimada
+Fiat,Qubo,fiat|qubo,3,2019,2019,6,2,estimada
+Fiat,Qubo,fiat|qubo,4,2026,2026,5,1,estimada
+Fiat,Scudo,fiat|scudo,1,2006,2012,20,3,estimada
+Fiat,Scudo,fiat|scudo,2,2013,2016,17,3,estimada
+Fiat,Scudo,fiat|scudo,3,2022,2022,6,1,estimada
+Fiat,Scudo,fiat|scudo,4,2023,2026,39,2,estimada
+Fiat,Sedici,fiat|sedici,1,2006,2010,19,2,estimada
+Fiat,Sedici,fiat|sedici,2,2011,2013,9,1,estimada
+Fiat,Seicento,fiat|seicento,1,2001,2005,9,1,estimada
+Fiat,Sonstige,fiat|sonstige,1,2007,2026,4,2,sin_dato
+Fiat,Stilo,fiat|stilo,1,2003,2005,5,1,estimada
+Fiat,Strada,fiat|strada,1,2002,2006,4,2,estimada
+Fiat,Strada,fiat|strada,2,2007,2010,5,1,estimada
+Fiat,Talento,fiat|talento,1,2016,2021,39,3,estimada
+Fiat,Tempra,fiat|tempra,1,1991,1991,2,1,estimada
+Fiat,Tipo,fiat|tipo,1,1992,2020,154,3,tabla
+Fiat,Tipo,fiat|tipo,2,2021,2026,72,2,tabla
+Fiat,Ulysse,fiat|ulysse,1,2007,2008,4,2,estimada
+Fiat,Ulysse,fiat|ulysse,4,2023,2026,23,2,estimada
+Fiat,Uno,fiat|uno,1,1990,1994,12,3,estimada
+Ford,,ford|,1,2018,2026,87,4,estimada
+Ford,B-Max,ford|b-max,1,2013,2017,9,2,estimada
+Ford,Bronco,ford|bronco,1,2025,2025,1,1,estimada
+Ford,C-Max,ford|c-max,1,2004,2009,7,2,estimada
+Ford,C-Max,ford|c-max,2,2011,2014,9,2,estimada
+Ford,C-Max,ford|c-max,3,2015,2019,5,2,estimada
+Ford,Capri,ford|capri,1,2024,2026,5,1,estimada
+Ford,E-Transit,ford|e-transit,1,2026,2026,2,1,estimada
+Ford,EcoSport,ford|ecosport,1,2015,2019,15,2,estimada
+Ford,EcoSport,ford|ecosport,2,2021,2023,9,1,estimada
+Ford,Edge,ford|edge,1,2017,2017,1,,estimada
+Ford,Escape,ford|escape,1,2004,2004,1,1,estimada
+Ford,Escort,ford|escort,1,1997,1997,1,1,estimada
+Ford,Explorer,ford|explorer,1,2025,2026,8,1,estimada
+Ford,F 150,ford|f 150,1,2016,2016,1,1,estimada
+Ford,F 150,ford|f 150,2,2023,2026,4,2,estimada
+Ford,F 250,ford|f 250,1,2021,2021,1,1,estimada
+Ford,F 350,ford|f 350,1,2004,2004,1,1,estimada
+Ford,Fiesta,ford|fiesta,1,2000,2005,6,2,estimada
+Ford,Fiesta,ford|fiesta,2,2007,2011,14,3,estimada
+Ford,Fiesta,ford|fiesta,3,2012,2016,12,4,estimada
+Ford,Fiesta,ford|fiesta,4,2017,2021,29,4,estimada
+Ford,Fiesta,ford|fiesta,5,2022,2024,14,4,estimada
+Ford,Focus,ford|focus,1,2002,2012,7,3,estimada
+Ford,Focus,ford|focus,2,2013,2017,11,4,estimada
+Ford,Focus,ford|focus,3,2018,2022,18,4,estimada
+Ford,Focus,ford|focus,4,2023,2026,32,4,estimada
+Ford,Fusion,ford|fusion,1,2005,2010,3,1,estimada
+Ford,Galaxy,ford|galaxy,1,2011,2011,2,1,estimada
+Ford,Galaxy,ford|galaxy,2,2017,2020,5,1,estimada
+Ford,Galaxy,ford|galaxy,3,2022,2022,2,1,estimada
+Ford,Grand C-Max,ford|grand c-max,1,2012,2016,6,1,estimada
+Ford,Grand Tourneo,ford|grand tourneo,1,2015,2016,3,2,estimada
+Ford,Grand Tourneo,ford|grand tourneo,2,2021,2022,2,1,estimada
+Ford,Grand Tourneo,ford|grand tourneo,3,2026,2026,1,1,estimada
+Ford,GT,ford|gt,1,2018,2018,1,1,estimada
+Ford,Ka/Ka+,ford|ka/ka+,1,2003,2003,1,,estimada
+Ford,Ka/Ka+,ford|ka/ka+,2,2009,2013,5,1,estimada
+Ford,Ka/Ka+,ford|ka/ka+,3,2017,2018,3,1,estimada
+Ford,Kuga,ford|kuga,1,2014,2022,38,3,estimada
+Ford,Kuga,ford|kuga,2,2023,2026,37,3,estimada
+Ford,Mondeo,ford|mondeo,1,1999,2003,4,1,estimada
+Ford,Mondeo,ford|mondeo,2,2006,2009,5,2,estimada
+Ford,Mondeo,ford|mondeo,3,2012,2015,4,1,estimada
+Ford,Mondeo,ford|mondeo,4,2016,2020,13,2,estimada
+Ford,Mondeo,ford|mondeo,5,2021,2022,4,2,estimada
+Ford,Mustang,ford|mustang,1,2012,2017,4,2,estimada
+Ford,Mustang,ford|mustang,2,2018,2022,6,1,estimada
+Ford,Mustang,ford|mustang,3,2023,2026,6,2,estimada
+Ford,Mustang Mach-E,ford|mustang mach-e,1,2021,2025,6,1,estimada
+Ford,Puma,ford|puma,1,2020,2024,29,4,estimada
+Ford,Puma,ford|puma,2,2025,2026,25,2,estimada
+Ford,Puma Gen-E,ford|puma gen-e,1,2025,2026,7,2,estimada
+Ford,Ranger,ford|ranger,1,2011,2019,9,2,estimada
+Ford,Ranger,ford|ranger,2,2021,2025,17,3,estimada
+Ford,Ranger,ford|ranger,3,2026,2026,12,3,estimada
+Ford,Ranger Raptor,ford|ranger raptor,1,2017,2020,2,1,estimada
+Ford,Ranger Raptor,ford|ranger raptor,2,2023,2024,2,1,estimada
+Ford,S-Max,ford|s-max,1,2006,2012,6,3,estimada
+Ford,S-Max,ford|s-max,2,2013,2017,8,2,estimada
+Ford,S-Max,ford|s-max,3,2018,2021,11,3,estimada
+Ford,Streetka,ford|streetka,1,2003,2003,1,1,estimada
+Ford,Tourneo,ford|tourneo,1,2014,2014,1,1,estimada
+Ford,Tourneo,ford|tourneo,3,2026,2026,4,1,estimada
+Ford,Tourneo Connect,ford|tourneo connect,1,2014,2019,2,1,estimada
+Ford,Tourneo Connect,ford|tourneo connect,2,2021,2025,9,1,estimada
+Ford,Tourneo Connect,ford|tourneo connect,3,2026,2026,8,1,estimada
+Ford,Tourneo Courier,ford|tourneo courier,1,2014,2018,2,1,estimada
+Ford,Tourneo Courier,ford|tourneo courier,2,2024,2024,2,1,estimada
+Ford,Tourneo Courier,ford|tourneo courier,3,2025,2026,10,1,estimada
+Ford,Tourneo Custom,ford|tourneo custom,1,2014,2018,5,2,estimada
+Ford,Tourneo Custom,ford|tourneo custom,2,2019,2023,13,2,estimada
+Ford,Tourneo Custom,ford|tourneo custom,3,2024,2026,22,3,estimada
+Ford,Transit,ford|transit,1,1996,2002,3,2,estimada
+Ford,Transit,ford|transit,2,2006,2009,3,1,estimada
+Ford,Transit,ford|transit,3,2011,2015,6,3,estimada
+Ford,Transit,ford|transit,4,2016,2020,12,2,estimada
+Ford,Transit,ford|transit,5,2021,2025,18,3,estimada
+Ford,Transit,ford|transit,6,2026,2026,5,1,estimada
+Ford,Transit Connect,ford|transit connect,1,2018,2022,5,1,estimada
+Ford,Transit Connect,ford|transit connect,2,2023,2026,5,1,estimada
+Ford,Transit Courier,ford|transit courier,1,2020,2020,1,1,estimada
+Ford,Transit Courier,ford|transit courier,2,2025,2026,4,2,estimada
+Ford,Transit Custom,ford|transit custom,1,2014,2019,12,2,estimada
+Ford,Transit Custom,ford|transit custom,2,2020,2024,19,3,estimada
+Ford,Transit Custom,ford|transit custom,3,2025,2026,29,4,estimada
+Honda,Accord,honda|accord,1,1993,1993,1,1,estimada
+Honda,Accord,honda|accord,2,2003,2004,4,2,estimada
+Honda,Accord,honda|accord,3,2006,2010,6,2,estimada
+Honda,Accord,honda|accord,4,2013,2014,2,1,estimada
+Honda,Civic,honda|civic,1,1999,2005,9,2,estimada
+Honda,Civic,honda|civic,2,2006,2010,12,2,estimada
+Honda,Civic,honda|civic,3,2012,2015,4,2,estimada
+Honda,Civic,honda|civic,4,2016,2020,64,5,estimada
+Honda,Civic,honda|civic,5,2021,2025,41,3,estimada
+Honda,Civic,honda|civic,6,2026,2026,18,3,estimada
+Honda,Concerto,honda|concerto,1,1993,1993,1,1,estimada
+Honda,CR-V,honda|cr-v,1,1998,2010,18,2,estimada
+Honda,CR-V,honda|cr-v,2,2011,2014,16,2,estimada
+Honda,CR-V,honda|cr-v,3,2016,2020,57,3,estimada
+Honda,CR-V,honda|cr-v,4,2021,2025,82,2,estimada
+Honda,CR-V,honda|cr-v,5,2026,2026,15,2,estimada
+Honda,CR-Z,honda|cr-z,1,2010,2011,3,1,estimada
+Honda,CRX,honda|crx,1,1998,1998,1,1,estimada
+Honda,e,honda|e,1,2020,2024,14,2,estimada
+Honda,e:Ny1,honda|e:ny1,1,2023,2025,7,1,estimada
+Honda,FR-V,honda|fr-v,1,2005,2010,6,1,estimada
+Honda,HR-V,honda|hr-v,1,1999,2019,54,3,estimada
+Honda,HR-V,honda|hr-v,2,2020,2024,45,3,estimada
+Honda,HR-V,honda|hr-v,3,2025,2026,30,2,estimada
+Honda,Insight,honda|insight,1,2009,2012,2,1,estimada
+Honda,Jazz,honda|jazz,1,2003,2009,11,1,estimada
+Honda,Jazz,honda|jazz,2,2010,2014,6,1,estimada
+Honda,Jazz,honda|jazz,3,2015,2019,36,2,estimada
+Honda,Jazz,honda|jazz,4,2020,2024,46,2,estimada
+Honda,Jazz,honda|jazz,5,2025,2026,55,2,estimada
+Honda,Legend,honda|legend,1,2000,2000,1,1,estimada
+Honda,NSX,honda|nsx,1,1998,1998,1,1,estimada
+Honda,NSX,honda|nsx,4,2018,2018,1,1,estimada
+Honda,Odyssey,honda|odyssey,1,2016,2016,1,1,estimada
+Honda,Odyssey,honda|odyssey,2,2021,2025,3,1,estimada
+Honda,Prelude,honda|prelude,1,2026,2026,24,2,estimada
+Honda,S 2000,honda|s 2000,1,2001,2007,2,1,estimada
+Honda,ZR-V,honda|zr-v,1,2023,2026,101,2,estimada
+Hyundai,ACCENT,hyundai|accent,1,2002,2002,1,1,estimada
+Hyundai,BAYON,hyundai|bayon,1,2021,2026,47,2,estimada
+Hyundai,Galloper,hyundai|galloper,1,2000,2000,1,1,estimada
+Hyundai,Genesis Coupe,hyundai|genesis coupe,1,2013,2013,1,1,estimada
+Hyundai,Getz,hyundai|getz,1,2007,2008,3,1,estimada
+Hyundai,H 350,hyundai|h 350,1,2018,2018,1,,estimada
+Hyundai,H-1,hyundai|h-1,1,2016,2019,3,2,estimada
+Hyundai,i10,hyundai|i10,1,2008,2012,8,1,estimada
+Hyundai,i10,hyundai|i10,2,2013,2017,11,2,estimada
+Hyundai,i10,hyundai|i10,3,2018,2022,18,2,estimada
+Hyundai,i10,hyundai|i10,4,2023,2026,36,3,estimada
+Hyundai,i20,hyundai|i20,1,2009,2016,13,1,estimada
+Hyundai,i20,hyundai|i20,2,2017,2021,17,3,estimada
+Hyundai,i20,hyundai|i20,3,2022,2026,104,3,estimada
+Hyundai,i30,hyundai|i30,1,2010,2015,10,2,estimada
+Hyundai,i30,hyundai|i30,2,2017,2021,32,4,estimada
+Hyundai,i30,hyundai|i30,3,2022,2026,82,5,estimada
+Hyundai,i40,hyundai|i40,1,2012,2017,10,2,estimada
+Hyundai,Inster,hyundai|inster,1,2025,2026,11,1,estimada
+Hyundai,IONIQ,hyundai|ioniq,1,2018,2020,5,2,estimada
+Hyundai,IONIQ,hyundai|ioniq,2,2025,2026,3,2,estimada
+Hyundai,IONIQ 5,hyundai|ioniq 5,1,2022,2026,36,4,estimada
+Hyundai,IONIQ 6,hyundai|ioniq 6,1,2023,2026,13,3,estimada
+Hyundai,IONIQ 9,hyundai|ioniq 9,1,2026,2026,2,2,estimada
+Hyundai,iX20,hyundai|ix20,1,2011,2015,5,2,estimada
+Hyundai,iX20,hyundai|ix20,2,2017,2017,3,2,estimada
+Hyundai,iX35,hyundai|ix35,1,2010,2014,12,2,estimada
+Hyundai,KONA,hyundai|kona,1,2018,2023,58,4,estimada
+Hyundai,KONA,hyundai|kona,2,2024,2026,49,4,estimada
+Hyundai,NEXO,hyundai|nexo,1,2020,2023,3,1,estimada
+Hyundai,SANTA FE,hyundai|santa fe,1,2007,2009,3,2,estimada
+Hyundai,SANTA FE,hyundai|santa fe,3,2018,2022,11,1,estimada
+Hyundai,SANTA FE,hyundai|santa fe,4,2023,2026,12,3,estimada
+Hyundai,Sonstige,hyundai|sonstige,1,2025,2026,5,3,sin_dato
+Hyundai,STARIA,hyundai|staria,1,2022,2026,21,2,estimada
+Hyundai,TUCSON,hyundai|tucson,1,2009,2021,33,3,estimada
+Hyundai,TUCSON,hyundai|tucson,2,2022,2026,117,4,estimada
+Jaguar,Daimler,jaguar|daimler,1,1991,1992,3,1,estimada
+Jaguar,Daimler,jaguar|daimler,2,1998,1999,3,2,estimada
+Jaguar,Daimler,jaguar|daimler,3,2001,2002,2,1,estimada
+Jaguar,E-Pace,jaguar|e-pace,1,2018,2024,146,4,estimada
+Jaguar,E-Type,jaguar|e-type,1,2020,2020,1,1,estimada
+Jaguar,F-Pace,jaguar|f-pace,1,2016,2020,92,4,estimada
+Jaguar,F-Pace,jaguar|f-pace,2,2021,2025,75,5,estimada
+Jaguar,F-Type,jaguar|f-type,1,2014,2019,39,3,estimada
+Jaguar,F-Type,jaguar|f-type,2,2020,2025,62,3,estimada
+Jaguar,I-Pace,jaguar|i-pace,1,2018,2024,51,2,estimada
+Jaguar,S-Type,jaguar|s-type,1,2000,2003,4,1,estimada
+Jaguar,S-Type,jaguar|s-type,2,2005,2007,3,1,estimada
+Jaguar,Sovereign,jaguar|sovereign,1,1996,1996,3,1,estimada
+Jaguar,X-Type,jaguar|x-type,1,2001,2005,3,2,estimada
+Jaguar,X-Type,jaguar|x-type,2,2006,2010,8,2,estimada
+Jaguar,XE,jaguar|xe,1,2015,2020,102,6,estimada
+Jaguar,XE,jaguar|xe,2,2021,2024,25,2,estimada
+Jaguar,XF,jaguar|xf,1,2008,2013,17,3,estimada
+Jaguar,XF,jaguar|xf,2,2014,2018,69,6,estimada
+Jaguar,XF,jaguar|xf,3,2019,2023,33,3,estimada
+Jaguar,XF,jaguar|xf,4,2024,2024,4,1,estimada
+Jaguar,XJ,jaguar|xj,1,1996,1998,3,2,estimada
+Jaguar,XJ,jaguar|xj,2,2001,2003,3,1,estimada
+Jaguar,XJ,jaguar|xj,3,2010,2010,2,2,estimada
+Jaguar,XJ,jaguar|xj,4,2013,2014,3,2,estimada
+Jaguar,XJ,jaguar|xj,5,2016,2019,7,1,estimada
+Jaguar,XJ40,jaguar|xj40,1,1990,1992,3,1,estimada
+Jaguar,XJ6,jaguar|xj6,1,1995,1995,1,1,estimada
+Jaguar,XJ6,jaguar|xj6,2,2005,2005,1,1,estimada
+Jaguar,XJ8,jaguar|xj8,1,1999,2001,3,1,estimada
+Jaguar,XJR,jaguar|xjr,1,1993,1993,1,1,estimada
+Jaguar,XJR,jaguar|xjr,2,1998,2001,2,1,estimada
+Jaguar,XJR,jaguar|xjr,5,2017,2017,1,1,estimada
+Jaguar,XJS,jaguar|xjs,1,1994,1996,3,1,estimada
+Jaguar,XK,jaguar|xk,1,1997,1997,1,1,estimada
+Jaguar,XK,jaguar|xk,2,2005,2007,3,1,estimada
+Jaguar,XK,jaguar|xk,3,2008,2012,5,2,estimada
+Jaguar,XK8,jaguar|xk8,1,1998,2001,6,1,estimada
+Jaguar,XKR,jaguar|xkr,1,1999,2003,5,1,estimada
+Jaguar,XKR,jaguar|xkr,2,2007,2009,2,1,estimada
+KGM,Actyon,kgm|actyon,1,2025,2026,64,2,estimada
+KGM,Andere,kgm|andere,1,2025,2026,2,1,sin_dato
+KGM,Korando,kgm|korando,1,2013,2022,5,1,estimada
+KGM,Korando,kgm|korando,2,2024,2026,50,1,estimada
+KGM,Musso,kgm|musso,1,2023,2026,34,2,estimada
+KGM,Musso Grand,kgm|musso grand,1,2022,2026,57,1,estimada
+KGM,Rexton,kgm|rexton,1,2014,2024,12,2,estimada
+KGM,Rexton,kgm|rexton,2,2025,2026,39,1,estimada
+KGM,Tivoli,kgm|tivoli,1,2016,2023,8,2,estimada
+KGM,Tivoli,kgm|tivoli,2,2024,2026,86,2,estimada
+KGM,Torres,kgm|torres,1,2002,2026,57,2,estimada
+KGM,Torres EVX,kgm|torres evx,1,2024,2026,13,1,estimada
+Kia,Andere,kia|andere,1,2004,2026,119,7,sin_dato
+Kia,Carens,kia|carens,1,2003,2009,14,1,estimada
+Kia,Carens,kia|carens,2,2013,2015,35,2,estimada
+Kia,Carens,kia|carens,3,2016,2018,20,2,estimada
+Kia,Carnival,kia|carnival,1,2004,2008,9,2,estimada
+Kia,Carnival,kia|carnival,4,2021,2024,4,2,estimada
+Kia,cee'd,kia|cee'd,1,2016,2020,7,3,estimada
+Kia,cee'd,kia|cee'd,2,2021,2025,6,2,estimada
+Kia,cee'd / Ceed,kia|cee'd / ceed,1,2007,2009,12,3,tabla
+Kia,cee'd / Ceed,kia|cee'd / ceed,2,2010,2011,8,2,tabla
+Kia,cee'd / Ceed,kia|cee'd / ceed,3,2012,2014,23,4,tabla
+Kia,cee'd / Ceed,kia|cee'd / ceed,4,2015,2017,32,4,tabla
+Kia,cee'd / Ceed,kia|cee'd / ceed,5,2018,2021,76,4,tabla
+Kia,cee'd / Ceed,kia|cee'd / ceed,6,2022,2026,147,4,tabla
+Kia,cee'd Sportswagon,kia|cee'd sportswagon,1,2009,2015,23,3,estimada
+Kia,cee'd Sportswagon,kia|cee'd sportswagon,2,2016,2020,46,2,estimada
+Kia,cee'd Sportswagon,kia|cee'd sportswagon,3,2021,2025,148,3,estimada
+Kia,cee'd Sportswagon,kia|cee'd sportswagon,4,2026,2026,14,2,estimada
+Kia,Ceed / cee'd,kia|ceed / cee'd,1,2008,2009,2,1,tabla
+Kia,Ceed / cee'd,kia|ceed / cee'd,2,2011,2011,1,1,tabla
+Kia,Ceed / cee'd,kia|ceed / cee'd,4,2015,2015,1,1,tabla
+Kia,Ceed / cee'd,kia|ceed / cee'd,5,2018,2021,3,2,tabla
+Kia,Ceed / cee'd,kia|ceed / cee'd,6,2022,2026,12,3,tabla
+Kia,Ceed SW / cee'd SW,kia|ceed sw / cee'd sw,5,2021,2021,1,1,tabla
+Kia,Ceed SW / cee'd SW,kia|ceed sw / cee'd sw,6,2022,2025,3,1,tabla
+Kia,Cerato,kia|cerato,1,2005,2007,3,1,estimada
+Kia,e-Niro,kia|e-niro,1,2022,2023,3,2,estimada
+Kia,Elan,kia|elan,1,1998,1998,1,1,estimada
+Kia,EV2,kia|ev2,1,2026,2026,61,2,estimada
+Kia,EV3,kia|ev3,1,2024,2026,72,3,estimada
+Kia,EV4,kia|ev4,1,2025,2026,88,1,estimada
+Kia,EV5,kia|ev5,1,2016,2026,20,2,estimada
+Kia,EV6,kia|ev6,1,2021,2026,115,4,estimada
+Kia,EV9,kia|ev9,1,2023,2026,34,3,estimada
+Kia,Joice,kia|joice,1,2002,2002,1,1,estimada
+Kia,K4,kia|k4,1,2025,2026,181,3,estimada
+Kia,Magentis,kia|magentis,1,2004,2004,1,1,estimada
+Kia,Niro,kia|niro,1,2016,2021,52,3,estimada
+Kia,Niro,kia|niro,2,2022,2026,65,3,estimada
+Kia,Niro EV,kia|niro ev,1,2020,2024,12,2,estimada
+Kia,Opirus,kia|opirus,1,2004,2005,4,1,estimada
+Kia,Optima,kia|optima,1,2012,2016,8,2,estimada
+Kia,Optima,kia|optima,2,2017,2020,17,2,estimada
+Kia,Picanto,kia|picanto,1,2004,2007,30,2,tabla
+Kia,Picanto,kia|picanto,2,2008,2010,21,1,tabla
+Kia,Picanto,kia|picanto,3,2011,2014,47,2,tabla
+Kia,Picanto,kia|picanto,4,2015,2016,20,2,tabla
+Kia,Picanto,kia|picanto,5,2017,2019,60,3,tabla
+Kia,Picanto,kia|picanto,6,2020,2023,91,3,tabla
+Kia,Picanto,kia|picanto,7,2024,2026,157,2,tabla
+Kia,Pride,kia|pride,1,2019,2019,1,1,estimada
+Kia,pro,kia|pro,1,2019,2025,10,2,estimada
+Kia,pro cee'd / ProCeed,kia|pro cee'd / proceed,2,2011,2011,1,1,tabla
+Kia,pro cee'd / ProCeed,kia|pro cee'd / proceed,3,2012,2014,4,2,tabla
+Kia,pro cee'd / ProCeed,kia|pro cee'd / proceed,4,2016,2016,1,1,tabla
+Kia,pro cee'd / ProCeed,kia|pro cee'd / proceed,5,2018,2021,56,3,tabla
+Kia,pro cee'd / ProCeed,kia|pro cee'd / proceed,6,2022,2025,47,2,tabla
+Kia,ProCeed / pro_cee'd,kia|proceed / pro_cee'd,5,2019,2021,6,1,tabla
+Kia,ProCeed / pro_cee'd,kia|proceed / pro_cee'd,6,2024,2024,1,1,tabla
+Kia,PV5,kia|pv5,1,2025,2026,19,1,estimada
+Kia,PV5 Passenger,kia|pv5 passenger,1,2026,2026,3,1,estimada
+Kia,Rio,kia|rio,1,2006,2012,34,2,estimada
+Kia,Rio,kia|rio,2,2013,2017,71,3,estimada
+Kia,Rio,kia|rio,3,2018,2022,41,3,estimada
+Kia,Rio,kia|rio,4,2023,2024,22,2,estimada
+Kia,Seltos,kia|seltos,1,2026,2026,42,1,estimada
+Kia,Sonstige,kia|sonstige,1,2021,2026,6,3,sin_dato
+Kia,Sorento,kia|sorento,1,2004,2008,11,2,tabla
+Kia,Sorento,kia|sorento,2,2009,2011,23,3,tabla
+Kia,Sorento,kia|sorento,3,2012,2014,20,1,tabla
+Kia,Sorento,kia|sorento,4,2015,2019,55,1,tabla
+Kia,Sorento,kia|sorento,5,2020,2023,72,2,tabla
+Kia,Sorento,kia|sorento,6,2024,2026,59,3,tabla
+Kia,Soul,kia|soul,1,2009,2013,15,1,estimada
+Kia,Soul,kia|soul,2,2014,2018,29,3,estimada
+Kia,Soul,kia|soul,3,2019,2023,10,1,estimada
+Kia,Soul,kia|soul,4,2024,2024,3,1,estimada
+Kia,Sportage,kia|sportage,1,1997,2009,34,4,tabla
+Kia,Sportage,kia|sportage,2,2010,2014,95,3,tabla
+Kia,Sportage,kia|sportage,3,2015,2017,135,3,tabla
+Kia,Sportage,kia|sportage,4,2018,2021,223,3,tabla
+Kia,Sportage,kia|sportage,5,2022,2023,152,3,tabla
+Kia,Sportage,kia|sportage,6,2024,2026,356,4,tabla
+Kia,Stinger,kia|stinger,1,2017,2021,18,3,estimada
+Kia,Stinger,kia|stinger,2,2022,2023,5,1,estimada
+Kia,Stonic,kia|stonic,1,2017,2020,84,3,tabla
+Kia,Stonic,kia|stonic,2,2021,2023,60,3,tabla
+Kia,Stonic,kia|stonic,3,2024,2026,131,3,tabla
+Kia,Venga,kia|venga,1,2010,2014,38,2,estimada
+Kia,Venga,kia|venga,2,2015,2019,29,3,estimada
+Kia,XCeed,kia|xceed,1,2013,2021,109,4,tabla
+Kia,XCeed,kia|xceed,2,2022,2026,239,3,tabla
+Land Rover,Andere,land rover|andere,1,2005,2025,7,5,sin_dato
+Land Rover,Defender,land rover|defender,1,1990,2026,520,10,tabla
+Land Rover,Discovery,land rover|discovery,1,1992,2008,29,4,tabla
+Land Rover,Discovery,land rover|discovery,2,2009,2016,85,4,tabla
+Land Rover,Discovery,land rover|discovery,3,2017,2020,111,4,tabla
+Land Rover,Discovery,land rover|discovery,4,2021,2026,96,4,tabla
+Land Rover,Discovery Sport,land rover|discovery sport,1,2015,2018,160,3,tabla
+Land Rover,Discovery Sport,land rover|discovery sport,2,2019,2022,182,4,tabla
+Land Rover,Discovery Sport,land rover|discovery sport,3,2023,2026,110,3,tabla
+Land Rover,Freelander,land rover|freelander,1,1999,2004,20,3,estimada
+Land Rover,Freelander,land rover|freelander,2,2005,2009,20,2,estimada
+Land Rover,Freelander,land rover|freelander,3,2010,2014,31,3,estimada
+Land Rover,Range,land rover|range,1,2006,2014,10,4,estimada
+Land Rover,Range,land rover|range,2,2015,2019,24,6,estimada
+Land Rover,Range,land rover|range,3,2020,2024,24,6,estimada
+Land Rover,Range,land rover|range,4,2025,2026,11,5,estimada
+Land Rover,Range Rover,land rover|range rover,1,1990,2009,24,6,tabla
+Land Rover,Range Rover,land rover|range rover,2,2010,2012,19,3,tabla
+Land Rover,Range Rover,land rover|range rover,3,2013,2016,40,4,tabla
+Land Rover,Range Rover,land rover|range rover,4,2017,2021,70,6,tabla
+Land Rover,Range Rover,land rover|range rover,5,2022,2026,155,6,tabla
+Land Rover,Range Rover Evoque,land rover|range rover evoque,1,2005,2014,94,3,tabla
+Land Rover,Range Rover Evoque,land rover|range rover evoque,2,2015,2018,237,4,tabla
+Land Rover,Range Rover Evoque,land rover|range rover evoque,3,2019,2022,347,4,tabla
+Land Rover,Range Rover Evoque,land rover|range rover evoque,4,2023,2026,175,4,tabla
+Land Rover,Range Rover Sport,land rover|range rover sport,1,2004,2008,21,3,tabla
+Land Rover,Range Rover Sport,land rover|range rover sport,2,2009,2012,48,3,tabla
+Land Rover,Range Rover Sport,land rover|range rover sport,3,2013,2016,121,3,tabla
+Land Rover,Range Rover Sport,land rover|range rover sport,4,2017,2021,177,5,tabla
+Land Rover,Range Rover Sport,land rover|range rover sport,5,2022,2026,185,6,tabla
+Land Rover,Range Rover Velar,land rover|range rover velar,1,2017,2020,152,5,tabla
+Land Rover,Range Rover Velar,land rover|range rover velar,2,2021,2026,195,4,tabla
+Land,Rover,land|rover,1,2016,2020,40,5,estimada
+Land,Rover,land|rover,2,2021,2025,43,6,estimada
+Land,Rover,land|rover,3,2026,2026,6,3,estimada
+Maserati,222,maserati|222,1,1990,1994,4,1,estimada
+Maserati,224,maserati|224,1,1990,1990,1,1,estimada
+Maserati,228,maserati|228,1,1993,1993,1,1,estimada
+Maserati,3200,maserati|3200,1,1999,2003,39,2,estimada
+Maserati,3200,maserati|3200,2,2005,2005,2,1,estimada
+Maserati,418,maserati|418,1,1992,1992,1,1,estimada
+Maserati,4200,maserati|4200,1,2001,2006,33,1,estimada
+Maserati,4200,maserati|4200,2,2007,2008,5,1,estimada
+Maserati,4200,maserati|4200,3,2015,2015,1,1,estimada
+Maserati,4200,maserati|4200,5,2023,2024,2,1,estimada
+Maserati,Andere,maserati|andere,1,1992,2025,33,6,sin_dato
+Maserati,Biturbo,maserati|biturbo,1,1991,1994,3,2,estimada
+Maserati,Coupe,maserati|coupe,1,2005,2006,2,1,estimada
+Maserati,Ghibli,maserati|ghibli,1,1990,2017,314,3,tabla
+Maserati,Ghibli,maserati|ghibli,2,2018,2020,121,4,tabla
+Maserati,Ghibli,maserati|ghibli,3,2021,2026,122,4,tabla
+Maserati,GranCabrio,maserati|grancabrio,1,2010,2014,40,1,estimada
+Maserati,GranCabrio,maserati|grancabrio,2,2015,2019,44,1,estimada
+Maserati,GranCabrio,maserati|grancabrio,3,2020,2024,8,2,estimada
+Maserati,GranCabrio,maserati|grancabrio,4,2025,2026,16,1,estimada
+Maserati,Gransport,maserati|gransport,1,2002,2007,25,1,estimada
+Maserati,Gransport,maserati|gransport,2,2008,2008,2,1,estimada
+Maserati,Gransport,maserati|gransport,3,2021,2021,1,1,estimada
+Maserati,Granturismo,maserati|granturismo,1,2007,2012,93,2,tabla
+Maserati,Granturismo,maserati|granturismo,2,2013,2017,50,1,tabla
+Maserati,Granturismo,maserati|granturismo,3,2018,2020,34,1,tabla
+Maserati,Granturismo,maserati|granturismo,4,2023,2026,71,3,tabla
+Maserati,Grecale,maserati|grecale,1,2021,2026,436,3,estimada
+Maserati,Karif,maserati|karif,1,1993,1993,1,1,estimada
+Maserati,Levante,maserati|levante,1,2016,2020,501,4,tabla
+Maserati,Levante,maserati|levante,2,2021,2026,305,4,tabla
+Maserati,MC20,maserati|mc20,1,2021,2025,71,1,estimada
+Maserati,Quattroporte,maserati|quattroporte,1,1995,2007,73,2,tabla
+Maserati,Quattroporte,maserati|quattroporte,2,2008,2012,36,1,tabla
+Maserati,Quattroporte,maserati|quattroporte,3,2013,2015,64,3,tabla
+Maserati,Quattroporte,maserati|quattroporte,4,2016,2020,84,3,tabla
+Maserati,Quattroporte,maserati|quattroporte,5,2021,2026,22,4,tabla
+Maserati,Shamal,maserati|shamal,1,1991,1991,1,,estimada
+Maserati,Spyder,maserati|spyder,1,1990,1993,5,2,estimada
+Maserati,Spyder,maserati|spyder,3,2001,2007,35,1,estimada
+Mazda,2,mazda|2,1,2003,2006,52,4,tabla
+Mazda,2,mazda|2,2,2007,2009,81,6,tabla
+Mazda,2,mazda|2,3,2010,2013,61,7,tabla
+Mazda,2,mazda|2,4,2014,2019,100,4,tabla
+Mazda,2,mazda|2,5,2020,2022,42,2,tabla
+Mazda,2,mazda|2,6,2023,2026,104,3,tabla
+Mazda,2 Hybrid,mazda|2 hybrid,1,2022,2026,127,3,estimada
+Mazda,3,mazda|3,1,2003,2008,48,4,tabla
+Mazda,3,mazda|3,2,2009,2012,47,4,tabla
+Mazda,3,mazda|3,3,2013,2015,48,3,tabla
+Mazda,3,mazda|3,4,2016,2018,57,2,tabla
+Mazda,3,mazda|3,5,2019,2021,76,3,tabla
+Mazda,3,mazda|3,6,2022,2026,325,3,tabla
+Mazda,323,mazda|323,1,1991,1995,6,3,estimada
+Mazda,323,mazda|323,2,1999,2000,6,2,estimada
+Mazda,323,mazda|323,3,2001,2002,2,1,estimada
+Mazda,5,mazda|5,1,2005,2009,38,2,estimada
+Mazda,5,mazda|5,2,2010,2014,53,2,estimada
+Mazda,5,mazda|5,3,2015,2026,6,2,estimada
+Mazda,6,mazda|6,1,2003,2007,33,3,tabla
+Mazda,6,mazda|6,2,2008,2012,47,3,tabla
+Mazda,6,mazda|6,3,2013,2014,42,2,tabla
+Mazda,6,mazda|6,4,2015,2017,69,2,tabla
+Mazda,6,mazda|6,5,2018,2021,43,2,tabla
+Mazda,6,mazda|6,6,2022,2026,45,4,tabla
+Mazda,626,mazda|626,1,1990,1993,6,2,estimada
+Mazda,626,mazda|626,2,1996,1996,1,1,estimada
+Mazda,626,mazda|626,3,2000,2001,2,2,estimada
+Mazda,6e,mazda|6e,1,2009,2026,78,3,estimada
+Mazda,Andere,mazda|andere,1,2004,2026,46,5,sin_dato
+Mazda,BT-50,mazda|bt-50,1,2007,2009,3,1,estimada
+Mazda,CX-3,mazda|cx-3,1,2015,2017,108,2,tabla
+Mazda,CX-3,mazda|cx-3,2,2018,2020,88,2,tabla
+Mazda,CX-3,mazda|cx-3,3,2021,2026,37,3,tabla
+Mazda,CX-30,mazda|cx-30,1,2019,2021,114,3,tabla
+Mazda,CX-30,mazda|cx-30,2,2022,2026,419,3,tabla
+Mazda,CX-5,mazda|cx-5,1,1990,2014,165,4,tabla
+Mazda,CX-5,mazda|cx-5,2,2015,2016,111,4,tabla
+Mazda,CX-5,mazda|cx-5,3,2017,2020,205,2,tabla
+Mazda,CX-5,mazda|cx-5,4,2021,2022,94,2,tabla
+Mazda,CX-5,mazda|cx-5,5,2023,2026,232,2,tabla
+Mazda,CX-60,mazda|cx-60,1,2022,2026,451,3,estimada
+Mazda,CX-6e,mazda|cx-6e,1,2026,2026,35,2,estimada
+Mazda,CX-7,mazda|cx-7,1,2007,2011,32,2,estimada
+Mazda,CX-7,mazda|cx-7,2,2012,2026,13,1,estimada
+Mazda,CX-80,mazda|cx-80,1,2023,2026,126,4,estimada
+Mazda,CX-9,mazda|cx-9,1,2009,2010,2,1,estimada
+Mazda,CX-9,mazda|cx-9,2,2015,2018,2,1,estimada
+Mazda,CX-9,mazda|cx-9,3,2021,2021,2,1,estimada
+Mazda,Demio,mazda|demio,1,1999,2002,4,1,estimada
+Mazda,E series,mazda|e series,1,2007,2007,2,1,estimada
+Mazda,E series,mazda|e series,3,2021,2021,1,1,estimada
+Mazda,MPV,mazda|mpv,1,2003,2004,3,1,estimada
+Mazda,MX-3,mazda|mx-3,1,1992,1997,2,1,estimada
+Mazda,MX-30,mazda|mx-30,1,2020,2025,73,3,estimada
+Mazda,MX-5,mazda|mx-5,1,1990,2004,98,5,tabla
+Mazda,MX-5,mazda|mx-5,2,2005,2008,24,2,tabla
+Mazda,MX-5,mazda|mx-5,3,2009,2014,13,2,tabla
+Mazda,MX-5,mazda|mx-5,4,2015,2017,11,2,tabla
+Mazda,MX-5,mazda|mx-5,5,2018,2023,28,2,tabla
+Mazda,MX-5,mazda|mx-5,6,2024,2026,79,2,tabla
+Mazda,MX-6,mazda|mx-6,1,2011,2011,1,,estimada
+Mazda,Premacy,mazda|premacy,1,2000,2005,8,2,estimada
+Mazda,RX-7,mazda|rx-7,1,1990,1994,2,1,estimada
+Mazda,RX-8,mazda|rx-8,1,2004,2009,12,2,estimada
+Mazda,Sonstige,mazda|sonstige,1,2020,2026,5,2,sin_dato
+Mazda,Tribute,mazda|tribute,1,2001,2005,3,2,estimada
+Mazda,Xedos,mazda|xedos,1,2000,2000,1,1,estimada
+Mercedes-Benz,,mercedes-benz|,1,2016,2021,34,7,estimada
+Mercedes-Benz,,mercedes-benz|,2,2023,2026,48,5,estimada
+Mercedes-Benz,180,mercedes-benz|180,1,2006,2006,1,1,estimada
+Mercedes-Benz,180,mercedes-benz|180,2,2017,2020,14,2,estimada
+Mercedes-Benz,180,mercedes-benz|180,3,2022,2024,4,1,estimada
+Mercedes-Benz,190,mercedes-benz|190,1,1990,1992,2,1,estimada
+Mercedes-Benz,200,mercedes-benz|200,1,1992,1992,1,1,estimada
+Mercedes-Benz,200,mercedes-benz|200,5,2016,2017,3,2,estimada
+Mercedes-Benz,200,mercedes-benz|200,6,2022,2022,2,1,estimada
+Mercedes-Benz,210/310,mercedes-benz|210/310,1,2004,2004,1,1,estimada
+Mercedes-Benz,220,mercedes-benz|220,1,2017,2020,5,1,estimada
+Mercedes-Benz,220,mercedes-benz|220,2,2023,2023,2,1,estimada
+Mercedes-Benz,250,mercedes-benz|250,1,1993,1993,1,1,estimada
+Mercedes-Benz,250,mercedes-benz|250,7,2025,2025,2,1,estimada
+Mercedes-Benz,300,mercedes-benz|300,1,2023,2023,1,1,estimada
+Mercedes-Benz,320,mercedes-benz|320,1,2025,2025,1,,estimada
+Mercedes-Benz,350,mercedes-benz|350,1,2018,2018,2,1,estimada
+Mercedes-Benz,A 140,mercedes-benz|a 140,1,2023,2026,3,2,estimada
+Mercedes-Benz,A 150,mercedes-benz|a 150,1,2008,2012,4,1,estimada
+Mercedes-Benz,A 150,mercedes-benz|a 150,3,2022,2022,1,1,estimada
+Mercedes-Benz,A 160,mercedes-benz|a 160,1,2002,2012,5,1,estimada
+Mercedes-Benz,A 160,mercedes-benz|a 160,2,2016,2018,19,2,estimada
+Mercedes-Benz,A 160,mercedes-benz|a 160,3,2019,2022,15,1,estimada
+Mercedes-Benz,A 170,mercedes-benz|a 170,1,2002,2006,3,2,estimada
+Mercedes-Benz,A 170,mercedes-benz|a 170,4,2018,2018,1,1,estimada
+Mercedes-Benz,A 180,mercedes-benz|a 180,2,2010,2011,2,1,tabla
+Mercedes-Benz,A 180,mercedes-benz|a 180,3,2013,2013,1,1,tabla
+Mercedes-Benz,A 180,mercedes-benz|a 180,4,2015,2017,35,1,tabla
+Mercedes-Benz,A 180,mercedes-benz|a 180,5,2018,2021,189,2,tabla
+Mercedes-Benz,A 180,mercedes-benz|a 180,6,2022,2026,145,2,tabla
+Mercedes-Benz,A 190,mercedes-benz|a 190,1,2000,2000,1,1,estimada
+Mercedes-Benz,A 200,mercedes-benz|a 200,1,2005,2020,69,2,estimada
+Mercedes-Benz,A 200,mercedes-benz|a 200,2,2021,2025,74,2,estimada
+Mercedes-Benz,A 200,mercedes-benz|a 200,3,2026,2026,12,1,estimada
+Mercedes-Benz,A 220,mercedes-benz|a 220,1,2017,2021,29,2,estimada
+Mercedes-Benz,A 220,mercedes-benz|a 220,2,2022,2026,12,1,estimada
+Mercedes-Benz,A 250,mercedes-benz|a 250,1,2018,2022,65,2,estimada
+Mercedes-Benz,A 250,mercedes-benz|a 250,2,2023,2026,51,2,estimada
+Mercedes-Benz,A 35 AMG,mercedes-benz|a 35 amg,1,2019,2023,22,1,estimada
+Mercedes-Benz,A 35 AMG,mercedes-benz|a 35 amg,2,2024,2026,10,1,estimada
+Mercedes-Benz,A 45 AMG,mercedes-benz|a 45 amg,1,2014,2019,14,3,estimada
+Mercedes-Benz,A 45 AMG,mercedes-benz|a 45 amg,2,2020,2024,14,2,estimada
+Mercedes-Benz,AMG GT,mercedes-benz|amg gt,1,2016,2020,27,3,estimada
+Mercedes-Benz,AMG GT,mercedes-benz|amg gt,2,2021,2025,12,3,estimada
+Mercedes-Benz,AMG GT,mercedes-benz|amg gt,3,2026,2026,2,2,estimada
+Mercedes-Benz,B 160,mercedes-benz|b 160,1,2010,2010,1,1,estimada
+Mercedes-Benz,B 160,mercedes-benz|b 160,2,2015,2016,2,1,estimada
+Mercedes-Benz,B 160,mercedes-benz|b 160,3,2020,2021,2,2,estimada
+Mercedes-Benz,B 180,mercedes-benz|b 180,1,2005,2016,18,1,estimada
+Mercedes-Benz,B 180,mercedes-benz|b 180,2,2017,2021,90,2,estimada
+Mercedes-Benz,B 180,mercedes-benz|b 180,3,2022,2026,32,1,estimada
+Mercedes-Benz,B 200,mercedes-benz|b 200,1,2006,2013,6,2,estimada
+Mercedes-Benz,B 200,mercedes-benz|b 200,2,2016,2020,41,2,estimada
+Mercedes-Benz,B 200,mercedes-benz|b 200,3,2021,2026,44,1,estimada
+Mercedes-Benz,B 220,mercedes-benz|b 220,1,2015,2019,11,1,estimada
+Mercedes-Benz,B 220,mercedes-benz|b 220,2,2020,2024,4,2,estimada
+Mercedes-Benz,B 220,mercedes-benz|b 220,3,2025,2025,3,1,estimada
+Mercedes-Benz,B 250,mercedes-benz|b 250,1,2020,2024,18,2,estimada
+Mercedes-Benz,B 250,mercedes-benz|b 250,2,2025,2026,6,2,estimada
+Mercedes-Benz,C 160,mercedes-benz|c 160,1,2017,2017,1,1,estimada
+Mercedes-Benz,C 180,mercedes-benz|c 180,1,2002,2012,6,2,estimada
+Mercedes-Benz,C 180,mercedes-benz|c 180,2,2016,2018,30,2,estimada
+Mercedes-Benz,C 180,mercedes-benz|c 180,3,2019,2023,49,2,estimada
+Mercedes-Benz,C 180,mercedes-benz|c 180,4,2024,2026,24,2,estimada
+Mercedes-Benz,C 200,mercedes-benz|c 200,1,2004,2018,61,2,estimada
+Mercedes-Benz,C 200,mercedes-benz|c 200,2,2019,2023,87,3,estimada
+Mercedes-Benz,C 200,mercedes-benz|c 200,3,2024,2026,34,2,estimada
+Mercedes-Benz,C 220,mercedes-benz|c 220,1,2001,2014,11,1,estimada
+Mercedes-Benz,C 220,mercedes-benz|c 220,2,2016,2019,73,3,estimada
+Mercedes-Benz,C 220,mercedes-benz|c 220,3,2020,2024,90,2,estimada
+Mercedes-Benz,C 220,mercedes-benz|c 220,4,2025,2026,18,1,estimada
+Mercedes-Benz,C 230,mercedes-benz|c 230,1,2007,2007,1,1,estimada
+Mercedes-Benz,C 230,mercedes-benz|c 230,4,2025,2025,1,1,estimada
+Mercedes-Benz,C 240,mercedes-benz|c 240,1,2004,2004,1,,estimada
+Mercedes-Benz,C 250,mercedes-benz|c 250,1,2013,2018,15,1,estimada
+Mercedes-Benz,C 250,mercedes-benz|c 250,2,2021,2021,1,1,estimada
+Mercedes-Benz,C 280,mercedes-benz|c 280,1,2006,2007,2,1,estimada
+Mercedes-Benz,C 30 AMG,mercedes-benz|c 30 amg,1,2023,2024,3,1,estimada
+Mercedes-Benz,C 300,mercedes-benz|c 300,1,2016,2020,31,3,estimada
+Mercedes-Benz,C 300,mercedes-benz|c 300,2,2021,2025,80,3,estimada
+Mercedes-Benz,C 300,mercedes-benz|c 300,3,2026,2026,14,2,estimada
+Mercedes-Benz,C 320,mercedes-benz|c 320,1,2022,2022,2,2,estimada
+Mercedes-Benz,C 350,mercedes-benz|c 350,1,2016,2018,5,2,estimada
+Mercedes-Benz,C 36 AMG,mercedes-benz|c 36 amg,1,2021,2021,1,1,estimada
+Mercedes-Benz,C 400,mercedes-benz|c 400,1,2017,2017,1,1,estimada
+Mercedes-Benz,C 400,mercedes-benz|c 400,2,2026,2026,7,1,estimada
+Mercedes-Benz,C 43 AMG,mercedes-benz|c 43 amg,1,2016,2020,24,1,estimada
+Mercedes-Benz,C 43 AMG,mercedes-benz|c 43 amg,2,2022,2025,5,1,estimada
+Mercedes-Benz,C 450,mercedes-benz|c 450,1,2016,2016,1,1,estimada
+Mercedes-Benz,C 63 AMG,mercedes-benz|c 63 amg,1,2012,2018,38,3,estimada
+Mercedes-Benz,C 63 AMG,mercedes-benz|c 63 amg,2,2019,2023,12,2,estimada
+Mercedes-Benz,C 63 AMG,mercedes-benz|c 63 amg,3,2025,2026,2,2,estimada
+Mercedes-Benz,Citan,mercedes-benz|citan,1,2013,2020,26,3,estimada
+Mercedes-Benz,Citan,mercedes-benz|citan,2,2021,2025,45,3,estimada
+Mercedes-Benz,Citan,mercedes-benz|citan,3,2026,2026,19,3,estimada
+Mercedes-Benz,CL 500,mercedes-benz|cl 500,1,2000,2000,1,1,estimada
+Mercedes-Benz,CL 65 AMG,mercedes-benz|cl 65 amg,1,2012,2012,1,1,estimada
+Mercedes-Benz,CLA 180,mercedes-benz|cla 180,1,2014,2020,65,2,estimada
+Mercedes-Benz,CLA 180,mercedes-benz|cla 180,2,2021,2025,67,1,estimada
+Mercedes-Benz,CLA 180,mercedes-benz|cla 180,3,2026,2026,15,1,estimada
+Mercedes-Benz,CLA 200,mercedes-benz|cla 200,1,2015,2015,1,1,tabla
+Mercedes-Benz,CLA 200,mercedes-benz|cla 200,2,2016,2018,42,1,tabla
+Mercedes-Benz,CLA 200,mercedes-benz|cla 200,3,2019,2022,97,2,tabla
+Mercedes-Benz,CLA 200,mercedes-benz|cla 200,4,2023,2026,78,2,tabla
+Mercedes-Benz,CLA 220,mercedes-benz|cla 220,1,2016,2020,33,1,estimada
+Mercedes-Benz,CLA 220,mercedes-benz|cla 220,2,2021,2025,15,1,estimada
+Mercedes-Benz,CLA 220,mercedes-benz|cla 220,3,2026,2026,3,1,estimada
+Mercedes-Benz,CLA 250,mercedes-benz|cla 250,1,2017,2022,49,2,estimada
+Mercedes-Benz,CLA 250,mercedes-benz|cla 250,2,2023,2026,83,4,estimada
+Mercedes-Benz,CLA 35 AMG,mercedes-benz|cla 35 amg,1,2019,2023,12,1,estimada
+Mercedes-Benz,CLA 35 AMG,mercedes-benz|cla 35 amg,2,2024,2025,3,1,estimada
+Mercedes-Benz,CLA 350,mercedes-benz|cla 350,1,2025,2026,7,1,estimada
+Mercedes-Benz,CLA 45 AMG,mercedes-benz|cla 45 amg,1,2015,2018,10,1,estimada
+Mercedes-Benz,CLA 45 AMG,mercedes-benz|cla 45 amg,2,2020,2025,14,2,estimada
+Mercedes-Benz,Clase T,mercedes-benz|clase t,1,2023,2023,2,1,estimada
+Mercedes-Benz,CLE 180,mercedes-benz|cle 180,1,2025,2025,5,1,estimada
+Mercedes-Benz,CLE 200,mercedes-benz|cle 200,1,2024,2026,12,1,estimada
+Mercedes-Benz,CLE 220,mercedes-benz|cle 220,1,2024,2026,16,1,estimada
+Mercedes-Benz,CLE 300,mercedes-benz|cle 300,1,2024,2025,3,2,estimada
+Mercedes-Benz,CLE 450,mercedes-benz|cle 450,1,2024,2026,2,1,estimada
+Mercedes-Benz,CLE 53 AMG,mercedes-benz|cle 53 amg,1,2024,2025,4,1,estimada
+Mercedes-Benz,CLK 200,mercedes-benz|clk 200,1,2000,2004,3,1,estimada
+Mercedes-Benz,CLK 320,mercedes-benz|clk 320,1,2001,2001,1,1,estimada
+Mercedes-Benz,CLS,mercedes-benz|cls,1,2016,2019,2,1,estimada
+Mercedes-Benz,CLS 220,mercedes-benz|cls 220,1,2017,2022,3,1,estimada
+Mercedes-Benz,CLS 250,mercedes-benz|cls 250,1,2013,2017,4,1,estimada
+Mercedes-Benz,CLS 250,mercedes-benz|cls 250,2,2018,2018,1,1,estimada
+Mercedes-Benz,CLS 250,mercedes-benz|cls 250,3,2024,2024,1,1,estimada
+Mercedes-Benz,CLS 300,mercedes-benz|cls 300,1,2019,2023,3,1,estimada
+Mercedes-Benz,CLS 320,mercedes-benz|cls 320,1,2006,2006,1,,estimada
+Mercedes-Benz,CLS 350,mercedes-benz|cls 350,1,2010,2010,1,1,estimada
+Mercedes-Benz,CLS 350,mercedes-benz|cls 350,2,2016,2021,9,1,estimada
+Mercedes-Benz,CLS 400,mercedes-benz|cls 400,1,2019,2022,3,1,estimada
+Mercedes-Benz,CLS 450,mercedes-benz|cls 450,1,2018,2022,4,1,estimada
+Mercedes-Benz,CLS 500,mercedes-benz|cls 500,1,2007,2007,1,1,estimada
+Mercedes-Benz,CLS 53 AMG,mercedes-benz|cls 53 amg,1,2019,2022,3,1,estimada
+Mercedes-Benz,E 200,mercedes-benz|e 200,1,2000,2017,25,2,estimada
+Mercedes-Benz,E 200,mercedes-benz|e 200,2,2018,2022,50,2,estimada
+Mercedes-Benz,E 200,mercedes-benz|e 200,3,2023,2025,13,2,estimada
+Mercedes-Benz,E 220,mercedes-benz|e 220,1,1995,2012,6,2,estimada
+Mercedes-Benz,E 220,mercedes-benz|e 220,2,2015,2019,61,1,estimada
+Mercedes-Benz,E 220,mercedes-benz|e 220,3,2020,2024,36,1,estimada
+Mercedes-Benz,E 220,mercedes-benz|e 220,4,2025,2026,29,2,estimada
+Mercedes-Benz,E 240,mercedes-benz|e 240,1,2002,2002,1,,estimada
+Mercedes-Benz,E 250,mercedes-benz|e 250,1,2016,2018,4,1,estimada
+Mercedes-Benz,E 250,mercedes-benz|e 250,2,2025,2025,1,1,estimada
+Mercedes-Benz,E 280,mercedes-benz|e 280,1,2007,2009,2,2,estimada
+Mercedes-Benz,E 280,mercedes-benz|e 280,2,2017,2017,1,1,estimada
+Mercedes-Benz,E 300,mercedes-benz|e 300,1,2011,2021,34,3,estimada
+Mercedes-Benz,E 300,mercedes-benz|e 300,2,2022,2026,54,3,estimada
+Mercedes-Benz,E 320,mercedes-benz|e 320,1,1999,2003,2,1,estimada
+Mercedes-Benz,E 320,mercedes-benz|e 320,4,2016,2016,1,1,estimada
+Mercedes-Benz,E 350,mercedes-benz|e 350,1,2006,2010,6,2,estimada
+Mercedes-Benz,E 350,mercedes-benz|e 350,2,2011,2015,4,2,estimada
+Mercedes-Benz,E 350,mercedes-benz|e 350,3,2016,2019,12,1,estimada
+Mercedes-Benz,E 400,mercedes-benz|e 400,1,2017,2021,10,1,estimada
+Mercedes-Benz,E 400,mercedes-benz|e 400,2,2022,2025,3,1,estimada
+Mercedes-Benz,E 43 AMG,mercedes-benz|e 43 amg,1,2017,2018,2,1,estimada
+Mercedes-Benz,E 450,mercedes-benz|e 450,1,2019,2025,4,1,estimada
+Mercedes-Benz,E 53 AMG,mercedes-benz|e 53 amg,1,2019,2022,8,1,estimada
+Mercedes-Benz,E 53 AMG,mercedes-benz|e 53 amg,2,2025,2026,7,2,estimada
+Mercedes-Benz,E 63 AMG,mercedes-benz|e 63 amg,1,2017,2023,14,1,estimada
+Mercedes-Benz,EQA,mercedes-benz|eqa,1,2021,2026,9,1,estimada
+Mercedes-Benz,EQA 250,mercedes-benz|eqa 250,1,2021,2026,33,2,estimada
+Mercedes-Benz,EQA 300,mercedes-benz|eqa 300,1,2022,2026,5,2,estimada
+Mercedes-Benz,EQB 250,mercedes-benz|eqb 250,1,2022,2026,19,2,estimada
+Mercedes-Benz,EQB 300,mercedes-benz|eqb 300,1,2022,2025,9,1,estimada
+Mercedes-Benz,EQB 350,mercedes-benz|eqb 350,1,2023,2025,2,1,estimada
+Mercedes-Benz,EQC 400,mercedes-benz|eqc 400,1,2019,2023,14,1,estimada
+Mercedes-Benz,EQE 300,mercedes-benz|eqe 300,1,2023,2026,6,1,estimada
+Mercedes-Benz,EQE 350,mercedes-benz|eqe 350,1,2022,2026,12,2,estimada
+Mercedes-Benz,EQE 43,mercedes-benz|eqe 43,1,2023,2023,2,1,estimada
+Mercedes-Benz,EQE 500,mercedes-benz|eqe 500,1,2024,2024,1,1,estimada
+Mercedes-Benz,EQE 53,mercedes-benz|eqe 53,1,2024,2025,2,1,estimada
+Mercedes-Benz,EQE SUV,mercedes-benz|eqe suv,1,2024,2025,12,4,estimada
+Mercedes-Benz,EQS,mercedes-benz|eqs,1,2021,2025,19,4,estimada
+Mercedes-Benz,EQS SUV,mercedes-benz|eqs suv,1,2023,2024,2,2,estimada
+Mercedes-Benz,EQT,mercedes-benz|eqt,1,2023,2025,5,2,estimada
+Mercedes-Benz,EQV 300,mercedes-benz|eqv 300,1,2021,2025,14,2,estimada
+Mercedes-Benz,G,mercedes-benz|g,1,2018,2022,4,2,estimada
+Mercedes-Benz,G,mercedes-benz|g,2,2024,2026,4,3,estimada
+Mercedes-Benz,G 270,mercedes-benz|g 270,1,2003,2003,1,1,estimada
+Mercedes-Benz,G 350,mercedes-benz|g 350,1,2020,2022,2,1,estimada
+Mercedes-Benz,G 400,mercedes-benz|g 400,1,2021,2024,3,1,estimada
+Mercedes-Benz,G 450,mercedes-benz|g 450,1,2019,2025,5,1,estimada
+Mercedes-Benz,G 500,mercedes-benz|g 500,1,2016,2020,6,2,estimada
+Mercedes-Benz,G 500,mercedes-benz|g 500,2,2021,2024,8,1,estimada
+Mercedes-Benz,G 580,mercedes-benz|g 580,1,2025,2026,3,1,estimada
+Mercedes-Benz,G 63 AMG,mercedes-benz|g 63 amg,1,2018,2022,7,2,estimada
+Mercedes-Benz,G 63 AMG,mercedes-benz|g 63 amg,2,2023,2026,14,1,estimada
+Mercedes-Benz,GLA 180,mercedes-benz|gla 180,1,2016,2020,36,2,estimada
+Mercedes-Benz,GLA 180,mercedes-benz|gla 180,2,2021,2025,36,1,estimada
+Mercedes-Benz,GLA 180,mercedes-benz|gla 180,3,2026,2026,9,1,estimada
+Mercedes-Benz,GLA 200,mercedes-benz|gla 200,1,2016,2016,8,1,tabla
+Mercedes-Benz,GLA 200,mercedes-benz|gla 200,2,2017,2019,34,1,tabla
+Mercedes-Benz,GLA 200,mercedes-benz|gla 200,3,2020,2023,105,2,tabla
+Mercedes-Benz,GLA 200,mercedes-benz|gla 200,4,2024,2026,66,2,tabla
+Mercedes-Benz,GLA 220,mercedes-benz|gla 220,1,2016,2020,18,1,estimada
+Mercedes-Benz,GLA 220,mercedes-benz|gla 220,2,2021,2026,11,1,estimada
+Mercedes-Benz,GLA 250,mercedes-benz|gla 250,1,2016,2021,20,2,estimada
+Mercedes-Benz,GLA 250,mercedes-benz|gla 250,2,2022,2026,48,3,estimada
+Mercedes-Benz,GLA 35 AMG,mercedes-benz|gla 35 amg,1,2021,2025,4,1,estimada
+Mercedes-Benz,GLA 45 AMG,mercedes-benz|gla 45 amg,1,2016,2016,1,1,estimada
+Mercedes-Benz,GLA 45 AMG,mercedes-benz|gla 45 amg,2,2021,2026,5,1,estimada
+Mercedes-Benz,GLB 180,mercedes-benz|glb 180,1,2020,2024,24,1,estimada
+Mercedes-Benz,GLB 180,mercedes-benz|glb 180,2,2025,2026,10,1,estimada
+Mercedes-Benz,GLB 200,mercedes-benz|glb 200,1,2020,2024,66,2,estimada
+Mercedes-Benz,GLB 200,mercedes-benz|glb 200,2,2025,2026,25,1,estimada
+Mercedes-Benz,GLB 220,mercedes-benz|glb 220,1,2020,2023,23,1,estimada
+Mercedes-Benz,GLB 220,mercedes-benz|glb 220,2,2025,2026,5,1,estimada
+Mercedes-Benz,GLB 250,mercedes-benz|glb 250,1,2020,2021,2,1,estimada
+Mercedes-Benz,GLB 250,mercedes-benz|glb 250,2,2025,2026,9,2,estimada
+Mercedes-Benz,GLB 35 AMG,mercedes-benz|glb 35 amg,1,2020,2025,6,1,estimada
+Mercedes-Benz,GLC 200,mercedes-benz|glc 200,1,2019,2023,50,2,estimada
+Mercedes-Benz,GLC 200,mercedes-benz|glc 200,2,2024,2026,26,2,estimada
+Mercedes-Benz,GLC 220,mercedes-benz|glc 220,1,2015,2020,91,2,estimada
+Mercedes-Benz,GLC 220,mercedes-benz|glc 220,2,2021,2025,85,2,estimada
+Mercedes-Benz,GLC 220,mercedes-benz|glc 220,3,2026,2026,17,1,estimada
+Mercedes-Benz,GLC 250,mercedes-benz|glc 250,1,2016,2026,69,3,estimada
+Mercedes-Benz,GLC 300,mercedes-benz|glc 300,1,2017,2024,136,3,estimada
+Mercedes-Benz,GLC 300,mercedes-benz|glc 300,2,2025,2026,48,3,estimada
+Mercedes-Benz,GLC 350,mercedes-benz|glc 350,1,2016,2019,22,3,estimada
+Mercedes-Benz,GLC 400,mercedes-benz|glc 400,1,2020,2026,14,3,estimada
+Mercedes-Benz,GLC 43 AMG,mercedes-benz|glc 43 amg,1,2016,2020,13,1,estimada
+Mercedes-Benz,GLC 43 AMG,mercedes-benz|glc 43 amg,2,2021,2025,3,1,estimada
+Mercedes-Benz,GLC 43 AMG,mercedes-benz|glc 43 amg,3,2026,2026,2,1,estimada
+Mercedes-Benz,GLC 450,mercedes-benz|glc 450,1,2024,2025,5,1,estimada
+Mercedes-Benz,GLC 63 AMG,mercedes-benz|glc 63 amg,1,2018,2022,12,1,estimada
+Mercedes-Benz,GLC 63 AMG,mercedes-benz|glc 63 amg,2,2023,2025,6,3,estimada
+Mercedes-Benz,GLE 250,mercedes-benz|gle 250,1,2016,2018,7,1,estimada
+Mercedes-Benz,GLE 300,mercedes-benz|gle 300,1,2019,2023,25,1,estimada
+Mercedes-Benz,GLE 300,mercedes-benz|gle 300,2,2024,2026,3,1,estimada
+Mercedes-Benz,GLE 350,mercedes-benz|gle 350,1,2015,2020,44,5,estimada
+Mercedes-Benz,GLE 350,mercedes-benz|gle 350,2,2021,2025,88,3,estimada
+Mercedes-Benz,GLE 350,mercedes-benz|gle 350,3,2026,2026,5,2,estimada
+Mercedes-Benz,GLE 400,mercedes-benz|gle 400,1,2016,2022,12,1,estimada
+Mercedes-Benz,GLE 400,mercedes-benz|gle 400,2,2023,2026,13,2,estimada
+Mercedes-Benz,GLE 43 AMG,mercedes-benz|gle 43 amg,1,2016,2019,4,1,estimada
+Mercedes-Benz,GLE 450,mercedes-benz|gle 450,1,2017,2021,9,1,estimada
+Mercedes-Benz,GLE 450,mercedes-benz|gle 450,2,2023,2026,19,1,estimada
+Mercedes-Benz,GLE 500,mercedes-benz|gle 500,1,2018,2018,3,2,estimada
+Mercedes-Benz,GLE 53 AMG,mercedes-benz|gle 53 amg,1,2020,2024,19,2,estimada
+Mercedes-Benz,GLE 53 AMG,mercedes-benz|gle 53 amg,2,2025,2026,14,3,estimada
+Mercedes-Benz,GLE 580,mercedes-benz|gle 580,1,2021,2021,1,1,estimada
+Mercedes-Benz,GLE 63 AMG,mercedes-benz|gle 63 amg,1,2016,2018,2,1,estimada
+Mercedes-Benz,GLE 63 AMG,mercedes-benz|gle 63 amg,2,2023,2025,8,1,estimada
+Mercedes-Benz,GLK 200,mercedes-benz|glk 200,1,2012,2012,1,1,estimada
+Mercedes-Benz,GLK 220,mercedes-benz|glk 220,1,2011,2013,2,1,estimada
+Mercedes-Benz,GLK 300,mercedes-benz|glk 300,1,2009,2009,1,1,estimada
+Mercedes-Benz,GLK 350,mercedes-benz|glk 350,1,2013,2013,1,1,estimada
+Mercedes-Benz,GLS 350,mercedes-benz|gls 350,1,2017,2019,5,1,estimada
+Mercedes-Benz,GLS 350,mercedes-benz|gls 350,2,2026,2026,1,1,estimada
+Mercedes-Benz,GLS 400,mercedes-benz|gls 400,1,2016,2021,8,1,estimada
+Mercedes-Benz,GLS 450,mercedes-benz|gls 450,1,2020,2020,1,1,estimada
+Mercedes-Benz,GLS 450,mercedes-benz|gls 450,2,2026,2026,2,1,estimada
+Mercedes-Benz,GLS 500,mercedes-benz|gls 500,1,2017,2017,1,1,estimada
+Mercedes-Benz,GLS 600,mercedes-benz|gls 600,1,2022,2024,2,1,estimada
+Mercedes-Benz,Marco Polo,mercedes-benz|marco polo,1,2019,2025,9,2,estimada
+Mercedes-Benz,ML 250,mercedes-benz|ml 250,1,2012,2012,1,1,estimada
+Mercedes-Benz,ML 320,mercedes-benz|ml 320,1,2026,2026,1,1,estimada
+Mercedes-Benz,ML 350,mercedes-benz|ml 350,1,2012,2012,1,,estimada
+Mercedes-Benz,ML 500,mercedes-benz|ml 500,1,2006,2006,1,1,estimada
+Mercedes-Benz,ML 63 AMG,mercedes-benz|ml 63 amg,1,2016,2016,1,1,estimada
+Mercedes-Benz,R 350,mercedes-benz|r 350,1,2008,2008,1,1,estimada
+Mercedes-Benz,S 320,mercedes-benz|s 320,1,1991,1991,1,1,estimada
+Mercedes-Benz,S 320,mercedes-benz|s 320,4,2008,2008,1,1,estimada
+Mercedes-Benz,S 350,mercedes-benz|s 350,1,2013,2017,5,1,estimada
+Mercedes-Benz,S 350,mercedes-benz|s 350,2,2018,2022,7,1,estimada
+Mercedes-Benz,S 350,mercedes-benz|s 350,3,2023,2025,2,1,estimada
+Mercedes-Benz,S 400,mercedes-benz|s 400,1,2018,2023,5,1,estimada
+Mercedes-Benz,S 430,mercedes-benz|s 430,1,2004,2004,1,,estimada
+Mercedes-Benz,S 450,mercedes-benz|s 450,1,2019,2021,3,1,estimada
+Mercedes-Benz,S 450,mercedes-benz|s 450,2,2024,2026,5,1,estimada
+Mercedes-Benz,S 500,mercedes-benz|s 500,1,2006,2006,1,1,estimada
+Mercedes-Benz,S 500,mercedes-benz|s 500,2,2016,2016,2,1,estimada
+Mercedes-Benz,S 500,mercedes-benz|s 500,3,2017,2021,4,1,estimada
+Mercedes-Benz,S 560,mercedes-benz|s 560,1,2019,2019,1,1,estimada
+Mercedes-Benz,S 560 E,mercedes-benz|s 560 e,1,2019,2019,2,1,estimada
+Mercedes-Benz,S 580,mercedes-benz|s 580,1,2022,2025,12,2,estimada
+Mercedes-Benz,S 600,mercedes-benz|s 600,1,2016,2016,2,1,estimada
+Mercedes-Benz,S 63 AMG,mercedes-benz|s 63 amg,1,2015,2019,4,1,estimada
+Mercedes-Benz,S 63 AMG,mercedes-benz|s 63 amg,2,2020,2023,2,2,estimada
+Mercedes-Benz,S 65 AMG,mercedes-benz|s 65 amg,1,2007,2007,1,1,estimada
+Mercedes-Benz,S 65 AMG,mercedes-benz|s 65 amg,2,2017,2017,1,1,estimada
+Mercedes-Benz,S 650,mercedes-benz|s 650,1,2019,2019,1,1,estimada
+Mercedes-Benz,S 680,mercedes-benz|s 680,1,2023,2023,1,1,estimada
+Mercedes-Benz,SL 300,mercedes-benz|sl 300,1,1992,1992,1,,estimada
+Mercedes-Benz,SL 320,mercedes-benz|sl 320,1,2000,2000,1,1,estimada
+Mercedes-Benz,SL 320,mercedes-benz|sl 320,5,2023,2023,1,1,estimada
+Mercedes-Benz,SL 350,mercedes-benz|sl 350,1,2003,2008,2,1,estimada
+Mercedes-Benz,SL 43 AMG,mercedes-benz|sl 43 amg,1,2022,2024,5,2,estimada
+Mercedes-Benz,SL 500,mercedes-benz|sl 500,1,2006,2006,1,1,estimada
+Mercedes-Benz,SL 55 AMG,mercedes-benz|sl 55 amg,1,2022,2022,1,1,estimada
+Mercedes-Benz,SL 63 AMG,mercedes-benz|sl 63 amg,1,2013,2013,1,1,estimada
+Mercedes-Benz,SL 63 AMG,mercedes-benz|sl 63 amg,2,2022,2023,4,1,estimada
+Mercedes-Benz,SL 63 AMG,mercedes-benz|sl 63 amg,3,2024,2025,2,2,estimada
+Mercedes-Benz,SL Roadster AMG,mercedes-benz|sl roadster amg,1,2025,2025,1,1,estimada
+Mercedes-Benz,SLC 180,mercedes-benz|slc 180,1,2018,2020,3,1,estimada
+Mercedes-Benz,SLC 200,mercedes-benz|slc 200,1,2019,2019,2,1,estimada
+Mercedes-Benz,SLC 250,mercedes-benz|slc 250,1,2016,2016,1,1,estimada
+Mercedes-Benz,SLK 200,mercedes-benz|slk 200,1,2001,2005,5,,estimada
+Mercedes-Benz,SLK 200,mercedes-benz|slk 200,3,2011,2014,2,,estimada
+Mercedes-Benz,SLK 230,mercedes-benz|slk 230,1,1998,1998,1,1,estimada
+Mercedes-Benz,SLK 250,mercedes-benz|slk 250,1,2016,2016,1,1,estimada
+Mercedes-Benz,SLK 300,mercedes-benz|slk 300,1,2010,2010,1,,estimada
+Mercedes-Benz,SLK 350,mercedes-benz|slk 350,1,2011,2011,1,,estimada
+Mercedes-Benz,SLK 55 AMG,mercedes-benz|slk 55 amg,1,2012,2012,1,1,estimada
+Mercedes-Benz,SLS,mercedes-benz|sls,1,2012,2012,1,,estimada
+Mercedes-Benz,Sonstige,mercedes-benz|sonstige,1,2016,2026,33,6,sin_dato
+Mercedes-Benz,Sprinter,mercedes-benz|sprinter,1,2006,2020,76,4,estimada
+Mercedes-Benz,Sprinter,mercedes-benz|sprinter,2,2021,2025,94,3,estimada
+Mercedes-Benz,Sprinter,mercedes-benz|sprinter,3,2026,2026,5,2,estimada
+Mercedes-Benz,T-Klasse,mercedes-benz|t-klasse,1,2020,2024,10,2,estimada
+Mercedes-Benz,T-Klasse,mercedes-benz|t-klasse,2,2025,2026,7,1,estimada
+Mercedes-Benz,V,mercedes-benz|v,1,2016,2021,9,2,estimada
+Mercedes-Benz,V,mercedes-benz|v,2,2022,2026,9,2,estimada
+Mercedes-Benz,V 200,mercedes-benz|v 200,1,2017,2017,1,1,estimada
+Mercedes-Benz,V 220,mercedes-benz|v 220,1,2016,2020,18,1,estimada
+Mercedes-Benz,V 220,mercedes-benz|v 220,2,2021,2025,16,1,estimada
+Mercedes-Benz,V 250,mercedes-benz|v 250,1,2016,2019,22,1,estimada
+Mercedes-Benz,V 250,mercedes-benz|v 250,2,2021,2025,31,1,estimada
+Mercedes-Benz,V 250,mercedes-benz|v 250,3,2026,2026,7,1,estimada
+Mercedes-Benz,V 300,mercedes-benz|v 300,1,2019,2023,33,1,estimada
+Mercedes-Benz,V 300,mercedes-benz|v 300,2,2024,2026,32,1,estimada
+Mercedes-Benz,Viano,mercedes-benz|viano,1,2005,2006,2,1,estimada
+Mercedes-Benz,Viano,mercedes-benz|viano,2,2011,2014,2,2,estimada
+Mercedes-Benz,Vito,mercedes-benz|vito,1,2008,2008,1,1,tabla
+Mercedes-Benz,Vito,mercedes-benz|vito,3,2016,2018,42,4,tabla
+Mercedes-Benz,Vito,mercedes-benz|vito,4,2019,2023,112,4,tabla
+Mercedes-Benz,Vito,mercedes-benz|vito,5,2024,2026,89,4,tabla
+Mercedes-Benz,X 250,mercedes-benz|x 250,1,2018,2019,2,1,estimada
+Mercedes-Benz,X 350,mercedes-benz|x 350,1,2018,2019,5,1,estimada
+MG,,mg|,1,2024,2024,1,1,estimada
+MG,Andere,mg|andere,1,1993,2026,76,7,sin_dato
+MG,Cyberster,mg|cyberster,1,2024,2026,127,3,estimada
+MG,EHS,mg|ehs,1,2021,2021,37,3,tabla
+MG,EHS,mg|ehs,2,2022,2026,234,3,tabla
+MG,HS,mg|hs,1,2021,2023,181,2,tabla
+MG,HS,mg|hs,2,2024,2026,1115,5,tabla
+MG,IM5,mg|im5,1,2026,2026,21,2,estimada
+MG,IM6,mg|im6,1,2026,2026,23,2,estimada
+MG,Marvel R,mg|marvel r,1,2021,2025,85,5,estimada
+MG,MG3,mg|mg3,2,2020,2020,1,1,tabla
+MG,MG3,mg|mg3,3,2024,2026,1323,4,tabla
+MG,MG4,mg|mg4,1,2022,2024,245,6,tabla
+MG,MG4,mg|mg4,2,2025,2026,231,6,tabla
+MG,MG4 EV Urban,mg|mg4 ev urban,1,2026,2026,21,1,estimada
+MG,MG5,mg|mg5,1,2022,2026,110,2,estimada
+MG,MGB,mg|mgb,1,1990,1990,1,,estimada
+MG,MGB,mg|mgb,7,2025,2025,1,1,estimada
+MG,MGF,mg|mgf,1,1996,2000,40,2,estimada
+MG,MGF,mg|mgf,2,2001,2025,11,2,estimada
+MG,MGS5 EV,mg|mgs5 ev,1,2021,2026,120,3,estimada
+MG,MGS6 EV,mg|mgs6 ev,1,2026,2026,46,2,estimada
+MG,MGS9,mg|mgs9,1,2026,2026,48,2,estimada
+MG,S5,mg|s5,1,2025,2026,75,2,estimada
+MG,S6,mg|s6,1,2026,2026,12,3,estimada
+MG,S6 EV,mg|s6 ev,1,2026,2026,15,2,estimada
+MG,S9,mg|s9,1,2026,2026,59,3,estimada
+MG,Sonstige,mg|sonstige,1,2023,2026,21,6,sin_dato
+MG,TD,mg|td,1,1993,1993,1,1,estimada
+MG,TF,mg|tf,1,2001,2005,35,2,estimada
+MG,ZR,mg|zr,1,2001,2003,5,2,estimada
+MG,ZS,mg|zs,1,2019,2020,9,2,tabla
+MG,ZS,mg|zs,2,2021,2023,395,4,tabla
+MG,ZS,mg|zs,3,2024,2026,1498,4,tabla
+MG,ZT,mg|zt,1,2003,2006,3,3,estimada
+Microcar,Due,microcar|due,1,2016,2020,12,,estimada
+Microcar,Due,microcar|due,2,2021,2024,13,,estimada
+Microcar,Flex,microcar|flex,1,2016,2019,2,,estimada
+Microcar,M.Cross,microcar|m.cross,1,2019,2019,1,,estimada
+Microcar,M.Go,microcar|m.go,1,2016,2020,38,,estimada
+Microcar,M.Go,microcar|m.go,2,2021,2024,29,,estimada
+Microcar,M.Go,microcar|m.go,3,2026,2026,4,,estimada
+Microcar,Sonstige,microcar|sonstige,1,2016,2026,10,1,sin_dato
+Micro,Microlino,micro|microlino,1,2022,2026,22,,estimada
+Militem,Ferox,militem|ferox,1,2021,2022,2,1,estimada
+Militem,Magnum,militem|magnum,1,2020,2022,2,1,estimada
+Minauto,Access,minauto|access,1,2020,2020,1,,estimada
+MINI,,mini|,4,2016,2017,7,4,tabla
+MINI,,mini|,5,2018,2023,60,5,tabla
+MINI,,mini|,6,2024,2025,3,1,tabla
+MINI,1000,mini|1000,1,1991,1991,2,1,tabla
+MINI,1300,mini|1300,1,1991,2000,9,1,tabla
+MINI,Aceman,mini|aceman,6,2024,2026,165,2,tabla
+MINI,Aceman E,mini|aceman e,6,2025,2025,1,1,tabla
+MINI,Aceman SE,mini|aceman se,6,2024,2025,6,1,tabla
+MINI,Andere,mini|andere,1,1991,2025,202,8,sin_dato
+MINI,Clubvan,mini|clubvan,4,2014,2014,1,1,tabla
+MINI,Clubvan,mini|clubvan,5,2018,2021,2,2,tabla
+MINI,Cooper,mini|cooper,1,1993,2006,105,4,tabla
+MINI,Cooper,mini|cooper,2,2007,2009,96,4,tabla
+MINI,Cooper,mini|cooper,3,2010,2013,100,5,tabla
+MINI,Cooper,mini|cooper,4,2014,2017,181,6,tabla
+MINI,Cooper,mini|cooper,5,2018,2023,584,5,tabla
+MINI,Cooper,mini|cooper,6,2024,2026,126,3,tabla
+MINI,Cooper C,mini|cooper c,1,1991,2006,13,2,tabla
+MINI,Cooper C,mini|cooper c,2,2007,2009,10,2,tabla
+MINI,Cooper C,mini|cooper c,3,2010,2013,5,2,tabla
+MINI,Cooper C,mini|cooper c,4,2015,2017,5,2,tabla
+MINI,Cooper C,mini|cooper c,5,2018,2023,17,2,tabla
+MINI,Cooper C,mini|cooper c,6,2024,2026,245,1,tabla
+MINI,Cooper C Cabrio,mini|cooper c cabrio,4,2023,2026,58,2,tabla
+MINI,Cooper Cabrio,mini|cooper cabrio,1,1990,2008,24,3,tabla
+MINI,Cooper Cabrio,mini|cooper cabrio,2,2009,2015,37,2,tabla
+MINI,Cooper Cabrio,mini|cooper cabrio,3,2016,2020,103,3,tabla
+MINI,Cooper Cabrio,mini|cooper cabrio,4,2021,2026,166,4,tabla
+MINI,Cooper Clubman,mini|cooper clubman,1,2007,2012,17,1,tabla
+MINI,Cooper Clubman,mini|cooper clubman,2,2015,2018,57,2,tabla
+MINI,Cooper Clubman,mini|cooper clubman,3,2019,2023,61,4,tabla
+MINI,Cooper Clubman,mini|cooper clubman,4,2024,2024,3,1,tabla
+MINI,Cooper Countryman,mini|cooper countryman,1,2011,2013,21,2,tabla
+MINI,Cooper Countryman,mini|cooper countryman,2,2014,2016,20,3,tabla
+MINI,Cooper Countryman,mini|cooper countryman,3,2017,2019,76,4,tabla
+MINI,Cooper Countryman,mini|cooper countryman,4,2020,2023,117,4,tabla
+MINI,Cooper Countryman,mini|cooper countryman,5,2024,2026,14,3,tabla
+MINI,Cooper Coupe,mini|cooper coupe,3,2011,2011,1,1,tabla
+MINI,Cooper Coupe,mini|cooper coupe,4,2014,2014,1,1,tabla
+MINI,Cooper Coupé,mini|cooper coupé,1,2004,2006,2,1,tabla
+MINI,Cooper Coupé,mini|cooper coupé,3,2011,2012,4,1,tabla
+MINI,Cooper Coupé,mini|cooper coupé,5,2019,2019,1,1,tabla
+MINI,Cooper D,mini|cooper d,2,2007,2009,14,1,tabla
+MINI,Cooper D,mini|cooper d,3,2010,2013,29,2,tabla
+MINI,Cooper D,mini|cooper d,4,2014,2017,83,3,tabla
+MINI,Cooper D,mini|cooper d,5,2018,2023,36,3,tabla
+MINI,Cooper D,mini|cooper d,6,2024,2026,3,1,tabla
+MINI,Cooper D Cabrio,mini|cooper d cabrio,2,2013,2014,3,1,tabla
+MINI,Cooper D Cabrio,mini|cooper d cabrio,3,2017,2019,10,1,tabla
+MINI,Cooper D Clubman,mini|cooper d clubman,1,2008,2012,10,1,tabla
+MINI,Cooper D Clubman,mini|cooper d clubman,2,2015,2018,23,1,tabla
+MINI,Cooper D Clubman,mini|cooper d clubman,3,2019,2023,24,1,tabla
+MINI,Cooper D Countryman,mini|cooper d countryman,1,2011,2012,2,1,tabla
+MINI,Cooper D Countryman,mini|cooper d countryman,2,2014,2016,2,1,tabla
+MINI,Cooper D Countryman,mini|cooper d countryman,3,2017,2019,12,1,tabla
+MINI,Cooper D Countryman,mini|cooper d countryman,4,2020,2023,11,3,tabla
+MINI,Cooper D Countryman,mini|cooper d countryman,5,2025,2025,1,1,tabla
+MINI,Cooper D Paceman,mini|cooper d paceman,1,2013,2013,1,1,tabla
+MINI,Cooper D Paceman,mini|cooper d paceman,2,2014,2016,9,2,tabla
+MINI,Cooper E,mini|cooper e,5,2019,2023,141,2,tabla
+MINI,Cooper E,mini|cooper e,6,2024,2026,52,2,tabla
+MINI,Cooper Paceman,mini|cooper paceman,1,2013,2013,3,2,tabla
+MINI,Cooper Roadster,mini|cooper roadster,3,2012,2012,2,1,tabla
+MINI,Cooper Roadster,mini|cooper roadster,4,2014,2014,1,1,tabla
+MINI,Cooper S,mini|cooper s,1,1997,2006,22,4,tabla
+MINI,Cooper S,mini|cooper s,2,2007,2009,40,3,tabla
+MINI,Cooper S,mini|cooper s,3,2010,2013,54,2,tabla
+MINI,Cooper S,mini|cooper s,4,2014,2017,96,3,tabla
+MINI,Cooper S,mini|cooper s,5,2018,2023,246,3,tabla
+MINI,Cooper S,mini|cooper s,6,2024,2026,100,1,tabla
+MINI,Cooper S Cabrio,mini|cooper s cabrio,1,2005,2008,13,1,tabla
+MINI,Cooper S Cabrio,mini|cooper s cabrio,2,2009,2015,30,2,tabla
+MINI,Cooper S Cabrio,mini|cooper s cabrio,3,2016,2020,81,1,tabla
+MINI,Cooper S Cabrio,mini|cooper s cabrio,4,2021,2026,116,2,tabla
+MINI,Cooper S Clubman,mini|cooper s clubman,1,2007,2013,25,1,tabla
+MINI,Cooper S Clubman,mini|cooper s clubman,2,2016,2018,25,1,tabla
+MINI,Cooper S Clubman,mini|cooper s clubman,3,2019,2023,40,1,tabla
+MINI,Cooper S Countryman,mini|cooper s countryman,1,2011,2013,5,1,tabla
+MINI,Cooper S Countryman,mini|cooper s countryman,2,2014,2016,4,1,tabla
+MINI,Cooper S Countryman,mini|cooper s countryman,3,2017,2019,16,2,tabla
+MINI,Cooper S Countryman,mini|cooper s countryman,4,2020,2023,11,1,tabla
+MINI,Cooper S Countryman,mini|cooper s countryman,5,2024,2025,6,1,tabla
+MINI,Cooper S Coupe,mini|cooper s coupe,3,2012,2012,1,1,tabla
+MINI,Cooper S Coupe,mini|cooper s coupe,5,2023,2023,1,1,tabla
+MINI,Cooper S Coupe,mini|cooper s coupe,6,2025,2025,1,1,tabla
+MINI,Cooper S Coupé,mini|cooper s coupé,3,2010,2012,4,1,tabla
+MINI,Cooper S Coupé,mini|cooper s coupé,4,2015,2015,1,1,tabla
+MINI,Cooper S Coupé,mini|cooper s coupé,6,2024,2024,2,1,tabla
+MINI,Cooper S Paceman,mini|cooper s paceman,1,2013,2013,4,1,tabla
+MINI,Cooper S Paceman,mini|cooper s paceman,2,2014,2014,3,1,tabla
+MINI,Cooper S Roadster,mini|cooper s roadster,3,2012,2013,7,1,tabla
+MINI,Cooper SD,mini|cooper sd,3,2011,2013,13,1,tabla
+MINI,Cooper SD,mini|cooper sd,4,2014,2017,40,2,tabla
+MINI,Cooper SD,mini|cooper sd,5,2018,2023,16,1,tabla
+MINI,Cooper SD Cabrio,mini|cooper sd cabrio,2,2012,2015,6,1,tabla
+MINI,Cooper SD Cabrio,mini|cooper sd cabrio,3,2016,2019,6,1,tabla
+MINI,Cooper SD Clubman,mini|cooper sd clubman,1,2011,2013,4,1,tabla
+MINI,Cooper SD Clubman,mini|cooper sd clubman,2,2016,2018,15,2,tabla
+MINI,Cooper SD Clubman,mini|cooper sd clubman,3,2019,2021,11,1,tabla
+MINI,Cooper SD Countryman,mini|cooper sd countryman,1,2011,2013,21,1,tabla
+MINI,Cooper SD Countryman,mini|cooper sd countryman,2,2014,2016,6,1,tabla
+MINI,Cooper SD Countryman,mini|cooper sd countryman,3,2017,2019,15,2,tabla
+MINI,Cooper SD Countryman,mini|cooper sd countryman,4,2020,2023,18,1,tabla
+MINI,Cooper SD Coupé,mini|cooper sd coupé,3,2012,2012,1,1,tabla
+MINI,Cooper SD Paceman,mini|cooper sd paceman,1,2013,2013,1,1,tabla
+MINI,Cooper SD Paceman,mini|cooper sd paceman,2,2015,2015,1,1,tabla
+MINI,Cooper SD Roadster,mini|cooper sd roadster,3,2012,2012,1,1,tabla
+MINI,Cooper SE,mini|cooper se,4,2016,2017,2,1,tabla
+MINI,Cooper SE,mini|cooper se,5,2019,2023,187,4,tabla
+MINI,Cooper SE,mini|cooper se,6,2024,2026,68,1,tabla
+MINI,Cooper SE Countryman,mini|cooper se countryman,3,2017,2019,24,2,tabla
+MINI,Cooper SE Countryman,mini|cooper se countryman,4,2020,2023,56,2,tabla
+MINI,Cooper SE Countryman,mini|cooper se countryman,5,2024,2024,1,1,tabla
+MINI,Countryman,mini|countryman,1,2011,2013,2,1,tabla
+MINI,Countryman,mini|countryman,2,2016,2016,1,1,tabla
+MINI,Countryman,mini|countryman,3,2017,2019,5,3,tabla
+MINI,Countryman,mini|countryman,4,2020,2022,5,1,tabla
+MINI,Countryman,mini|countryman,5,2025,2025,2,1,tabla
+MINI,Countryman C,mini|countryman c,1,2013,2013,2,2,tabla
+MINI,Countryman C,mini|countryman c,3,2017,2019,15,3,tabla
+MINI,Countryman C,mini|countryman c,4,2020,2023,122,3,tabla
+MINI,Countryman C,mini|countryman c,5,2024,2026,57,3,tabla
+MINI,Countryman C (Cooper),mini|countryman c (cooper),1,2011,2011,1,1,tabla
+MINI,Countryman C (Cooper),mini|countryman c (cooper),2,2014,2014,2,1,tabla
+MINI,Countryman C (Cooper),mini|countryman c (cooper),3,2018,2018,1,1,tabla
+MINI,Countryman C (Cooper),mini|countryman c (cooper),5,2024,2025,35,1,tabla
+MINI,Countryman D,mini|countryman d,2,2016,2016,3,3,tabla
+MINI,Countryman D,mini|countryman d,4,2021,2021,1,1,tabla
+MINI,Countryman D,mini|countryman d,5,2024,2026,22,1,tabla
+MINI,Countryman D (Cooper),mini|countryman d (cooper),1,2010,2013,43,3,tabla
+MINI,Countryman D (Cooper),mini|countryman d (cooper),2,2014,2016,37,3,tabla
+MINI,Countryman D (Cooper),mini|countryman d (cooper),3,2017,2019,39,3,tabla
+MINI,Countryman D (Cooper),mini|countryman d (cooper),4,2020,2023,30,1,tabla
+MINI,Countryman D (Cooper),mini|countryman d (cooper),5,2024,2025,9,1,tabla
+MINI,Countryman E,mini|countryman e,3,2019,2019,1,1,tabla
+MINI,Countryman E,mini|countryman e,4,2022,2022,1,1,tabla
+MINI,Countryman E,mini|countryman e,5,2024,2026,20,1,tabla
+MINI,Countryman E (Cooper),mini|countryman e (cooper),5,2025,2025,1,1,tabla
+MINI,Countryman S (Cooper),mini|countryman s (cooper),1,2010,2013,22,2,tabla
+MINI,Countryman S (Cooper),mini|countryman s (cooper),2,2014,2016,6,1,tabla
+MINI,Countryman S (Cooper),mini|countryman s (cooper),3,2017,2019,14,2,tabla
+MINI,Countryman S (Cooper),mini|countryman s (cooper),4,2020,2023,22,3,tabla
+MINI,Countryman S (Cooper),mini|countryman s (cooper),5,2024,2026,13,1,tabla
+MINI,Countryman S All4,mini|countryman s all4,5,2024,2026,9,1,tabla
+MINI,Countryman SE (Cooper),mini|countryman se (cooper),3,2018,2019,4,1,tabla
+MINI,Countryman SE (Cooper),mini|countryman se (cooper),4,2020,2023,13,2,tabla
+MINI,Countryman SE (Cooper),mini|countryman se (cooper),5,2025,2026,8,1,tabla
+MINI,Countryman SE All4,mini|countryman se all4,3,2018,2019,3,2,tabla
+MINI,Countryman SE All4,mini|countryman se all4,4,2020,2023,13,2,tabla
+MINI,Countryman SE All4,mini|countryman se all4,5,2025,2026,7,1,tabla
+MINI,JCW Countryman All4,mini|jcw countryman all4,3,2017,2017,1,1,tabla
+MINI,JCW Countryman All4,mini|jcw countryman all4,4,2021,2021,1,1,tabla
+MINI,JCW Countryman All4,mini|jcw countryman all4,5,2024,2025,3,1,tabla
+MINI,John,mini|john,1,2015,2015,1,1,estimada
+MINI,John,mini|john,2,2022,2025,11,4,estimada
+MINI,John Cooper Works,mini|john cooper works,1,2003,2006,7,3,tabla
+MINI,John Cooper Works,mini|john cooper works,2,2007,2009,4,2,tabla
+MINI,John Cooper Works,mini|john cooper works,3,2010,2013,20,3,tabla
+MINI,John Cooper Works,mini|john cooper works,4,2014,2017,41,4,tabla
+MINI,John Cooper Works,mini|john cooper works,5,2018,2023,165,4,tabla
+MINI,John Cooper Works,mini|john cooper works,6,2024,2026,96,3,tabla
+MINI,John Cooper Works Aceman,mini|john cooper works aceman,6,2025,2025,7,1,tabla
+MINI,John Cooper Works Cabrio,mini|john cooper works cabrio,1,2005,2007,2,2,tabla
+MINI,John Cooper Works Cabrio,mini|john cooper works cabrio,2,2009,2015,6,1,tabla
+MINI,John Cooper Works Cabrio,mini|john cooper works cabrio,3,2016,2020,30,2,tabla
+MINI,John Cooper Works Cabrio,mini|john cooper works cabrio,4,2021,2026,102,3,tabla
+MINI,John Cooper Works Clubman,mini|john cooper works clubman,1,2013,2013,1,1,tabla
+MINI,John Cooper Works Clubman,mini|john cooper works clubman,2,2016,2018,14,3,tabla
+MINI,John Cooper Works Clubman,mini|john cooper works clubman,3,2019,2023,35,3,tabla
+MINI,John Cooper Works Clubman,mini|john cooper works clubman,4,2024,2024,1,1,tabla
+MINI,John Cooper Works Countryman,mini|john cooper works countryman,1,2012,2013,2,1,tabla
+MINI,John Cooper Works Countryman,mini|john cooper works countryman,2,2014,2016,6,2,tabla
+MINI,John Cooper Works Countryman,mini|john cooper works countryman,3,2017,2019,16,3,tabla
+MINI,John Cooper Works Countryman,mini|john cooper works countryman,4,2020,2023,27,2,tabla
+MINI,John Cooper Works Countryman,mini|john cooper works countryman,5,2024,2026,34,4,tabla
+MINI,John Cooper Works Coupé,mini|john cooper works coupé,1,2005,2005,1,1,tabla
+MINI,John Cooper Works Coupé,mini|john cooper works coupé,3,2011,2012,2,1,tabla
+MINI,John Cooper Works Coupé,mini|john cooper works coupé,5,2023,2023,1,1,tabla
+MINI,John Cooper Works E,mini|john cooper works e,6,2024,2026,8,1,tabla
+MINI,John Cooper Works Paceman,mini|john cooper works paceman,2,2014,2014,2,1,tabla
+MINI,John Cooper Works Roadster,mini|john cooper works roadster,3,2013,2013,1,1,tabla
+MINI,John Cooper Works Roadster,mini|john cooper works roadster,4,2014,2014,1,1,tabla
+MINI,One,mini|one,1,1996,2006,52,3,tabla
+MINI,One,mini|one,2,2007,2009,50,3,tabla
+MINI,One,mini|one,3,2010,2013,97,3,tabla
+MINI,One,mini|one,4,2014,2017,163,5,tabla
+MINI,One,mini|one,5,2018,2023,321,5,tabla
+MINI,One Cabrio,mini|one cabrio,1,2004,2008,12,2,tabla
+MINI,One Cabrio,mini|one cabrio,2,2009,2015,24,2,tabla
+MINI,One Cabrio,mini|one cabrio,3,2016,2020,29,1,tabla
+MINI,One Cabrio,mini|one cabrio,4,2021,2023,13,1,tabla
+MINI,One Clubman,mini|one clubman,1,2009,2013,6,1,tabla
+MINI,One Clubman,mini|one clubman,2,2015,2018,32,2,tabla
+MINI,One Clubman,mini|one clubman,3,2019,2023,24,1,tabla
+MINI,One Countryman,mini|one countryman,1,2010,2013,9,2,tabla
+MINI,One Countryman,mini|one countryman,2,2014,2016,8,2,tabla
+MINI,One Countryman,mini|one countryman,3,2017,2019,14,2,tabla
+MINI,One Countryman,mini|one countryman,4,2020,2022,11,1,tabla
+MINI,One Countryman,mini|one countryman,5,2026,2026,1,1,tabla
+MINI,One D,mini|one d,1,2003,2006,12,1,tabla
+MINI,One D,mini|one d,3,2010,2013,8,2,tabla
+MINI,One D,mini|one d,4,2014,2017,43,2,tabla
+MINI,One D,mini|one d,5,2018,2021,29,3,tabla
+MINI,One D Clubman,mini|one d clubman,1,2007,2011,3,3,tabla
+MINI,One D Clubman,mini|one d clubman,2,2015,2018,23,2,tabla
+MINI,One D Clubman,mini|one d clubman,3,2019,2022,21,2,tabla
+MINI,One D Countryman,mini|one d countryman,1,2010,2013,11,2,tabla
+MINI,One D Countryman,mini|one d countryman,2,2014,2016,7,2,tabla
+MINI,One D Countryman,mini|one d countryman,3,2017,2019,27,1,tabla
+MINI,One D Countryman,mini|one d countryman,4,2020,2022,18,1,tabla
+MINI,One D Countryman,mini|one d countryman,5,2024,2024,1,,tabla
+MINI,One First,mini|one first,1,2003,2003,1,1,tabla
+MINI,One First,mini|one first,4,2014,2016,11,1,tabla
+MINI,One First,mini|one first,5,2022,2022,1,1,tabla
+MINI,Sonstige,mini|sonstige,1,2009,2025,5,2,sin_dato
+Mitsubishi,,mitsubishi|,1,2019,2021,7,1,estimada
+Mitsubishi,,mitsubishi|,2,2026,2026,1,1,estimada
+Mitsubishi,ASX,mitsubishi|asx,3,2016,2019,115,2,tabla
+Mitsubishi,ASX,mitsubishi|asx,4,2020,2021,23,1,tabla
+Mitsubishi,ASX,mitsubishi|asx,5,2023,2026,173,3,tabla
+Mitsubishi,Canter,mitsubishi|canter,1,2016,2017,2,1,estimada
+Mitsubishi,Canter,mitsubishi|canter,2,2021,2026,8,2,estimada
+Mitsubishi,Colt,mitsubishi|colt,1,2023,2026,95,3,estimada
+Mitsubishi,Eclipse,mitsubishi|eclipse,1,2019,2020,2,,estimada
+Mitsubishi,Eclipse Cross,mitsubishi|eclipse cross,1,2018,2022,105,3,estimada
+Mitsubishi,Eclipse Cross,mitsubishi|eclipse cross,2,2023,2026,51,1,estimada
+Mitsubishi,Grandis,mitsubishi|grandis,1,2025,2026,17,2,estimada
+Mitsubishi,I-MiEV,mitsubishi|i-miev,1,2016,2017,2,2,estimada
+Mitsubishi,L200,mitsubishi|l200,1,2016,2020,48,2,estimada
+Mitsubishi,L200,mitsubishi|l200,2,2021,2022,38,1,estimada
+Mitsubishi,Lancer Evo,mitsubishi|lancer evo,1,2019,2019,1,1,estimada
+Mitsubishi,Montero,mitsubishi|montero,1,2016,2019,14,1,estimada
+Mitsubishi,Outlander,mitsubishi|outlander,1,2016,2020,117,2,estimada
+Mitsubishi,Outlander,mitsubishi|outlander,2,2021,2021,11,2,estimada
+Mitsubishi,Outlander,mitsubishi|outlander,3,2026,2026,6,2,estimada
+Mitsubishi,Pajero,mitsubishi|pajero,1,2016,2019,24,1,estimada
+Mitsubishi,Pajero Sport,mitsubishi|pajero sport,1,2018,2018,1,1,estimada
+Mitsubishi,Space Star,mitsubishi|space star,1,2016,2021,32,1,estimada
+Mitsubishi,Space Star,mitsubishi|space star,2,2022,2025,79,1,estimada
+Mobilize,Duo,mobilize|duo,1,2025,2026,26,,estimada
+Morgan,3-Wheeler,morgan|3-wheeler,1,2016,2020,6,3,estimada
+Morgan,3-Wheeler,morgan|3-wheeler,2,2023,2023,2,1,estimada
+Morgan,4/4,morgan|4/4,1,2018,2018,2,1,estimada
+Morgan,Aero 8,morgan|aero 8,1,2016,2018,5,1,estimada
+Morgan,Plus 4,morgan|plus 4,1,2016,2020,13,1,estimada
+Morgan,Plus 4,morgan|plus 4,2,2021,2025,9,1,estimada
+Morgan,Plus 4,morgan|plus 4,3,2026,2026,7,1,estimada
+Morgan,Plus 8,morgan|plus 8,1,2017,2017,3,1,estimada
+Morgan,Plus Four,morgan|plus four,1,2022,2026,3,1,estimada
+Morgan,Plus Six,morgan|plus six,1,2019,2024,13,2,estimada
+Morgan,Roadster,morgan|roadster,1,2016,2019,5,2,estimada
+Morgan,Sonstige,morgan|sonstige,1,2019,2025,7,2,sin_dato
+Morgan,Super 3,morgan|super 3,1,2022,2024,3,1,estimada
+Morgan,Supersport,morgan|supersport,1,2025,2026,4,1,estimada
+MPM Motors,PS160,mpm motors|ps160,1,2018,2018,1,1,estimada
+Nissan,,nissan|,1,2016,2020,6,2,estimada
+Nissan,,nissan|,2,2021,2025,19,4,estimada
+Nissan,,nissan|,3,2026,2026,4,1,estimada
+Nissan,100 NX,nissan|100 nx,1,1991,1995,2,1,estimada
+Nissan,200 SX,nissan|200 sx,1,1990,1994,3,1,estimada
+Nissan,200 SX,nissan|200 sx,2,1996,1999,5,1,estimada
+Nissan,300 ZX,nissan|300 zx,1,1994,1998,2,1,estimada
+Nissan,350Z,nissan|350z,1,2003,2008,7,1,estimada
+Nissan,370Z,nissan|370z,1,2009,2013,6,1,estimada
+Nissan,370Z,nissan|370z,2,2014,2018,10,1,estimada
+Nissan,370Z,nissan|370z,3,2019,2020,4,1,estimada
+Nissan,Almera,nissan|almera,1,1998,2003,5,2,estimada
+Nissan,Almera,nissan|almera,2,2004,2005,8,1,estimada
+Nissan,Almera Tino,nissan|almera tino,1,2001,2005,6,1,estimada
+Nissan,Altima,nissan|altima,1,2024,2024,1,1,estimada
+Nissan,Andere,nissan|andere,1,1991,2019,13,4,sin_dato
+Nissan,Ariya,nissan|ariya,1,2022,2026,67,3,estimada
+Nissan,Armada,nissan|armada,1,2026,2026,1,1,estimada
+Nissan,Cabstar,nissan|cabstar,1,2006,2006,1,1,estimada
+Nissan,Cabstar,nissan|cabstar,2,2011,2015,6,1,estimada
+Nissan,Cube,nissan|cube,1,2010,2010,1,1,estimada
+Nissan,e-NV200,nissan|e-nv200,1,2016,2021,16,1,estimada
+Nissan,Evalia,nissan|evalia,1,2012,2018,10,1,estimada
+Nissan,Figaro,nissan|figaro,1,1991,1991,1,1,estimada
+Nissan,Frontier,nissan|frontier,1,2022,2025,2,1,estimada
+Nissan,GT-R,nissan|gt-r,1,2008,2011,2,1,estimada
+Nissan,GT-R,nissan|gt-r,2,2015,2018,15,2,estimada
+Nissan,GT-R,nissan|gt-r,3,2019,2024,5,3,estimada
+Nissan,Interstar,nissan|interstar,1,2006,2026,69,3,estimada
+Nissan,Juke,nissan|juke,1,2010,2013,80,3,tabla
+Nissan,Juke,nissan|juke,2,2014,2019,260,3,tabla
+Nissan,Juke,nissan|juke,3,2020,2026,1045,3,tabla
+Nissan,King,nissan|king,1,2021,2021,1,1,estimada
+Nissan,King Cab,nissan|king cab,1,1992,1992,1,1,estimada
+Nissan,King Cab,nissan|king cab,2,1998,1998,1,1,estimada
+Nissan,King Cab,nissan|king cab,4,2011,2011,1,1,estimada
+Nissan,King Cab,nissan|king cab,5,2016,2016,1,1,estimada
+Nissan,King Cab,nissan|king cab,6,2019,2021,3,1,estimada
+Nissan,Kubistar,nissan|kubistar,1,2003,2006,2,1,estimada
+Nissan,Leaf,nissan|leaf,1,2015,2021,60,4,estimada
+Nissan,Leaf,nissan|leaf,2,2022,2026,110,4,estimada
+Nissan,Maxima,nissan|maxima,1,1996,1998,2,1,estimada
+Nissan,Micra,nissan|micra,1,1992,2009,114,4,tabla
+Nissan,Micra,nissan|micra,2,2010,2016,151,4,tabla
+Nissan,Micra,nissan|micra,3,2017,2026,477,4,tabla
+Nissan,Murano,nissan|murano,1,2005,2008,7,2,estimada
+Nissan,Murano,nissan|murano,2,2010,2014,12,2,estimada
+Nissan,Navara,nissan|navara,1,1999,2009,20,3,estimada
+Nissan,Navara,nissan|navara,2,2010,2014,39,3,estimada
+Nissan,Navara,nissan|navara,3,2015,2019,61,3,estimada
+Nissan,Navara,nissan|navara,4,2020,2022,40,1,estimada
+Nissan,Note,nissan|note,1,2006,2010,42,2,estimada
+Nissan,Note,nissan|note,2,2011,2015,41,3,estimada
+Nissan,Note,nissan|note,3,2016,2017,30,2,estimada
+Nissan,NP 300,nissan|np 300,1,2016,2018,8,1,estimada
+Nissan,NP300,nissan|np300,1,2012,2018,7,3,estimada
+Nissan,NV200,nissan|nv200,1,2010,2014,29,2,estimada
+Nissan,NV200,nissan|nv200,2,2015,2018,29,2,estimada
+Nissan,NV200,nissan|nv200,3,2020,2022,3,1,estimada
+Nissan,NV250,nissan|nv250,1,2019,2022,8,2,estimada
+Nissan,NV300,nissan|nv300,1,2007,2012,3,1,estimada
+Nissan,NV300,nissan|nv300,2,2016,2018,15,2,estimada
+Nissan,NV300,nissan|nv300,3,2019,2022,29,4,estimada
+Nissan,NV400,nissan|nv400,1,2012,2016,11,2,estimada
+Nissan,NV400,nissan|nv400,2,2017,2021,22,3,estimada
+Nissan,NV400,nissan|nv400,3,2022,2026,3,1,estimada
+Nissan,Pathfinder,nissan|pathfinder,1,2005,2008,14,3,estimada
+Nissan,Pathfinder,nissan|pathfinder,2,2010,2015,11,2,estimada
+Nissan,Patrol,nissan|patrol,1,1991,1993,6,1,estimada
+Nissan,Patrol,nissan|patrol,2,1999,1999,3,1,estimada
+Nissan,Patrol,nissan|patrol,3,2001,2004,4,1,estimada
+Nissan,Patrol,nissan|patrol,4,2006,2006,2,1,estimada
+Nissan,PickUp,nissan|pickup,1,1996,1997,2,2,estimada
+Nissan,PickUp,nissan|pickup,2,2004,2004,1,1,estimada
+Nissan,PickUp,nissan|pickup,5,2017,2017,1,1,estimada
+Nissan,Pixo,nissan|pixo,1,2009,2012,24,1,estimada
+Nissan,Primastar,nissan|primastar,1,2003,2009,13,2,estimada
+Nissan,Primastar,nissan|primastar,2,2010,2014,7,1,estimada
+Nissan,Primastar,nissan|primastar,3,2015,2019,2,2,estimada
+Nissan,Primastar,nissan|primastar,4,2022,2024,57,3,estimada
+Nissan,Primastar,nissan|primastar,5,2025,2026,74,3,estimada
+Nissan,Primera,nissan|primera,1,1992,1996,3,2,estimada
+Nissan,Primera,nissan|primera,2,1999,2002,9,2,estimada
+Nissan,Primera,nissan|primera,3,2003,2005,5,1,estimada
+Nissan,Pulsar,nissan|pulsar,1,2014,2019,86,2,estimada
+Nissan,Qashqai,nissan|qashqai,1,2000,2009,65,5,tabla
+Nissan,Qashqai,nissan|qashqai,2,2010,2013,161,2,tabla
+Nissan,Qashqai,nissan|qashqai,3,2014,2016,288,2,tabla
+Nissan,Qashqai,nissan|qashqai,4,2017,2020,731,3,tabla
+Nissan,Qashqai,nissan|qashqai,5,2021,2026,1754,3,tabla
+Nissan,Qashqai+2,nissan|qashqai+2,1,2009,2013,38,2,estimada
+Nissan,Qashqai+2,nissan|qashqai+2,2,2014,2018,3,1,estimada
+Nissan,Qashqai+2,nissan|qashqai+2,3,2021,2026,5,1,estimada
+Nissan,Serena,nissan|serena,1,1993,1993,1,1,estimada
+Nissan,Serena,nissan|serena,2,1999,2000,2,1,estimada
+Nissan,Silvia,nissan|silvia,1,2001,2001,1,1,estimada
+Nissan,Skyline,nissan|skyline,1,1991,1994,2,2,estimada
+Nissan,Skyline,nissan|skyline,2,1996,1996,1,1,estimada
+Nissan,Skyline,nissan|skyline,3,2004,2004,1,1,estimada
+Nissan,Sonstige,nissan|sonstige,1,2020,2024,3,2,sin_dato
+Nissan,Terrano,nissan|terrano,1,1996,2002,13,3,estimada
+Nissan,Tiida,nissan|tiida,1,2008,2008,7,1,estimada
+Nissan,Titan,nissan|titan,1,2016,2016,2,1,estimada
+Nissan,Townstar,nissan|townstar,1,2022,2026,241,1,estimada
+Nissan,Townstar EV,nissan|townstar ev,1,2022,2026,7,2,estimada
+Nissan,Trade,nissan|trade,1,1996,1996,1,1,estimada
+Nissan,Vanette,nissan|vanette,1,1993,1993,1,1,estimada
+Nissan,X-Trail,nissan|x-trail,1,2001,2006,18,2,tabla
+Nissan,X-Trail,nissan|x-trail,2,2007,2013,17,3,tabla
+Nissan,X-Trail,nissan|x-trail,3,2014,2016,92,2,tabla
+Nissan,X-Trail,nissan|x-trail,4,2017,2021,244,2,tabla
+Nissan,X-Trail,nissan|x-trail,5,2022,2026,412,2,tabla
+Omoda,,omoda|,1,2026,2026,1,1,estimada
+Omoda,5,omoda|5,1,2023,2026,457,4,estimada
+Omoda,7,omoda|7,1,2026,2026,64,2,estimada
+Omoda,9,omoda|9,1,2025,2026,104,2,estimada
+Opel,,opel|,1,2017,2021,8,3,estimada
+Opel,,opel|,2,2022,2026,20,3,estimada
+Opel,Adam,opel|adam,1,2013,2017,20,4,estimada
+Opel,Adam,opel|adam,2,2018,2019,15,4,estimada
+Opel,Agila,opel|agila,1,2008,2009,2,2,estimada
+Opel,Antara,opel|antara,1,2007,2007,1,1,estimada
+Opel,Antara,opel|antara,2,2012,2016,2,1,estimada
+Opel,Astra,opel|astra,1,2002,2006,6,2,tabla
+Opel,Astra,opel|astra,2,2009,2011,7,3,tabla
+Opel,Astra,opel|astra,3,2012,2015,7,2,tabla
+Opel,Astra,opel|astra,4,2016,2018,60,4,tabla
+Opel,Astra,opel|astra,5,2019,2021,92,2,tabla
+Opel,Astra,opel|astra,6,2022,2026,123,5,tabla
+Opel,Cascada,opel|cascada,1,2013,2017,6,2,estimada
+Opel,Cascada,opel|cascada,2,2018,2019,3,1,estimada
+Opel,Combo,opel|combo,1,2006,2021,42,3,estimada
+Opel,Combo,opel|combo,2,2022,2026,44,2,estimada
+Opel,Combo Life,opel|combo life,1,2018,2022,10,2,estimada
+Opel,Combo Life,opel|combo life,2,2023,2026,9,2,estimada
+Opel,Combo-e,opel|combo-e,1,2022,2022,1,1,estimada
+Opel,Corsa,opel|corsa,1,1998,2010,10,2,tabla
+Opel,Corsa,opel|corsa,2,2011,2013,5,2,tabla
+Opel,Corsa,opel|corsa,3,2015,2019,83,6,tabla
+Opel,Corsa,opel|corsa,4,2020,2023,256,3,tabla
+Opel,Corsa,opel|corsa,5,2024,2026,252,3,tabla
+Opel,Corsa-e,opel|corsa-e,1,2017,2021,3,2,estimada
+Opel,Corsa-e,opel|corsa-e,2,2022,2026,4,1,estimada
+Opel,Crossland,opel|crossland,1,2018,2025,137,3,estimada
+Opel,Crossland X,opel|crossland x,1,2017,2021,58,3,estimada
+Opel,Crossland X,opel|crossland x,2,2022,2024,32,2,estimada
+Opel,Frontera,opel|frontera,1,2024,2026,60,2,estimada
+Opel,Grandland,opel|grandland,1,2018,2024,124,4,estimada
+Opel,Grandland,opel|grandland,2,2025,2026,25,3,estimada
+Opel,Grandland X,opel|grandland x,1,2017,2022,133,4,estimada
+Opel,Grandland X,opel|grandland x,2,2023,2026,13,2,estimada
+Opel,GT,opel|gt,1,2008,2008,1,1,estimada
+Opel,Insignia,opel|insignia,1,2009,2013,10,2,estimada
+Opel,Insignia,opel|insignia,2,2016,2018,35,4,estimada
+Opel,Insignia,opel|insignia,3,2019,2023,47,4,estimada
+Opel,Karl,opel|karl,1,2015,2019,24,1,estimada
+Opel,Meriva,opel|meriva,1,2003,2007,8,1,estimada
+Opel,Meriva,opel|meriva,2,2008,2012,11,1,estimada
+Opel,Meriva,opel|meriva,3,2013,2017,14,2,estimada
+Opel,Mokka,opel|mokka,1,2013,2015,5,2,tabla
+Opel,Mokka,opel|mokka,2,2016,2019,69,2,tabla
+Opel,Mokka,opel|mokka,3,2021,2023,139,2,tabla
+Opel,Mokka,opel|mokka,4,2024,2026,136,3,tabla
+Opel,Mokka X,opel|mokka x,1,2016,2019,49,2,estimada
+Opel,Mokka X,opel|mokka x,2,2022,2024,4,2,estimada
+Opel,Mokka-E,opel|mokka-e,1,2021,2024,8,1,estimada
+Opel,Movano,opel|movano,1,2001,2014,4,1,estimada
+Opel,Movano,opel|movano,2,2015,2019,4,1,estimada
+Opel,Movano,opel|movano,3,2020,2024,24,3,estimada
+Opel,Movano,opel|movano,4,2025,2026,6,2,estimada
+Opel,Signum,opel|signum,1,2005,2006,2,1,estimada
+Opel,Tigra,opel|tigra,1,2000,2000,1,1,estimada
+Opel,Tigra,opel|tigra,2,2006,2009,2,1,estimada
+Opel,Vectra,opel|vectra,1,1992,1992,1,1,estimada
+Opel,Vectra,opel|vectra,2,1999,1999,1,1,estimada
+Opel,Vectra,opel|vectra,3,2005,2005,2,1,estimada
+Opel,Vivaro,opel|vivaro,1,2002,2008,4,3,estimada
+Opel,Vivaro,opel|vivaro,2,2012,2014,3,1,estimada
+Opel,Vivaro,opel|vivaro,3,2016,2020,17,4,estimada
+Opel,Vivaro,opel|vivaro,4,2021,2025,17,3,estimada
+Opel,Vivaro,opel|vivaro,5,2026,2026,7,1,estimada
+Opel,Zafira,opel|zafira,1,2006,2010,8,2,estimada
+Opel,Zafira,opel|zafira,2,2011,2015,8,3,estimada
+Opel,Zafira,opel|zafira,3,2016,2020,21,2,estimada
+Opel,Zafira,opel|zafira,4,2021,2026,3,2,estimada
+Opel,Zafira Life,opel|zafira life,1,2019,2022,18,3,estimada
+Opel,Zafira Life,opel|zafira life,2,2025,2026,6,1,estimada
+Opel,Zafira Tourer,opel|zafira tourer,1,2012,2016,4,1,estimada
+Opel,Zafira Tourer,opel|zafira tourer,2,2017,2019,4,1,estimada
+Ora,Funky Cat,ora|funky cat,1,2023,2025,141,2,estimada
+Peugeot,,peugeot|,1,2017,2021,7,4,estimada
+Peugeot,,peugeot|,2,2023,2026,25,3,estimada
+Peugeot,1007,peugeot|1007,1,2006,2006,2,1,estimada
+Peugeot,106,peugeot|106,1,1995,1996,2,1,estimada
+Peugeot,107,peugeot|107,1,2006,2008,4,1,estimada
+Peugeot,108,peugeot|108,1,2016,2022,24,1,estimada
+Peugeot,2008,peugeot|2008,1,2013,2015,6,2,tabla
+Peugeot,2008,peugeot|2008,2,2016,2019,68,3,tabla
+Peugeot,2008,peugeot|2008,3,2020,2023,181,2,tabla
+Peugeot,2008,peugeot|2008,4,2024,2026,195,2,tabla
+Peugeot,206,peugeot|206,1,2002,2004,7,3,estimada
+Peugeot,206,peugeot|206,2,2008,2010,4,1,estimada
+Peugeot,207,peugeot|207,1,2006,2010,18,4,estimada
+Peugeot,207,peugeot|207,2,2011,2015,9,3,estimada
+Peugeot,208,peugeot|208,1,2011,2014,6,3,tabla
+Peugeot,208,peugeot|208,2,2015,2018,64,4,tabla
+Peugeot,208,peugeot|208,3,2019,2022,132,3,tabla
+Peugeot,208,peugeot|208,4,2023,2026,315,3,tabla
+Peugeot,3008,peugeot|3008,1,2010,2010,1,,tabla
+Peugeot,3008,peugeot|3008,2,2013,2013,1,1,tabla
+Peugeot,3008,peugeot|3008,3,2016,2019,114,3,tabla
+Peugeot,3008,peugeot|3008,4,2020,2023,230,4,tabla
+Peugeot,3008,peugeot|3008,5,2024,2026,125,4,tabla
+Peugeot,307,peugeot|307,1,2004,2007,10,2,estimada
+Peugeot,308,peugeot|308,1,2008,2010,8,2,tabla
+Peugeot,308,peugeot|308,2,2011,2011,2,2,tabla
+Peugeot,308,peugeot|308,3,2014,2016,21,5,tabla
+Peugeot,308,peugeot|308,4,2017,2021,82,4,tabla
+Peugeot,308,peugeot|308,5,2022,2026,197,4,tabla
+Peugeot,406,peugeot|406,1,2003,2003,1,1,estimada
+Peugeot,407,peugeot|407,1,2004,2004,1,1,estimada
+Peugeot,408,peugeot|408,1,2023,2026,43,3,estimada
+Peugeot,5008,peugeot|5008,1,2010,2021,80,3,estimada
+Peugeot,5008,peugeot|5008,2,2022,2026,103,3,estimada
+Peugeot,508,peugeot|508,1,2013,2017,13,3,estimada
+Peugeot,508,peugeot|508,2,2019,2023,41,3,estimada
+Peugeot,508,peugeot|508,3,2024,2026,8,3,estimada
+Peugeot,605,peugeot|605,1,1999,1999,1,1,estimada
+Peugeot,607,peugeot|607,1,2008,2008,1,1,estimada
+Peugeot,807,peugeot|807,1,2008,2008,1,1,estimada
+Peugeot,Bipper,peugeot|bipper,1,2012,2012,1,1,estimada
+Peugeot,Boxer,peugeot|boxer,1,2009,2019,11,2,estimada
+Peugeot,Boxer,peugeot|boxer,2,2020,2024,22,2,estimada
+Peugeot,Boxer,peugeot|boxer,3,2025,2026,11,2,estimada
+Peugeot,e-2008,peugeot|e-2008,1,2021,2025,8,2,estimada
+Peugeot,e-208,peugeot|e-208,1,2021,2022,2,,estimada
+Peugeot,e-Traveller,peugeot|e-traveller,1,2021,2021,1,1,estimada
+Peugeot,Expert,peugeot|expert,1,2013,2017,8,3,estimada
+Peugeot,Expert,peugeot|expert,2,2018,2021,13,3,estimada
+Peugeot,Expert,peugeot|expert,3,2023,2026,3,2,estimada
+Peugeot,Partner,peugeot|partner,1,1998,2004,3,1,estimada
+Peugeot,Partner,peugeot|partner,2,2008,2010,2,2,estimada
+Peugeot,Partner,peugeot|partner,3,2015,2017,6,1,estimada
+Peugeot,Partner,peugeot|partner,4,2018,2022,13,3,estimada
+Peugeot,Partner,peugeot|partner,5,2023,2026,10,2,estimada
+Peugeot,Ranch,peugeot|ranch,1,2004,2008,3,1,estimada
+Peugeot,RCZ,peugeot|rcz,1,2010,2015,5,2,estimada
+Peugeot,Rifter,peugeot|rifter,1,2018,2022,59,3,estimada
+Peugeot,Rifter,peugeot|rifter,2,2023,2026,46,3,estimada
+Peugeot,Traveller,peugeot|traveller,1,2017,2021,12,2,estimada
+Peugeot,Traveller,peugeot|traveller,2,2025,2026,8,2,estimada
+Piaggio,,piaggio|,1,2024,2025,2,1,estimada
+Piaggio,Ape,piaggio|ape,1,2016,2022,5,1,estimada
+Piaggio,Porter,piaggio|porter,1,2016,2020,20,3,estimada
+Piaggio,Porter,piaggio|porter,2,2021,2025,38,4,estimada
+Piaggio,Porter,piaggio|porter,3,2026,2026,12,1,estimada
+Piaggio,Quargo,piaggio|quargo,1,2016,2016,1,,estimada
+Piaggio,Sonstige,piaggio|sonstige,1,2018,2026,6,1,sin_dato
+Polestar,,polestar|,1,2021,2021,2,2,estimada
+Polestar,1,polestar|1,1,2020,2025,16,2,estimada
+Polestar,2,polestar|2,1,2020,2023,337,4,tabla
+Polestar,2,polestar|2,2,2024,2026,171,3,tabla
+Polestar,3,polestar|3,1,2024,2026,147,3,estimada
+Polestar,4,polestar|4,1,2024,2026,224,6,estimada
+Polestar,5,polestar|5,1,2026,2026,3,1,estimada
+Porsche,,porsche|,1,2018,2024,2,1,estimada
+Porsche,356,porsche|356,1,2019,2019,1,1,estimada
+Porsche,718,porsche|718,1,2016,2020,44,2,estimada
+Porsche,718,porsche|718,2,2021,2025,41,3,estimada
+Porsche,718 Cayman,porsche|718 cayman,1,2016,2020,20,2,estimada
+Porsche,718 Cayman,porsche|718 cayman,2,2021,2025,21,3,estimada
+Porsche,718 Spyder,porsche|718 spyder,1,2016,2021,25,2,estimada
+Porsche,718 Spyder,porsche|718 spyder,2,2022,2026,32,3,estimada
+Porsche,911,porsche|911,1,1995,2012,8,3,estimada
+Porsche,911,porsche|911,2,2014,2018,33,3,estimada
+Porsche,911,porsche|911,3,2019,2023,65,3,estimada
+Porsche,911,porsche|911,4,2024,2026,29,4,estimada
+Porsche,912,porsche|912,1,2016,2018,3,1,estimada
+Porsche,928,porsche|928,1,1991,1991,1,1,estimada
+Porsche,944,porsche|944,1,1990,1991,2,1,estimada
+Porsche,964,porsche|964,1,1990,1993,6,2,estimada
+Porsche,968,porsche|968,1,1992,1993,3,1,estimada
+Porsche,991,porsche|991,1,2012,2016,31,3,estimada
+Porsche,991,porsche|991,2,2017,2023,47,4,estimada
+Porsche,992,porsche|992,1,2019,2023,106,4,tabla
+Porsche,992,porsche|992,2,2024,2026,138,4,tabla
+Porsche,993,porsche|993,1,1994,1997,9,1,estimada
+Porsche,993,porsche|993,5,2021,2021,1,1,estimada
+Porsche,996,porsche|996,1,1999,2004,25,2,estimada
+Porsche,997,porsche|997,1,2005,2009,32,2,estimada
+Porsche,997,porsche|997,2,2010,2011,8,2,estimada
+Porsche,Boxster,porsche|boxster,1,1999,2004,11,2,estimada
+Porsche,Boxster,porsche|boxster,2,2005,2008,12,2,estimada
+Porsche,Boxster,porsche|boxster,3,2011,2014,6,1,estimada
+Porsche,Boxster,porsche|boxster,4,2015,2019,34,3,estimada
+Porsche,Boxster,porsche|boxster,5,2020,2024,23,3,estimada
+Porsche,Boxster,porsche|boxster,6,2025,2026,6,2,estimada
+Porsche,Carrera GT,porsche|carrera gt,1,2019,2024,2,1,estimada
+Porsche,Cayenne,porsche|cayenne,1,2003,2005,3,1,tabla
+Porsche,Cayenne,porsche|cayenne,2,2007,2009,10,4,tabla
+Porsche,Cayenne,porsche|cayenne,3,2010,2013,18,4,tabla
+Porsche,Cayenne,porsche|cayenne,4,2014,2017,43,4,tabla
+Porsche,Cayenne,porsche|cayenne,5,2018,2022,145,5,tabla
+Porsche,Cayenne,porsche|cayenne,6,2023,2026,176,6,tabla
+Porsche,Cayman,porsche|cayman,1,2006,2010,5,1,estimada
+Porsche,Cayman,porsche|cayman,2,2014,2018,35,2,estimada
+Porsche,Cayman,porsche|cayman,3,2019,2023,58,3,estimada
+Porsche,Cayman,porsche|cayman,4,2024,2025,15,3,estimada
+Porsche,Macan,porsche|macan,1,2014,2018,106,4,tabla
+Porsche,Macan,porsche|macan,2,2019,2021,96,3,tabla
+Porsche,Macan,porsche|macan,3,2022,2023,131,3,tabla
+Porsche,Macan,porsche|macan,4,2024,2026,69,6,tabla
+Porsche,Panamera,porsche|panamera,1,2009,2012,12,3,tabla
+Porsche,Panamera,porsche|panamera,2,2013,2016,15,4,tabla
+Porsche,Panamera,porsche|panamera,3,2017,2019,82,4,tabla
+Porsche,Panamera,porsche|panamera,4,2020,2023,65,4,tabla
+Porsche,Panamera,porsche|panamera,5,2024,2026,41,4,tabla
+Porsche,Sonstige,porsche|sonstige,1,2020,2020,1,1,sin_dato
+Porsche,Targa,porsche|targa,1,2017,2017,1,1,estimada
+Porsche,Targa,porsche|targa,2,2022,2026,3,2,estimada
+Porsche,Taycan,porsche|taycan,1,2020,2024,134,7,estimada
+Porsche,Taycan,porsche|taycan,2,2025,2026,29,4,estimada
+Puch,Haflinger,puch|haflinger,1,2024,2024,1,1,estimada
+RAM,1500,ram|1500,1,2016,2019,10,3,estimada
+RAM,1500,ram|1500,2,2021,2025,26,4,estimada
+RAM,1500,ram|1500,3,2026,2026,4,3,estimada
+RAM,Sonstige,ram|sonstige,1,2018,2025,3,1,sin_dato
+Reliant,Sonstige,reliant|sonstige,1,2017,2017,1,1,sin_dato
+Renault,,renault|,1,2018,2022,27,4,estimada
+Renault,,renault|,2,2023,2026,24,4,estimada
+Renault,Arkana,renault|arkana,1,2021,2026,164,2,estimada
+Renault,Austral,renault|austral,1,2022,2026,161,4,estimada
+Renault,Captur,renault|captur,1,2015,2016,31,2,tabla
+Renault,Captur,renault|captur,2,2017,2019,73,4,tabla
+Renault,Captur,renault|captur,3,2020,2023,220,4,tabla
+Renault,Captur,renault|captur,4,2024,2026,143,3,tabla
+Renault,Clio,renault|clio,1,1992,2008,8,3,tabla
+Renault,Clio,renault|clio,2,2009,2012,6,2,tabla
+Renault,Clio,renault|clio,3,2013,2015,8,2,tabla
+Renault,Clio,renault|clio,4,2016,2019,115,4,tabla
+Renault,Clio,renault|clio,5,2020,2022,130,4,tabla
+Renault,Clio,renault|clio,6,2023,2026,216,4,tabla
+Renault,Duster,renault|duster,1,2025,2025,4,2,estimada
+Renault,Espace,renault|espace,1,2015,2020,24,3,estimada
+Renault,Espace,renault|espace,2,2021,2025,40,3,estimada
+Renault,Espace,renault|espace,3,2026,2026,5,2,estimada
+Renault,Express,renault|express,1,2021,2024,6,1,estimada
+Renault,Grand Scenic,renault|grand scenic,1,2006,2012,5,2,estimada
+Renault,Grand Scenic,renault|grand scenic,2,2013,2017,12,1,estimada
+Renault,Grand Scenic,renault|grand scenic,3,2018,2023,30,2,estimada
+Renault,Kadjar,renault|kadjar,1,2015,2020,95,2,estimada
+Renault,Kadjar,renault|kadjar,2,2021,2024,30,2,estimada
+Renault,Kangoo,renault|kangoo,1,2000,2009,6,2,estimada
+Renault,Kangoo,renault|kangoo,2,2011,2014,8,2,estimada
+Renault,Kangoo,renault|kangoo,3,2016,2020,39,3,estimada
+Renault,Kangoo,renault|kangoo,4,2021,2025,30,3,estimada
+Renault,Kangoo,renault|kangoo,5,2026,2026,4,2,estimada
+Renault,Kangoo E-TECH,renault|kangoo e-tech,1,2023,2024,3,1,estimada
+Renault,Kangoo Z.E.,renault|kangoo z.e.,1,2021,2024,2,2,estimada
+Renault,Koleos,renault|koleos,1,2011,2017,6,1,estimada
+Renault,Koleos,renault|koleos,2,2018,2022,25,3,estimada
+Renault,Koleos,renault|koleos,3,2023,2024,7,1,estimada
+Renault,Laguna,renault|laguna,1,2006,2006,1,1,estimada
+Renault,Latitude,renault|latitude,1,2010,2011,3,1,estimada
+Renault,Master,renault|master,1,2004,2013,4,2,estimada
+Renault,Master,renault|master,2,2015,2018,13,3,estimada
+Renault,Master,renault|master,3,2019,2023,18,2,estimada
+Renault,Master,renault|master,4,2024,2026,9,3,estimada
+Renault,Megane,renault|megane,1,2002,2011,9,4,estimada
+Renault,Megane,renault|megane,2,2013,2017,39,4,estimada
+Renault,Megane,renault|megane,3,2018,2022,83,6,estimada
+Renault,Megane,renault|megane,4,2023,2024,23,5,estimada
+Renault,Megane E-Tech,renault|megane e-tech,1,2022,2026,13,4,estimada
+Renault,Messenger,renault|messenger,1,1999,1999,1,,estimada
+Renault,Modus,renault|modus,1,2005,2010,13,2,estimada
+Renault,R 18,renault|r 18,1,2019,2019,1,1,estimada
+Renault,R 4,renault|r 4,1,2025,2026,9,2,estimada
+Renault,R 5,renault|r 5,1,2025,2026,19,2,estimada
+Renault,Rafale,renault|rafale,1,2024,2026,29,3,estimada
+Renault,Scenic,renault|scenic,1,1999,2006,5,2,estimada
+Renault,Scenic,renault|scenic,2,2007,2011,10,2,estimada
+Renault,Scenic,renault|scenic,3,2012,2016,12,1,estimada
+Renault,Scenic,renault|scenic,4,2017,2021,38,2,estimada
+Renault,Scenic,renault|scenic,5,2024,2026,12,3,estimada
+Renault,Sonstige,renault|sonstige,1,2017,2026,16,4,sin_dato
+Renault,Super 5,renault|super 5,1,2020,2023,5,2,estimada
+Renault,Symbioz,renault|symbioz,1,2024,2026,81,2,estimada
+Renault,Talisman,renault|talisman,1,2016,2020,18,3,estimada
+Renault,Talisman,renault|talisman,2,2021,2022,6,2,estimada
+Renault,Trafic,renault|trafic,1,2010,2020,31,3,estimada
+Renault,Trafic,renault|trafic,2,2021,2025,32,2,estimada
+Renault,Trafic,renault|trafic,3,2026,2026,5,2,estimada
+Renault,Twingo,renault|twingo,1,2003,2012,13,3,estimada
+Renault,Twingo,renault|twingo,2,2013,2017,23,2,estimada
+Renault,Twingo,renault|twingo,3,2018,2022,51,3,estimada
+Renault,Twingo,renault|twingo,4,2023,2026,24,3,estimada
+Renault,Twizy,renault|twizy,1,2019,2022,2,,estimada
+Renault,Wind,renault|wind,1,2012,2012,1,1,estimada
+Renault,ZOE,renault|zoe,1,2017,2021,15,3,estimada
+Renault,ZOE,renault|zoe,2,2022,2023,6,3,estimada
+Rivian,R1S,rivian|r1s,1,2024,2024,1,1,estimada
+Rivian,R1T,rivian|r1t,1,2024,2024,1,1,estimada
+Rolls-Royce,Cullinan,rolls-royce|cullinan,1,2018,2022,18,1,estimada
+Rolls-Royce,Cullinan,rolls-royce|cullinan,2,2023,2026,35,1,estimada
+Rolls-Royce,Dawn,rolls-royce|dawn,1,2016,2020,25,2,estimada
+Rolls-Royce,Ghost,rolls-royce|ghost,1,2016,2021,13,1,estimada
+Rolls-Royce,Ghost,rolls-royce|ghost,2,2022,2026,31,2,estimada
+Rolls-Royce,Phantom,rolls-royce|phantom,1,2016,2020,4,2,estimada
+Rolls-Royce,Phantom,rolls-royce|phantom,2,2022,2026,5,1,estimada
+Rolls-Royce,Sonstige,rolls-royce|sonstige,1,2019,2019,1,1,sin_dato
+Rolls-Royce,Spectre,rolls-royce|spectre,1,2024,2026,13,1,estimada
+Rolls-Royce,Wraith,rolls-royce|wraith,1,2016,2020,16,1,estimada
+Rolls-Royce,Wraith,rolls-royce|wraith,2,2021,2023,2,1,estimada
+Rover,City Rover,rover|city rover,1,2017,2017,1,1,estimada
+Rover,Rover,rover|rover,1,2018,2018,2,2,estimada
+Rover,SD,rover|sd,1,2019,2019,1,1,estimada
+SEAT,,seat|,1,2017,2022,14,3,estimada
+Seat,Alhambra,seat|alhambra,1,2003,2014,73,3,tabla
+Seat,Alhambra,seat|alhambra,2,2015,2022,146,4,tabla
+Seat,Altea,seat|altea,1,2004,2009,43,4,estimada
+Seat,Altea,seat|altea,2,2010,2014,47,3,estimada
+Seat,Altea,seat|altea,3,2015,2015,3,1,estimada
+Seat,Andere,seat|andere,1,2025,2026,2,2,sin_dato
+Seat,Arona,seat|arona,1,2017,2020,189,3,tabla
+Seat,Arona,seat|arona,2,2021,2026,840,3,tabla
+Seat,Arosa,seat|arosa,1,2000,2004,10,2,estimada
+Seat,Ateca,seat|ateca,1,2016,2019,209,4,tabla
+Seat,Ateca,seat|ateca,2,2020,2026,541,4,tabla
+Seat,Cordoba,seat|cordoba,1,2004,2004,1,1,estimada
+Seat,Exeo,seat|exeo,1,2009,2013,17,3,estimada
+Seat,Ibiza,seat|ibiza,1,1996,2007,45,4,tabla
+Seat,Ibiza,seat|ibiza,2,2008,2011,132,5,tabla
+Seat,Ibiza,seat|ibiza,3,2012,2016,173,5,tabla
+Seat,Ibiza,seat|ibiza,4,2017,2020,202,5,tabla
+Seat,Ibiza,seat|ibiza,5,2021,2026,805,3,tabla
+Seat,Leon,seat|leon,1,2002,2008,40,6,tabla
+Seat,Leon,seat|leon,2,2009,2011,54,5,tabla
+Seat,Leon,seat|leon,3,2012,2016,226,7,tabla
+Seat,Leon,seat|leon,4,2017,2019,299,6,tabla
+Seat,Leon,seat|leon,5,2020,2023,383,5,tabla
+Seat,Leon,seat|leon,6,2024,2026,323,4,tabla
+SEAT,Leon e-Hybrid,seat|leon e-hybrid,1,2020,2022,4,2,estimada
+Seat,Malaga,seat|malaga,1,1991,1991,1,1,estimada
+SEAT,Marbella,seat|marbella,1,1990,1992,2,1,estimada
+Seat,Mii,seat|mii,1,2012,2016,57,1,estimada
+Seat,Mii,seat|mii,2,2017,2022,46,2,estimada
+SEAT,Sonstige,seat|sonstige,1,2018,2026,3,3,sin_dato
+Seat,Tarraco,seat|tarraco,1,2019,2021,140,4,tabla
+Seat,Tarraco,seat|tarraco,2,2022,2024,114,3,tabla
+Seat,Terra,seat|terra,1,1994,1994,1,1,estimada
+Seat,Terra,seat|terra,6,2025,2025,3,2,estimada
+Seat,Toledo,seat|toledo,1,2000,2004,7,2,estimada
+Seat,Toledo,seat|toledo,2,2005,2006,3,2,estimada
+Seat,Toledo,seat|toledo,3,2013,2014,7,2,estimada
+Seat,Toledo,seat|toledo,4,2016,2019,10,2,estimada
+Skoda,120,skoda|120,1,2009,2009,1,1,estimada
+Skoda,Andere,skoda|andere,1,2022,2023,2,2,sin_dato
+Skoda,Citigo,skoda|citigo,1,2012,2016,38,1,estimada
+Skoda,Citigo,skoda|citigo,2,2017,2019,22,1,estimada
+Skoda,Elroq,skoda|elroq,1,2025,2026,35,2,estimada
+Skoda,Enyaq,skoda|enyaq,1,2021,2026,135,4,estimada
+Skoda,Epiq,skoda|epiq,1,2026,2026,3,1,estimada
+Skoda,Fabia,skoda|fabia,1,2001,2006,26,4,tabla
+Skoda,Fabia,skoda|fabia,2,2007,2009,60,4,tabla
+Skoda,Fabia,skoda|fabia,3,2010,2013,88,5,tabla
+Skoda,Fabia,skoda|fabia,4,2014,2017,101,3,tabla
+Skoda,Fabia,skoda|fabia,5,2018,2020,67,3,tabla
+Skoda,Fabia,skoda|fabia,6,2021,2026,372,4,tabla
+Skoda,Kamiq,skoda|kamiq,1,2006,2023,188,3,tabla
+Skoda,Kamiq,skoda|kamiq,2,2024,2026,314,3,tabla
+Skoda,Karoq,skoda|karoq,1,2017,2021,104,3,tabla
+Skoda,Karoq,skoda|karoq,2,2022,2026,401,3,tabla
+Skoda,Kodiaq,skoda|kodiaq,1,2017,2020,92,3,tabla
+Skoda,Kodiaq,skoda|kodiaq,2,2021,2023,159,3,tabla
+Skoda,Kodiaq,skoda|kodiaq,3,2024,2026,214,4,tabla
+Skoda,Octavia,skoda|octavia,1,2002,2008,41,4,tabla
+Skoda,Octavia,skoda|octavia,2,2009,2012,66,5,tabla
+Skoda,Octavia,skoda|octavia,3,2013,2016,121,6,tabla
+Skoda,Octavia,skoda|octavia,4,2017,2019,131,6,tabla
+Skoda,Octavia,skoda|octavia,5,2020,2023,354,4,tabla
+Skoda,Octavia,skoda|octavia,6,2024,2026,305,5,tabla
+Skoda,Peaq,skoda|peaq,1,2026,2026,6,1,estimada
+Skoda,Rapid,skoda|rapid,1,1990,2017,44,3,estimada
+Skoda,Rapid,skoda|rapid,2,2018,2019,14,2,estimada
+Skoda,Rapid/Spaceback,skoda|rapid/spaceback,1,2014,2019,14,2,estimada
+Skoda,Roomster,skoda|roomster,1,2007,2011,35,3,estimada
+Skoda,Roomster,skoda|roomster,2,2012,2015,30,3,estimada
+Skoda,Scala,skoda|scala,1,2019,2023,94,3,tabla
+Skoda,Scala,skoda|scala,2,2024,2026,149,3,tabla
+Skoda,Superb,skoda|superb,1,2003,2007,6,2,tabla
+Skoda,Superb,skoda|superb,2,2008,2012,23,4,tabla
+Skoda,Superb,skoda|superb,3,2013,2014,9,3,tabla
+Skoda,Superb,skoda|superb,4,2015,2018,57,4,tabla
+Skoda,Superb,skoda|superb,5,2019,2023,175,4,tabla
+Skoda,Superb,skoda|superb,6,2024,2026,129,3,tabla
+Skoda,Yeti,skoda|yeti,1,2009,2014,46,3,estimada
+Skoda,Yeti,skoda|yeti,2,2015,2017,29,2,estimada
+smart,#1,smart|#1,1,2018,2026,127,5,estimada
+smart,#3,smart|#3,1,2023,2026,53,3,estimada
+smart,#5,smart|#5,1,2025,2026,51,3,estimada
+smart,brabus,smart|brabus,1,2017,2019,4,2,estimada
+smart,city-coupé/city-cabrio,smart|city-coupé/city-cabrio,1,2002,2003,3,2,estimada
+smart,city-coupé/city-cabrio,smart|city-coupé/city-cabrio,3,2017,2017,1,1,estimada
+smart,forFour,smart|forfour,1,2004,2007,11,2,estimada
+smart,forFour,smart|forfour,2,2014,2014,3,1,estimada
+smart,forFour,smart|forfour,3,2015,2019,153,3,estimada
+smart,forFour,smart|forfour,4,2020,2022,24,1,estimada
+smart,forTwo,smart|fortwo,1,2000,2013,86,4,tabla
+smart,forTwo,smart|fortwo,2,2014,2018,133,4,tabla
+smart,forTwo,smart|fortwo,3,2019,2024,141,4,tabla
+smart,roadster,smart|roadster,1,2004,2005,3,2,estimada
+smart,Sonstige,smart|sonstige,1,1999,2024,7,3,sin_dato
+Sonstige,,sonstige|,1,2018,2026,6,3,sin_dato
+Sonstige,AMC,sonstige|amc,1,2021,2021,1,,sin_dato
+Sonstige,Sonstige,sonstige|sonstige,1,2016,2026,215,13,sin_dato
+Subaru,BRZ,subaru|brz,1,2012,2012,1,1,estimada
+Subaru,BRZ,subaru|brz,2,2019,2023,5,1,estimada
+Subaru,BRZ,subaru|brz,3,2024,2025,6,1,estimada
+Subaru,Crosstrek,subaru|crosstrek,1,2024,2026,109,1,estimada
+Subaru,E-OUTBACK,subaru|e-outback,1,2026,2026,1,,estimada
+Subaru,Forester,subaru|forester,1,2001,2012,27,3,tabla
+Subaru,Forester,subaru|forester,2,2013,2017,38,2,tabla
+Subaru,Forester,subaru|forester,3,2018,2021,44,1,tabla
+Subaru,Forester,subaru|forester,4,2022,2026,141,2,tabla
+Subaru,Impreza,subaru|impreza,1,1996,2001,7,2,estimada
+Subaru,Impreza,subaru|impreza,2,2003,2007,11,4,estimada
+Subaru,Impreza,subaru|impreza,3,2010,2011,8,2,estimada
+Subaru,Impreza,subaru|impreza,4,2013,2017,10,3,estimada
+Subaru,Impreza,subaru|impreza,5,2018,2022,19,2,estimada
+Subaru,Impreza,subaru|impreza,6,2023,2026,21,2,estimada
+Subaru,Justy,subaru|justy,1,2008,2009,4,1,estimada
+Subaru,Legacy,subaru|legacy,1,2002,2006,3,2,estimada
+Subaru,Legacy,subaru|legacy,2,2008,2011,5,1,estimada
+Subaru,Legacy,subaru|legacy,3,2012,2017,3,1,estimada
+Subaru,Levorg,subaru|levorg,1,2015,2019,15,1,estimada
+Subaru,Libero,subaru|libero,1,1996,1996,1,1,estimada
+Subaru,OUTBACK,subaru|outback,1,2007,2018,30,1,estimada
+Subaru,OUTBACK,subaru|outback,2,2019,2023,57,3,estimada
+Subaru,OUTBACK,subaru|outback,3,2024,2026,48,1,estimada
+Subaru,Solterra,subaru|solterra,1,2022,2026,26,2,estimada
+Subaru,Sonstige,subaru|sonstige,1,2024,2026,4,1,sin_dato
+Subaru,Trezia,subaru|trezia,1,2011,2012,4,1,estimada
+Subaru,Tribeca,subaru|tribeca,1,2006,2006,1,1,estimada
+Subaru,Uncharted,subaru|uncharted,1,2026,2026,20,3,estimada
+Subaru,WRX,subaru|wrx,1,2004,2004,1,1,estimada
+Subaru,WRX,subaru|wrx,2,2015,2016,2,1,estimada
+Subaru,WRX,subaru|wrx,3,2017,2020,9,1,estimada
+Subaru,XV,subaru|xv,1,2012,2016,15,2,estimada
+Subaru,XV,subaru|xv,2,2017,2021,84,2,estimada
+Subaru,XV,subaru|xv,3,2022,2023,20,2,estimada
+Suzuki,Across,suzuki|across,1,2020,2024,13,3,estimada
+Suzuki,Across,suzuki|across,2,2025,2026,15,2,estimada
+Suzuki,Alto,suzuki|alto,1,2009,2013,5,1,estimada
+Suzuki,Baleno,suzuki|baleno,1,2016,2019,7,2,estimada
+Suzuki,Celerio,suzuki|celerio,1,2016,2019,26,1,estimada
+Suzuki,e Vitara,suzuki|e vitara,1,2026,2026,4,1,estimada
+Suzuki,Grand Vitara,suzuki|grand vitara,1,2003,2007,5,2,estimada
+Suzuki,Grand Vitara,suzuki|grand vitara,2,2008,2012,4,2,estimada
+Suzuki,Grand Vitara,suzuki|grand vitara,3,2013,2014,2,2,estimada
+Suzuki,Ignis,suzuki|ignis,1,2003,2021,68,1,estimada
+Suzuki,Ignis,suzuki|ignis,2,2022,2024,33,1,estimada
+Suzuki,Jimny,suzuki|jimny,1,1999,2003,5,1,estimada
+Suzuki,Jimny,suzuki|jimny,2,2006,2010,11,1,estimada
+Suzuki,Jimny,suzuki|jimny,3,2012,2015,6,1,estimada
+Suzuki,Jimny,suzuki|jimny,4,2016,2020,53,2,estimada
+Suzuki,Jimny,suzuki|jimny,5,2021,2026,42,1,estimada
+Suzuki,S-Cross,suzuki|s-cross,1,2017,2024,15,2,estimada
+Suzuki,S-Cross,suzuki|s-cross,2,2025,2026,38,2,estimada
+Suzuki,Sonstige,suzuki|sonstige,1,2003,2026,8,2,sin_dato
+Suzuki,Splash,suzuki|splash,1,2009,2013,5,1,estimada
+Suzuki,Swace,suzuki|swace,1,2020,2024,20,2,estimada
+Suzuki,Swace,suzuki|swace,2,2025,2026,17,2,estimada
+Suzuki,Swift,suzuki|swift,1,2006,2012,13,2,estimada
+Suzuki,Swift,suzuki|swift,2,2014,2018,14,3,estimada
+Suzuki,Swift,suzuki|swift,3,2019,2023,27,3,estimada
+Suzuki,Swift,suzuki|swift,4,2024,2026,115,1,estimada
+Suzuki,SX4,suzuki|sx4,1,2008,2012,5,1,estimada
+Suzuki,SX4,suzuki|sx4,2,2013,2017,5,2,estimada
+Suzuki,SX4,suzuki|sx4,3,2018,2022,12,2,estimada
+Suzuki,SX4,suzuki|sx4,4,2024,2026,2,1,estimada
+Suzuki,SX4 S-Cross,suzuki|sx4 s-cross,1,2016,2021,32,2,estimada
+Suzuki,SX4 S-Cross,suzuki|sx4 s-cross,2,2022,2026,60,2,estimada
+Suzuki,Vitara,suzuki|vitara,1,1994,2020,34,3,estimada
+Suzuki,Vitara,suzuki|vitara,2,2021,2025,26,3,estimada
+Suzuki,Vitara,suzuki|vitara,3,2026,2026,50,4,estimada
+Suzuki,Wagon R+,suzuki|wagon r+,1,2002,2006,3,1,estimada
+Tesla,Andere,tesla|andere,1,2018,2025,6,3,sin_dato
+Tesla,Model,tesla|model,1,2014,2020,22,4,estimada
+Tesla,Model,tesla|model,2,2021,2024,98,7,estimada
+Tesla,Model,tesla|model,3,2026,2026,4,4,estimada
+Tesla,Model 3,tesla|model 3,1,2018,2020,153,4,tabla
+Tesla,Model 3,tesla|model 3,2,2021,2023,533,6,tabla
+Tesla,Model 3,tesla|model 3,3,2024,2026,56,5,tabla
+Tesla,Model S,tesla|model s,1,2013,2015,33,4,tabla
+Tesla,Model S,tesla|model s,2,2016,2020,162,6,tabla
+Tesla,Model S,tesla|model s,3,2022,2026,118,5,tabla
+Tesla,Model X,tesla|model x,1,2016,2020,168,6,tabla
+Tesla,Model X,tesla|model x,2,2021,2025,133,6,tabla
+Tesla,Model Y,tesla|model y,1,2021,2024,727,9,tabla
+Tesla,Model Y,tesla|model y,2,2025,2026,53,6,tabla
+Tesla,Roadster,tesla|roadster,1,2009,2012,13,2,estimada
+Toyota,,toyota|,1,2024,2026,2,1,estimada
+Toyota,4-Runner,toyota|4-runner,1,1994,1994,1,1,estimada
+Toyota,4-Runner,toyota|4-runner,2,1999,1999,1,1,estimada
+Toyota,4-Runner,toyota|4-runner,7,2026,2026,1,1,estimada
+Toyota,4Runner,toyota|4runner,1,2022,2026,2,1,estimada
+Toyota,Alphard,toyota|alphard,1,2008,2008,1,1,estimada
+Toyota,Andere,toyota|andere,1,1992,2026,174,8,sin_dato
+Toyota,Auris,toyota|auris,1,2007,2011,57,3,estimada
+Toyota,Auris,toyota|auris,2,2012,2016,65,3,estimada
+Toyota,Auris,toyota|auris,3,2017,2019,19,2,estimada
+Toyota,Auris Touring Sports,toyota|auris touring sports,1,2013,2019,9,3,estimada
+Toyota,Avensis,toyota|avensis,1,1998,2005,24,3,estimada
+Toyota,Avensis,toyota|avensis,2,2006,2010,45,3,estimada
+Toyota,Avensis,toyota|avensis,3,2011,2015,33,2,estimada
+Toyota,Avensis,toyota|avensis,4,2016,2018,23,2,estimada
+Toyota,Aygo,toyota|aygo,1,2005,2011,16,1,estimada
+Toyota,Aygo,toyota|aygo,2,2013,2016,14,1,estimada
+Toyota,Aygo,toyota|aygo,3,2017,2021,25,1,estimada
+Toyota,Aygo,toyota|aygo,4,2022,2026,34,2,estimada
+Toyota,Aygo (X),toyota|aygo (x),1,2005,2008,28,1,tabla
+Toyota,Aygo (X),toyota|aygo (x),2,2009,2013,51,1,tabla
+Toyota,Aygo (X),toyota|aygo (x),3,2014,2017,43,1,tabla
+Toyota,Aygo (X),toyota|aygo (x),4,2018,2021,63,1,tabla
+Toyota,Aygo (X),toyota|aygo (x),5,2022,2026,294,3,tabla
+Toyota,Aygo X,toyota|aygo x,1,2018,2026,99,2,estimada
+Toyota,bZ4X,toyota|bz4x,1,2022,2026,63,2,estimada
+Toyota,C-HR,toyota|c-hr,1,2016,2019,54,4,tabla
+Toyota,C-HR,toyota|c-hr,2,2020,2022,69,4,tabla
+Toyota,C-HR,toyota|c-hr,3,2023,2026,275,6,tabla
+Toyota,C-HR+,toyota|c-hr+,1,2026,2026,1,1,estimada
+Toyota,Camry,toyota|camry,1,1991,1996,3,2,estimada
+Toyota,Camry,toyota|camry,3,2004,2004,1,1,estimada
+Toyota,Camry,toyota|camry,6,2019,2021,10,2,estimada
+Toyota,Camry,toyota|camry,7,2022,2026,4,2,estimada
+Toyota,Celica,toyota|celica,1,1991,1995,6,2,estimada
+Toyota,Celica,toyota|celica,2,1998,2000,4,1,estimada
+Toyota,Celica,toyota|celica,3,2002,2004,2,1,estimada
+Toyota,Corolla,toyota|corolla,1,1990,2010,65,5,tabla
+Toyota,Corolla,toyota|corolla,2,2014,2015,4,1,tabla
+Toyota,Corolla,toyota|corolla,3,2019,2022,113,4,tabla
+Toyota,Corolla,toyota|corolla,4,2023,2026,193,5,tabla
+Toyota,Corolla Cross,toyota|corolla cross,1,2022,2026,36,2,estimada
+Toyota,Corolla Verso,toyota|corolla verso,1,2002,2006,22,3,estimada
+Toyota,Corolla Verso,toyota|corolla verso,2,2007,2009,10,2,estimada
+Toyota,Crown,toyota|crown,1,2007,2007,1,,estimada
+Toyota,Dyna,toyota|dyna,1,2006,2006,1,,estimada
+Toyota,Dyna,toyota|dyna,2,2014,2014,1,1,estimada
+Toyota,Dyna,toyota|dyna,3,2021,2021,3,1,estimada
+Toyota,Dyna,toyota|dyna,4,2022,2022,3,2,estimada
+Toyota,FJ,toyota|fj,1,2006,2007,4,1,estimada
+Toyota,GR86,toyota|gr86,1,2022,2024,8,1,estimada
+Toyota,GT86,toyota|gt86,1,2013,2014,5,2,estimada
+Toyota,GT86,toyota|gt86,2,2019,2023,3,1,estimada
+Toyota,Hiace,toyota|hiace,1,1995,1999,5,3,estimada
+Toyota,Hiace,toyota|hiace,2,2001,2004,3,1,estimada
+Toyota,Hiace,toyota|hiace,3,2008,2009,2,2,estimada
+Toyota,Hiace,toyota|hiace,4,2011,2011,2,1,estimada
+Toyota,Highlander,toyota|highlander,1,2016,2021,3,2,estimada
+Toyota,Highlander,toyota|highlander,2,2022,2025,5,2,estimada
+Toyota,Hilux,toyota|hilux,1,1990,2001,5,2,estimada
+Toyota,Hilux,toyota|hilux,2,2007,2007,3,2,estimada
+Toyota,Hilux,toyota|hilux,3,2009,2013,8,1,estimada
+Toyota,Hilux,toyota|hilux,4,2014,2018,6,2,estimada
+Toyota,Hilux,toyota|hilux,5,2019,2023,23,2,estimada
+Toyota,Hilux,toyota|hilux,6,2024,2026,31,2,estimada
+Toyota,IQ,toyota|iq,1,2009,2013,27,2,estimada
+Toyota,Land,toyota|land,1,2006,2011,2,1,estimada
+Toyota,Land,toyota|land,4,2023,2026,7,3,estimada
+Toyota,Land Cruiser,toyota|land cruiser,1,1990,1995,6,3,estimada
+Toyota,Land Cruiser,toyota|land cruiser,2,1998,2000,7,3,estimada
+Toyota,Land Cruiser,toyota|land cruiser,3,2001,2005,16,3,estimada
+Toyota,Land Cruiser,toyota|land cruiser,4,2006,2010,19,2,estimada
+Toyota,Land Cruiser,toyota|land cruiser,5,2011,2015,11,2,estimada
+Toyota,Land Cruiser,toyota|land cruiser,6,2016,2020,8,2,estimada
+Toyota,Land Cruiser,toyota|land cruiser,7,2021,2025,21,3,estimada
+Toyota,Land Cruiser,toyota|land cruiser,8,2026,2026,10,1,estimada
+Toyota,Land Cruiser Prado,toyota|land cruiser prado,1,2000,2004,2,2,estimada
+Toyota,Land Cruiser Prado,toyota|land cruiser prado,2,2007,2008,2,1,estimada
+Toyota,Land Cruiser Prado,toyota|land cruiser prado,3,2011,2011,1,1,estimada
+Toyota,Lite-Ace,toyota|lite-ace,1,1990,1990,1,1,estimada
+Toyota,Mirai,toyota|mirai,1,2016,2020,6,2,estimada
+Toyota,Mirai,toyota|mirai,2,2021,2023,14,2,estimada
+Toyota,MR,toyota|mr,1,1993,1993,1,1,estimada
+Toyota,MR 2,toyota|mr 2,1,1991,1991,3,1,estimada
+Toyota,MR 2,toyota|mr 2,2,1999,2000,3,2,estimada
+Toyota,MR 2,toyota|mr 2,3,2001,2004,4,1,estimada
+Toyota,Picnic,toyota|picnic,1,2001,2001,1,1,estimada
+Toyota,Previa,toyota|previa,1,2000,2006,9,2,estimada
+Toyota,Prius,toyota|prius,1,2004,2009,15,4,estimada
+Toyota,Prius,toyota|prius,2,2010,2014,11,3,estimada
+Toyota,Prius,toyota|prius,3,2015,2019,16,2,estimada
+Toyota,Prius,toyota|prius,4,2020,2024,3,2,estimada
+Toyota,Prius,toyota|prius,5,2025,2026,3,1,estimada
+Toyota,Prius+,toyota|prius+,1,2012,2014,4,2,estimada
+Toyota,Prius+,toyota|prius+,2,2017,2021,7,2,estimada
+Toyota,Proace,toyota|proace,1,2014,2020,20,3,estimada
+Toyota,Proace,toyota|proace,2,2021,2025,31,4,estimada
+Toyota,Proace,toyota|proace,3,2026,2026,17,3,estimada
+Toyota,Proace (Verso),toyota|proace (verso),1,2017,2021,4,2,estimada
+Toyota,Proace (Verso),toyota|proace (verso),2,2022,2024,4,2,estimada
+Toyota,Proace City,toyota|proace city,1,2020,2024,15,3,estimada
+Toyota,Proace City,toyota|proace city,2,2025,2026,14,2,estimada
+Toyota,Proace City (Verso),toyota|proace city (verso),1,2020,2024,50,3,estimada
+Toyota,Proace City (Verso),toyota|proace city (verso),2,2025,2026,39,2,estimada
+Toyota,Proace Max,toyota|proace max,1,2024,2026,12,2,estimada
+Toyota,Proace Verso,toyota|proace verso,1,2016,2021,56,3,estimada
+Toyota,Proace Verso,toyota|proace verso,2,2022,2026,84,3,estimada
+Toyota,Proace Verso Electric,toyota|proace verso electric,1,2023,2023,1,1,estimada
+Toyota,RAV,toyota|rav,1,2010,2014,3,2,estimada
+Toyota,RAV,toyota|rav,2,2016,2018,3,1,estimada
+Toyota,RAV,toyota|rav,3,2021,2024,5,2,estimada
+Toyota,RAV,toyota|rav,4,2026,2026,1,1,estimada
+Toyota,RAV 4,toyota|rav 4,1,1995,2008,44,2,tabla
+Toyota,RAV 4,toyota|rav 4,2,2009,2012,25,1,tabla
+Toyota,RAV 4,toyota|rav 4,3,2013,2015,14,2,tabla
+Toyota,RAV 4,toyota|rav 4,4,2016,2018,23,2,tabla
+Toyota,RAV 4,toyota|rav 4,5,2019,2022,41,3,tabla
+Toyota,RAV 4,toyota|rav 4,6,2023,2026,63,4,tabla
+Toyota,RAV4,toyota|rav4,1,1997,2007,2,1,estimada
+Toyota,RAV4,toyota|rav4,3,2016,2019,7,3,estimada
+Toyota,RAV4,toyota|rav4,4,2021,2024,14,3,estimada
+Toyota,RAV4,toyota|rav4,5,2025,2026,5,2,estimada
+Toyota,Sequoia,toyota|sequoia,1,2016,2016,1,1,estimada
+Toyota,Sienna,toyota|sienna,1,2016,2016,1,1,estimada
+Toyota,Sonstige,toyota|sonstige,1,2007,2026,16,3,sin_dato
+Toyota,Starlet,toyota|starlet,1,1990,1994,2,1,estimada
+Toyota,Starlet,toyota|starlet,2,1995,1998,3,1,estimada
+Toyota,Supra,toyota|supra,1,1990,1994,7,3,estimada
+Toyota,Supra,toyota|supra,7,2020,2024,16,3,estimada
+Toyota,Supra,toyota|supra,8,2025,2026,3,1,estimada
+Toyota,Tacoma,toyota|tacoma,1,2022,2025,2,1,estimada
+Toyota,Tundra,toyota|tundra,1,2009,2009,1,1,estimada
+Toyota,Tundra,toyota|tundra,4,2024,2025,2,1,estimada
+Toyota,Urban,toyota|urban,1,2009,2009,2,1,estimada
+Toyota,Urban,toyota|urban,4,2026,2026,1,1,estimada
+Toyota,Urban Cruiser,toyota|urban cruiser,1,2010,2010,1,1,estimada
+Toyota,Urban Cruiser,toyota|urban cruiser,2,2026,2026,21,1,estimada
+Toyota,Verso,toyota|verso,1,2002,2011,25,3,estimada
+Toyota,Verso,toyota|verso,2,2012,2016,37,3,estimada
+Toyota,Verso,toyota|verso,3,2017,2023,8,4,estimada
+Toyota,Verso-S,toyota|verso-s,1,2011,2016,16,2,estimada
+Toyota,Yaris,toyota|yaris,1,1994,2010,187,6,tabla
+Toyota,Yaris,toyota|yaris,2,2011,2013,65,3,tabla
+Toyota,Yaris,toyota|yaris,3,2014,2016,64,2,tabla
+Toyota,Yaris,toyota|yaris,4,2017,2019,95,2,tabla
+Toyota,Yaris,toyota|yaris,5,2020,2023,202,4,tabla
+Toyota,Yaris,toyota|yaris,6,2024,2026,240,3,tabla
+Toyota,Yaris Cross,toyota|yaris cross,1,2021,2023,66,2,tabla
+Toyota,Yaris Cross,toyota|yaris cross,2,2024,2026,195,2,tabla
+Volkswagen,,volkswagen|,1,2023,2026,6,3,estimada
+Volkswagen,Amarok,volkswagen|amarok,1,2013,2017,7,2,estimada
+Volkswagen,Amarok,volkswagen|amarok,2,2018,2021,5,2,estimada
+Volkswagen,Amarok,volkswagen|amarok,3,2023,2025,8,1,estimada
+Volkswagen,Andere,volkswagen|andere,1,1991,2026,75,7,sin_dato
+Volkswagen,Arteon,volkswagen|arteon,1,2017,2022,23,4,estimada
+Volkswagen,Arteon,volkswagen|arteon,2,2023,2026,18,3,estimada
+Volkswagen,Beetle,volkswagen|beetle,1,1998,1999,2,1,estimada
+Volkswagen,Beetle,volkswagen|beetle,2,2003,2007,2,1,estimada
+Volkswagen,Beetle,volkswagen|beetle,3,2010,2012,4,2,estimada
+Volkswagen,Beetle,volkswagen|beetle,4,2013,2017,21,3,estimada
+Volkswagen,Bora,volkswagen|bora,1,1999,2003,3,1,estimada
+Volkswagen,Caddy,volkswagen|caddy,1,2006,2013,27,3,estimada
+Volkswagen,Caddy,volkswagen|caddy,2,2014,2018,28,3,estimada
+Volkswagen,Caddy,volkswagen|caddy,3,2019,2023,41,3,estimada
+Volkswagen,Caddy,volkswagen|caddy,4,2024,2026,39,2,estimada
+Volkswagen,Caddy Maxi,volkswagen|caddy maxi,1,2008,2010,3,2,estimada
+Volkswagen,Caddy Maxi,volkswagen|caddy maxi,2,2014,2017,6,2,estimada
+Volkswagen,Caddy Maxi,volkswagen|caddy maxi,3,2018,2022,10,2,estimada
+Volkswagen,Caddy Maxi,volkswagen|caddy maxi,4,2023,2026,19,2,estimada
+Volkswagen,CC,volkswagen|cc,1,2015,2015,2,2,estimada
+Volkswagen,Coccinelle,volkswagen|coccinelle,1,2017,2017,1,1,estimada
+Volkswagen,Corrado,volkswagen|corrado,1,1992,1992,1,1,estimada
+Volkswagen,Crafter,volkswagen|crafter,1,2007,2011,12,2,estimada
+Volkswagen,Crafter,volkswagen|crafter,2,2012,2016,8,2,estimada
+Volkswagen,Crafter,volkswagen|crafter,3,2017,2021,22,3,estimada
+Volkswagen,Crafter,volkswagen|crafter,4,2022,2026,18,2,estimada
+Volkswagen,e-up!,volkswagen|e-up!,1,2021,2023,5,1,estimada
+Volkswagen,Eos,volkswagen|eos,1,2006,2008,10,4,estimada
+Volkswagen,Eos,volkswagen|eos,2,2011,2015,7,3,estimada
+Volkswagen,Fox,volkswagen|fox,1,2006,2009,7,2,estimada
+Volkswagen,Fox,volkswagen|fox,2,2011,2011,1,1,estimada
+Volkswagen,Fox,volkswagen|fox,4,2026,2026,1,,estimada
+Volkswagen,Golf,volkswagen|golf,1,1990,2007,135,8,tabla
+Volkswagen,Golf,volkswagen|golf,2,2008,2011,132,6,tabla
+Volkswagen,Golf,volkswagen|golf,3,2012,2016,174,5,tabla
+Volkswagen,Golf,volkswagen|golf,4,2017,2019,100,6,tabla
+Volkswagen,Golf,volkswagen|golf,5,2020,2023,192,6,tabla
+Volkswagen,Golf,volkswagen|golf,6,2024,2026,214,5,tabla
+Volkswagen,Golf Cabriolet,volkswagen|golf cabriolet,1,1990,1992,3,1,estimada
+Volkswagen,Golf Cabriolet,volkswagen|golf cabriolet,2,1998,1998,1,1,estimada
+Volkswagen,Golf Cabriolet,volkswagen|golf cabriolet,5,2012,2015,3,2,estimada
+Volkswagen,Golf GTD,volkswagen|golf gtd,1,2015,2015,1,,estimada
+Volkswagen,Golf GTD,volkswagen|golf gtd,2,2022,2024,2,1,estimada
+Volkswagen,Golf GTE,volkswagen|golf gte,1,2022,2026,4,2,estimada
+Volkswagen,Golf GTI,volkswagen|golf gti,1,2007,2013,3,1,estimada
+Volkswagen,Golf GTI,volkswagen|golf gti,2,2018,2018,1,1,estimada
+Volkswagen,Golf GTI,volkswagen|golf gti,3,2022,2023,3,2,estimada
+Volkswagen,Golf GTI,volkswagen|golf gti,4,2024,2026,9,2,estimada
+Volkswagen,Golf Plus,volkswagen|golf plus,1,2004,2009,28,4,estimada
+Volkswagen,Golf Plus,volkswagen|golf plus,2,2010,2013,14,3,estimada
+Volkswagen,Golf Plus,volkswagen|golf plus,3,2026,2026,1,,estimada
+Volkswagen,Golf R,volkswagen|golf r,1,2016,2016,1,1,estimada
+Volkswagen,Golf R,volkswagen|golf r,2,2026,2026,1,1,estimada
+Volkswagen,Golf Sportsvan,volkswagen|golf sportsvan,1,2001,2020,37,3,estimada
+Volkswagen,Golf Variant,volkswagen|golf variant,1,2007,2013,2,1,estimada
+Volkswagen,Golf Variant,volkswagen|golf variant,2,2015,2019,3,2,estimada
+Volkswagen,Golf Variant,volkswagen|golf variant,3,2020,2024,10,2,estimada
+Volkswagen,Golf Variant,volkswagen|golf variant,4,2025,2026,7,2,estimada
+Volkswagen,ID.,volkswagen|id.,1,2024,2026,2,1,estimada
+Volkswagen,ID. Buzz,volkswagen|id. buzz,1,2022,2026,26,2,estimada
+Volkswagen,ID. Polo,volkswagen|id. polo,1,2026,2026,2,1,estimada
+Volkswagen,ID.3,volkswagen|id.3,1,2020,2024,55,3,estimada
+Volkswagen,ID.3,volkswagen|id.3,2,2025,2026,19,3,estimada
+Volkswagen,ID.4,volkswagen|id.4,1,2021,2026,37,3,estimada
+Volkswagen,ID.5,volkswagen|id.5,1,2022,2026,16,3,estimada
+Volkswagen,ID.7,volkswagen|id.7,1,2024,2026,37,1,estimada
+Volkswagen,Jetta,volkswagen|jetta,1,1990,1993,3,3,estimada
+Volkswagen,Jetta,volkswagen|jetta,3,2001,2001,1,1,estimada
+Volkswagen,Jetta,volkswagen|jetta,4,2006,2009,6,2,estimada
+Volkswagen,LT,volkswagen|lt,1,1998,2002,2,2,estimada
+Volkswagen,LT,volkswagen|lt,2,2004,2007,2,1,estimada
+Volkswagen,Lupo,volkswagen|lupo,1,2000,2004,6,3,estimada
+Volkswagen,New Beetle,volkswagen|new beetle,1,2003,2007,7,1,estimada
+Volkswagen,New Beetle,volkswagen|new beetle,2,2008,2008,2,1,estimada
+Volkswagen,New Beetle,volkswagen|new beetle,3,2016,2016,1,1,estimada
+Volkswagen,Passat,volkswagen|passat,1,1997,2002,7,2,estimada
+Volkswagen,Passat,volkswagen|passat,2,2003,2006,7,3,estimada
+Volkswagen,Passat,volkswagen|passat,3,2008,2012,15,3,estimada
+Volkswagen,Passat,volkswagen|passat,4,2013,2017,16,4,estimada
+Volkswagen,Passat,volkswagen|passat,5,2018,2022,23,3,estimada
+Volkswagen,Passat,volkswagen|passat,6,2023,2026,30,4,estimada
+Volkswagen,Passat Alltrack,volkswagen|passat alltrack,1,2012,2013,4,1,estimada
+Volkswagen,Passat Alltrack,volkswagen|passat alltrack,2,2018,2019,2,1,estimada
+Volkswagen,Passat Alltrack,volkswagen|passat alltrack,3,2022,2023,3,1,estimada
+Volkswagen,Passat CC,volkswagen|passat cc,1,2008,2013,8,4,estimada
+Volkswagen,Passat Variant,volkswagen|passat variant,1,1997,2009,23,3,tabla
+Volkswagen,Passat Variant,volkswagen|passat variant,2,2010,2013,24,5,tabla
+Volkswagen,Passat Variant,volkswagen|passat variant,3,2014,2018,45,4,tabla
+Volkswagen,Passat Variant,volkswagen|passat variant,4,2019,2023,97,4,tabla
+Volkswagen,Passat Variant,volkswagen|passat variant,5,2024,2026,61,4,tabla
+Volkswagen,Phaeton,volkswagen|phaeton,1,2005,2005,1,1,estimada
+Volkswagen,Phaeton,volkswagen|phaeton,2,2010,2015,6,1,estimada
+Volkswagen,Polo,volkswagen|polo,1,1991,2004,22,3,tabla
+Volkswagen,Polo,volkswagen|polo,2,2005,2008,31,5,tabla
+Volkswagen,Polo,volkswagen|polo,3,2009,2013,52,5,tabla
+Volkswagen,Polo,volkswagen|polo,4,2014,2016,36,3,tabla
+Volkswagen,Polo,volkswagen|polo,5,2017,2020,46,4,tabla
+Volkswagen,Polo,volkswagen|polo,6,2021,2026,146,4,tabla
+Volkswagen,Polo GTI,volkswagen|polo gti,1,2023,2024,2,1,estimada
+Volkswagen,Scirocco,volkswagen|scirocco,1,1992,1993,2,1,estimada
+Volkswagen,Scirocco,volkswagen|scirocco,4,2008,2011,9,4,estimada
+Volkswagen,Scirocco,volkswagen|scirocco,5,2012,2013,4,2,estimada
+Volkswagen,Sharan,volkswagen|sharan,1,2003,2008,5,2,estimada
+Volkswagen,Sharan,volkswagen|sharan,2,2009,2013,15,3,estimada
+Volkswagen,Sharan,volkswagen|sharan,3,2014,2018,19,4,estimada
+Volkswagen,Sharan,volkswagen|sharan,4,2019,2022,5,1,estimada
+Volkswagen,Sonstige,volkswagen|sonstige,1,2022,2026,3,2,sin_dato
+Volkswagen,T-Cross,volkswagen|t-cross,1,2018,2023,64,4,estimada
+Volkswagen,T-Cross,volkswagen|t-cross,2,2024,2026,90,3,estimada
+Volkswagen,T-Roc,volkswagen|t-roc,1,2014,2021,72,4,tabla
+Volkswagen,T-Roc,volkswagen|t-roc,2,2022,2024,117,4,tabla
+Volkswagen,T-Roc,volkswagen|t-roc,3,2025,2026,109,4,tabla
+Volkswagen,T2,volkswagen|t2,1,2011,2011,1,1,estimada
+Volkswagen,T3 Multivan,volkswagen|t3 multivan,1,1990,1990,1,1,estimada
+Volkswagen,T4,volkswagen|t4,1,1996,2000,5,2,estimada
+Volkswagen,T4 andere,volkswagen|t4 andere,1,2001,2002,3,1,estimada
+Volkswagen,T4 California,volkswagen|t4 california,1,1995,1998,2,1,estimada
+Volkswagen,T4 Caravelle,volkswagen|t4 caravelle,1,1992,1996,3,2,estimada
+Volkswagen,T4 Caravelle,volkswagen|t4 caravelle,2,1999,2002,3,3,estimada
+Volkswagen,T4 Multivan,volkswagen|t4 multivan,1,1992,1996,9,3,estimada
+Volkswagen,T4 Multivan,volkswagen|t4 multivan,2,1997,2001,9,2,estimada
+Volkswagen,T4 Multivan,volkswagen|t4 multivan,3,2002,2003,4,3,estimada
+Volkswagen,T4 Multivan,volkswagen|t4 multivan,5,2021,2021,1,1,estimada
+Volkswagen,T5,volkswagen|t5,1,2006,2010,8,4,estimada
+Volkswagen,T5,volkswagen|t5,2,2011,2014,6,3,estimada
+Volkswagen,T5 andere,volkswagen|t5 andere,1,2009,2009,1,1,estimada
+Volkswagen,T5 California,volkswagen|t5 california,1,2009,2015,5,2,estimada
+Volkswagen,T5 Caravelle,volkswagen|t5 caravelle,1,2006,2010,4,2,estimada
+Volkswagen,T5 Caravelle,volkswagen|t5 caravelle,2,2014,2014,1,1,estimada
+Volkswagen,T5 Kombi,volkswagen|t5 kombi,1,2006,2011,2,2,estimada
+Volkswagen,T5 Multivan,volkswagen|t5 multivan,1,2003,2008,16,2,estimada
+Volkswagen,T5 Multivan,volkswagen|t5 multivan,2,2009,2013,13,4,estimada
+Volkswagen,T5 Multivan,volkswagen|t5 multivan,3,2014,2015,7,2,estimada
+Volkswagen,T5 Shuttle,volkswagen|t5 shuttle,1,2004,2004,1,1,estimada
+Volkswagen,T5 Transporter,volkswagen|t5 transporter,1,2003,2007,8,3,estimada
+Volkswagen,T5 Transporter,volkswagen|t5 transporter,2,2008,2012,10,4,estimada
+Volkswagen,T5 Transporter,volkswagen|t5 transporter,3,2013,2015,9,4,estimada
+Volkswagen,T5 Transporter,volkswagen|t5 transporter,4,2026,2026,1,1,estimada
+Volkswagen,T6,volkswagen|t6,1,2016,2018,3,2,estimada
+Volkswagen,T6,volkswagen|t6,2,2021,2024,3,2,estimada
+Volkswagen,T6 andere,volkswagen|t6 andere,1,2016,2021,2,1,estimada
+Volkswagen,T6 California,volkswagen|t6 california,1,2017,2019,6,1,estimada
+Volkswagen,T6 California,volkswagen|t6 california,2,2022,2024,6,2,estimada
+Volkswagen,T6 Caravelle,volkswagen|t6 caravelle,1,2016,2018,3,2,estimada
+Volkswagen,T6 Caravelle,volkswagen|t6 caravelle,2,2021,2024,5,3,estimada
+Volkswagen,T6 Kombi,volkswagen|t6 kombi,1,2015,2020,6,2,estimada
+Volkswagen,T6 Kombi,volkswagen|t6 kombi,2,2021,2024,5,2,estimada
+Volkswagen,T6 Multivan,volkswagen|t6 multivan,1,2015,2019,26,2,estimada
+Volkswagen,T6 Multivan,volkswagen|t6 multivan,2,2020,2023,13,2,estimada
+Volkswagen,T6 Transporter,volkswagen|t6 transporter,1,2015,2019,28,4,estimada
+Volkswagen,T6 Transporter,volkswagen|t6 transporter,2,2020,2024,18,2,estimada
+Volkswagen,T6.1 California,volkswagen|t6.1 california,1,2021,2024,4,1,estimada
+Volkswagen,T6.1 Caravelle,volkswagen|t6.1 caravelle,1,2022,2023,3,3,estimada
+Volkswagen,T6.1 Kombi,volkswagen|t6.1 kombi,1,2020,2020,1,1,estimada
+Volkswagen,T6.1 Multivan,volkswagen|t6.1 multivan,1,2020,2023,4,1,estimada
+Volkswagen,T6.1 Transporter,volkswagen|t6.1 transporter,1,2021,2023,4,3,estimada
+Volkswagen,T7,volkswagen|t7,1,2025,2025,2,1,estimada
+Volkswagen,T7 California,volkswagen|t7 california,1,2025,2026,10,2,estimada
+Volkswagen,T7 Caravelle,volkswagen|t7 caravelle,1,2025,2026,7,2,estimada
+Volkswagen,T7 Kombi,volkswagen|t7 kombi,1,2025,2025,1,1,estimada
+Volkswagen,T7 Multivan,volkswagen|t7 multivan,1,2022,2026,67,3,estimada
+Volkswagen,T7 Transporter,volkswagen|t7 transporter,1,2025,2026,8,2,estimada
+Volkswagen,Taigo,volkswagen|taigo,1,2021,2026,131,3,estimada
+Volkswagen,Tayron,volkswagen|tayron,1,2025,2026,64,3,estimada
+Volkswagen,Tiguan,volkswagen|tiguan,1,2008,2010,20,3,tabla
+Volkswagen,Tiguan,volkswagen|tiguan,2,2011,2015,39,4,tabla
+Volkswagen,Tiguan,volkswagen|tiguan,3,2016,2020,90,4,tabla
+Volkswagen,Tiguan,volkswagen|tiguan,4,2021,2023,82,5,tabla
+Volkswagen,Tiguan,volkswagen|tiguan,5,2024,2026,133,4,tabla
+Volkswagen,Tiguan Allspace,volkswagen|tiguan allspace,1,2018,2022,34,3,estimada
+Volkswagen,Tiguan Allspace,volkswagen|tiguan allspace,2,2023,2025,30,3,estimada
+Volkswagen,Touareg,volkswagen|touareg,1,2004,2008,10,2,estimada
+Volkswagen,Touareg,volkswagen|touareg,2,2009,2013,12,2,estimada
+Volkswagen,Touareg,volkswagen|touareg,3,2014,2018,15,3,estimada
+Volkswagen,Touareg,volkswagen|touareg,4,2019,2023,22,3,estimada
+Volkswagen,Touareg,volkswagen|touareg,5,2024,2026,24,3,estimada
+Volkswagen,Touran,volkswagen|touran,1,2004,2010,37,4,estimada
+Volkswagen,Touran,volkswagen|touran,2,2011,2015,42,3,estimada
+Volkswagen,Touran,volkswagen|touran,3,2016,2020,40,2,estimada
+Volkswagen,Touran,volkswagen|touran,4,2021,2025,60,2,estimada
+Volkswagen,Touran,volkswagen|touran,5,2026,2026,18,1,estimada
+Volkswagen,up!,volkswagen|up!,1,2012,2016,16,1,estimada
+Volkswagen,up!,volkswagen|up!,2,2017,2021,32,3,estimada
+Volkswagen,up!,volkswagen|up!,3,2022,2023,13,3,estimada
+Volvo,245,volvo|245,1,1990,1990,1,1,estimada
+Volvo,745,volvo|745,1,1992,1992,1,,estimada
+Volvo,850,volvo|850,1,1994,1995,3,2,estimada
+Volvo,940,volvo|940,1,1991,1996,2,1,estimada
+Volvo,960,volvo|960,1,1997,1997,1,1,estimada
+Volvo,C30,volvo|c30,1,2007,2009,3,2,estimada
+Volvo,C40,volvo|c40,1,2022,2024,11,2,estimada
+Volvo,C70,volvo|c70,1,2008,2009,2,1,estimada
+Volvo,EC40,volvo|ec40,1,2026,2026,1,1,estimada
+Volvo,ES90,volvo|es90,1,2026,2026,2,1,estimada
+Volvo,EX30,volvo|ex30,1,2024,2026,26,2,estimada
+Volvo,EX40,volvo|ex40,1,2025,2026,5,2,estimada
+Volvo,EX60,volvo|ex60,1,2026,2026,1,1,estimada
+Volvo,EX90,volvo|ex90,1,2025,2026,8,2,estimada
+Volvo,S40,volvo|s40,1,2007,2009,3,2,estimada
+Volvo,S60,volvo|s60,1,2000,2001,3,2,estimada
+Volvo,S60,volvo|s60,2,2009,2009,1,1,estimada
+Volvo,S60,volvo|s60,3,2012,2014,3,1,estimada
+Volvo,S60,volvo|s60,4,2018,2018,1,1,estimada
+Volvo,S60,volvo|s60,5,2021,2024,11,3,estimada
+Volvo,S80,volvo|s80,1,2012,2014,2,1,estimada
+Volvo,S90,volvo|s90,1,2021,2024,4,2,estimada
+Volvo,Sonstige,volvo|sonstige,1,2022,2022,1,1,sin_dato
+Volvo,V40,volvo|v40,1,2001,2003,2,1,estimada
+Volvo,V40,volvo|v40,3,2012,2015,10,2,estimada
+Volvo,V40,volvo|v40,4,2016,2019,5,2,estimada
+Volvo,V40 Cross Country,volvo|v40 cross country,1,2014,2018,5,2,estimada
+Volvo,V50,volvo|v50,1,2004,2008,5,1,estimada
+Volvo,V50,volvo|v50,2,2009,2011,4,2,estimada
+Volvo,V60,volvo|v60,1,2011,2015,17,3,estimada
+Volvo,V60,volvo|v60,2,2016,2020,17,5,estimada
+Volvo,V60,volvo|v60,3,2021,2025,67,5,estimada
+Volvo,V60,volvo|v60,4,2026,2026,5,2,estimada
+Volvo,V60 Cross Country,volvo|v60 cross country,1,2017,2019,3,1,estimada
+Volvo,V60 Cross Country,volvo|v60 cross country,2,2023,2024,10,1,estimada
+Volvo,V70,volvo|v70,1,1997,2001,3,1,estimada
+Volvo,V70,volvo|v70,2,2006,2006,1,1,estimada
+Volvo,V70,volvo|v70,3,2008,2011,7,4,estimada
+Volvo,V70,volvo|v70,4,2013,2013,1,,estimada
+Volvo,V90,volvo|v90,1,2016,2020,13,5,estimada
+Volvo,V90,volvo|v90,2,2021,2025,20,3,estimada
+Volvo,V90 Cross Country,volvo|v90 cross country,1,2017,2023,7,2,estimada
+Volvo,XC40,volvo|xc40,1,2018,2022,54,5,estimada
+Volvo,XC40,volvo|xc40,2,2023,2026,101,5,estimada
+Volvo,XC60,volvo|xc60,1,2008,2012,4,1,tabla
+Volvo,XC60,volvo|xc60,2,2014,2016,6,2,tabla
+Volvo,XC60,volvo|xc60,3,2017,2021,44,5,tabla
+Volvo,XC60,volvo|xc60,4,2022,2026,175,4,tabla
+Volvo,XC70,volvo|xc70,1,2007,2008,2,2,estimada
+Volvo,XC70,volvo|xc70,2,2013,2014,2,2,estimada
+Volvo,XC90,volvo|xc90,1,2005,2017,13,4,estimada
+Volvo,XC90,volvo|xc90,2,2018,2022,22,4,estimada
+Volvo,XC90,volvo|xc90,3,2023,2026,79,4,estimada
